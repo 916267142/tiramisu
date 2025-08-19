@@ -47,3 +47,5 @@ __pycache__
 tiramisu-input.tar.gz
 tiramisu-data.tar.gz
 .projects/
+*log-*
+*.log

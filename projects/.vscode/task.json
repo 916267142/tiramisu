@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Batfish Maven Rebuild",
+            "type": "shell",
+            "command": "mvn -DskipTests clean install -Dfile=$GUROBI_JAR",
+            "options": {
+                "cwd": "${workspaceFolder}/projects"
+            },
+            "problemMatcher": ["$maven"]
+        }
+    ]
+}

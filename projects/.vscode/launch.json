@@ -1,0 +1,72 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "org.batfish.allinone.Main",
+            "projectName": "allinone",
+            "args": "-cmdfile /home/simple/workspace/tiramisu/tiramisu-input/bics/bgp/verify/verify -logfile /home/simple/workspace/tiramisu/tiramisu-input/bics/bgp/verify/log"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "org.batfish.client.Main",
+            "projectName": "batfish-client"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "org.batfish.main.Driver",
+            "projectName": "batfish"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "org.batfish.multigraph.Test",
+            "projectName": "batfish"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "org.batfish.multigraph.Test1",
+            "projectName": "batfish"
+        },
+        {
+            "type": "java",
+            "name": "Test3",
+            "request": "launch",
+            "mainClass": "org.batfish.multigraph.Test3",
+            "projectName": "batfish"
+        },
+        {
+            "type": "java",
+            "name": "Test4",
+            "request": "launch",
+            "mainClass": "org.batfish.multigraph.Test4",
+            "projectName": "batfish"
+        },
+        {
+            "type": "java",
+            "name": "Test5",
+            "request": "launch",
+            "mainClass": "org.batfish.multigraph.Test5",
+            "projectName": "batfish"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "org.batfish.coordinator.Main",
+            "projectName": "coordinator"
+        }
+    ]
+}

@@ -86,6 +86,7 @@ public class VerificationTpg implements Runnable {
         	//System.out.println(src + "\t" + dst + "\t" + alwaysBlocked());
         	alwaysBlocked();
         } else if (policy == policyName.FAIL) {
+			System.out.print("test failure");
         	fail();
         } else if (policy == policyName.EQUAL) {
         	equalLength();
