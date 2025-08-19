@@ -42,3 +42,10 @@ coverage*
 # Ignore python cache files
 __pycache__
 .pytest_cache/
+
+containers/*
+tiramisu-input/
+tiramisu-data/
+tiramisu-input.tar.gz
+tiramisu-data.tar.gz
+.projects/
