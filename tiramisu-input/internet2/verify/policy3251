@@ -1,0 +1,1 @@
+smt-reachability srcIps=["198.32.8.238"], dstIps=["198.71.46.204"], ingressNodeRegex=clev-re1,finalNodeRegex=losa-re1

@@ -1,0 +1,1238 @@
+[RESET]  2022-07-16 20:23:36 : === reset path ===
+[INFO]   2022-07-16 20:23:37 : http://127.0.0.1:8192/init_minesweeper,read configs
+[INFO]   2022-07-16 20:23:37 : http://127.0.0.1:8192/get_dataplane,
+[INFO]   2022-07-16 20:23:38 : http://127.0.0.1:8192/get_topology,
+[INFO]   2022-07-16 20:23:38 : Number of interface entries: 194
+[INFO]   2022-07-16 20:23:38 : Number of acl entries: 0
+[INFO]   2022-07-16 20:23:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-16 20:23:38 : dataplane : fibs-0 rule size: 3095
+[RESET]  2022-07-16 20:24:00 : === reset path ===
+[INFO]   2022-07-16 20:24:01 : http://127.0.0.1:8192/init_minesweeper,read configs
+[INFO]   2022-07-16 20:24:01 : http://127.0.0.1:8192/get_dataplane,
+[INFO]   2022-07-16 20:24:01 : http://127.0.0.1:8192/get_topology,
+[INFO]   2022-07-16 20:24:01 : Number of interface entries: 194
+[INFO]   2022-07-16 20:24:01 : Number of acl entries: 0
+[INFO]   2022-07-16 20:24:01 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-16 20:24:02 : dataplane : fibs-0 rule size: 3095
+[RESET]  2022-07-18 15:15:30 : === reset path ===
+[ERROR]   2022-07-18 15:15:31 : connect error!
+
+[RESET]  2022-07-18 15:15:46 : === reset path ===
+[INFO]   2022-07-18 15:15:47 : http://127.0.0.1:8192/init_minesweeper,read configs
+[INFO]   2022-07-18 15:15:52 : http://127.0.0.1:8192/get_dataplane,
+[INFO]   2022-07-18 15:15:53 : http://127.0.0.1:8192/get_topology,
+[INFO]   2022-07-18 15:15:53 : Number of interface entries: 194
+[INFO]   2022-07-18 15:15:53 : waypoint size : 49
+[INFO]   2022-07-18 15:15:53 : waypoint picked : zagreb-default warsaw-default vaduz-default stockholm-default rotterdam-default roma-default peerstrasbourg_15-default kiev-default istanbul-default peerbasel_2-default geneva-default peergeneva_9-default peerbasel_3-default frankfurt-default athens-default peeramsterdam_0-default peerbrussels_5-default london-default budapest-default lisbon-default zurich-default amsterdam-default sofia-default bucharest-default barcelona-default basel-default bratislava-default luxembourg-default marseille-default strasbourg-default milan-default lyon-default brussels-default madrid-default paris-default peerbarcelona_1-default peerbrussels_4-default peerbrussels_6-default peergeneva_8-default peeristanbul_10-default praha-default dublin-default peerkiev_11-default vienna-default peermilan_14-default peermarseille_12-default peerfrankfurt_7-default ljubjana-default peermarseille_13-default 
+[INFO]   2022-07-18 15:15:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-18 15:15:53 : dataplane : fibs-0 rule size: 3095
+[RESET]  2022-07-18 15:16:44 : === reset path ===
+[INFO]   2022-07-18 15:16:45 : http://127.0.0.1:8192/init_minesweeper,read configs
+[INFO]   2022-07-18 15:16:46 : http://127.0.0.1:8192/get_dataplane,
+[INFO]   2022-07-18 15:16:46 : http://127.0.0.1:8192/get_topology,
+[INFO]   2022-07-18 15:16:46 : Number of interface entries: 194
+[INFO]   2022-07-18 15:16:46 : Number of acl entries: 0
+[INFO]   2022-07-18 15:16:46 : waypoint size : 49
+[INFO]   2022-07-18 15:16:46 : waypoint picked : zagreb-default warsaw-default vaduz-default stockholm-default rotterdam-default roma-default peerstrasbourg_15-default kiev-default istanbul-default peerbasel_2-default geneva-default peergeneva_9-default peerbasel_3-default frankfurt-default athens-default peeramsterdam_0-default peerbrussels_5-default london-default budapest-default lisbon-default zurich-default amsterdam-default sofia-default bucharest-default barcelona-default basel-default bratislava-default luxembourg-default marseille-default strasbourg-default milan-default lyon-default brussels-default madrid-default paris-default peerbarcelona_1-default peerbrussels_4-default peerbrussels_6-default peergeneva_8-default peeristanbul_10-default praha-default dublin-default peerkiev_11-default vienna-default peermilan_14-default peermarseille_12-default peerfrankfurt_7-default ljubjana-default peermarseille_13-default 
+[INFO]   2022-07-18 15:16:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-18 15:16:47 : dataplane : fibs-0 rule size: 3095
+[RESET]  2022-07-18 15:17:07 : === reset path ===
+[INFO]   2022-07-18 15:17:08 : http://127.0.0.1:8192/init_minesweeper,read configs
+[INFO]   2022-07-18 15:17:09 : http://127.0.0.1:8192/get_dataplane,
+[INFO]   2022-07-18 15:17:10 : http://127.0.0.1:8192/get_topology,
+[INFO]   2022-07-18 15:17:10 : Number of interface entries: 194
+[INFO]   2022-07-18 15:17:10 : Number of acl entries: 0
+[INFO]   2022-07-18 15:17:10 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-18 15:17:10 : dataplane : fibs-0 rule size: 3095
+[RESET]  2022-07-18 15:17:17 : === reset path ===
+[INFO]   2022-07-18 15:17:18 : http://127.0.0.1:8192/init_minesweeper,read configs
+[INFO]   2022-07-18 15:17:29 : http://127.0.0.1:8192/get_dataplane,
+[INFO]   2022-07-18 15:17:29 : http://127.0.0.1:8192/get_topology,
+[INFO]   2022-07-18 15:17:30 : Number of interface entries: 194
+[INFO]   2022-07-18 15:17:30 : Number of acl entries: 0
+[INFO]   2022-07-18 15:17:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-18 15:17:30 : dataplane : fibs-0 rule size: 3095
+[RESET]  2022-07-18 15:27:06 : === reset path ===
+[INFO]   2022-07-18 15:27:07 : http://127.0.0.1:8192/init_minesweeper,read configs
+[INFO]   2022-07-18 15:27:08 : http://127.0.0.1:8192/get_dataplane,
+[INFO]   2022-07-18 15:27:08 : http://127.0.0.1:8192/get_topology,
+[INFO]   2022-07-18 15:27:08 : Number of interface entries: 194
+[INFO]   2022-07-18 15:27:08 : Number of acl entries: 0
+[INFO]   2022-07-18 15:27:08 : waypoint size : 49
+[INFO]   2022-07-18 15:27:08 : waypoint picked : zagreb-default warsaw-default vaduz-default stockholm-default rotterdam-default roma-default peerstrasbourg_15-default kiev-default istanbul-default peerbasel_2-default geneva-default peergeneva_9-default peerbasel_3-default frankfurt-default athens-default peeramsterdam_0-default peerbrussels_5-default london-default budapest-default lisbon-default zurich-default amsterdam-default sofia-default bucharest-default barcelona-default basel-default bratislava-default luxembourg-default marseille-default strasbourg-default milan-default lyon-default brussels-default madrid-default paris-default peerbarcelona_1-default peerbrussels_4-default peerbrussels_6-default peergeneva_8-default peeristanbul_10-default praha-default dublin-default peerkiev_11-default vienna-default peermilan_14-default peermarseille_12-default peerfrankfurt_7-default ljubjana-default peermarseille_13-default 
+[INFO]   2022-07-18 15:27:08 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-18 15:27:08 : dataplane : fibs-0 rule size: 3095
+[RESET]  2022-07-18 15:27:27 : === reset path ===
+[INFO]   2022-07-18 15:27:28 : http://127.0.0.1:8192/init_minesweeper,read configs
+[INFO]   2022-07-18 15:27:29 : http://127.0.0.1:8192/get_dataplane,
+[INFO]   2022-07-18 15:27:29 : http://127.0.0.1:8192/get_topology,
+[INFO]   2022-07-18 15:27:29 : Number of interface entries: 194
+[INFO]   2022-07-18 15:27:29 : Number of acl entries: 0
+[INFO]   2022-07-18 15:27:29 : waypoint size : 49
+[INFO]   2022-07-18 15:27:29 : waypoint picked : zagreb-default warsaw-default vaduz-default stockholm-default rotterdam-default roma-default peerstrasbourg_15-default kiev-default istanbul-default peerbasel_2-default geneva-default peergeneva_9-default peerbasel_3-default frankfurt-default athens-default peeramsterdam_0-default peerbrussels_5-default london-default budapest-default lisbon-default zurich-default amsterdam-default sofia-default bucharest-default barcelona-default basel-default bratislava-default luxembourg-default marseille-default strasbourg-default milan-default lyon-default brussels-default madrid-default paris-default peerbarcelona_1-default peerbrussels_4-default peerbrussels_6-default peergeneva_8-default peeristanbul_10-default praha-default dublin-default peerkiev_11-default vienna-default peermilan_14-default peermarseille_12-default peerfrankfurt_7-default ljubjana-default peermarseille_13-default 
+[INFO]   2022-07-18 15:27:29 : preprocess - mf1 dataplane number: 64
+[INFO]   2022-07-18 15:27:29 : preprocess - mf2 dataplane number: 2016
+[INFO]   2022-07-18 15:27:29 : set threshold - mf1
+[INFO]   2022-07-18 15:27:29 : filter - mf0 dataplane number: 1
+[INFO]   2022-07-18 15:27:29 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-18 15:27:30 : dataplane : fibs-0 rule size: 3095
+[INFO]   2022-07-18 15:27:30 : filter - mf1 dataplane number: 64
+[INFO]   2022-07-18 15:27:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels
+[INFO]   2022-07-18 15:27:30 : dataplane : fibs-1 rule size: 176
+[INFO]   2022-07-18 15:27:31 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt
+[INFO]   2022-07-18 15:27:31 : dataplane : fibs-2 rule size: 441
+[INFO]   2022-07-18 15:27:32 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london
+[INFO]   2022-07-18 15:27:32 : dataplane : fibs-3 rule size: 348
+[INFO]   2022-07-18 15:27:32 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=peeramsterdam_0
+[INFO]   2022-07-18 15:27:33 : dataplane : fibs-4 rule size: 337
+[INFO]   2022-07-18 15:27:33 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=rotterdam
+[INFO]   2022-07-18 15:27:33 : dataplane : fibs-5 rule size: 229
+[INFO]   2022-07-18 15:27:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:athens=istanbul
+[INFO]   2022-07-18 15:27:34 : dataplane : fibs-6 rule size: 209
+[INFO]   2022-07-18 15:27:35 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:athens=sofia
+[INFO]   2022-07-18 15:27:35 : dataplane : fibs-7 rule size: 142
+[INFO]   2022-07-18 15:27:36 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=madrid
+[INFO]   2022-07-18 15:27:36 : dataplane : fibs-8 rule size: 198
+[INFO]   2022-07-18 15:27:37 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=marseille
+[INFO]   2022-07-18 15:27:37 : dataplane : fibs-9 rule size: 202
+[INFO]   2022-07-18 15:27:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=peerbarcelona_1
+[INFO]   2022-07-18 15:27:38 : dataplane : fibs-10 rule size: 310
+[INFO]   2022-07-18 15:27:39 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva
+[INFO]   2022-07-18 15:27:39 : dataplane : fibs-11 rule size: 334
+[INFO]   2022-07-18 15:27:40 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=peerbasel_2
+[INFO]   2022-07-18 15:27:40 : dataplane : fibs-12 rule size: 303
+[INFO]   2022-07-18 15:27:41 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=peerbasel_3
+[INFO]   2022-07-18 15:27:41 : dataplane : fibs-13 rule size: 310
+[INFO]   2022-07-18 15:27:42 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg
+[INFO]   2022-07-18 15:27:42 : dataplane : fibs-14 rule size: 328
+[INFO]   2022-07-18 15:27:43 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=budapest
+[INFO]   2022-07-18 15:27:44 : dataplane : fibs-15 rule size: 441
+[INFO]   2022-07-18 15:27:44 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha
+[INFO]   2022-07-18 15:27:45 : dataplane : fibs-16 rule size: 382
+[INFO]   2022-07-18 15:27:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna
+[INFO]   2022-07-18 15:27:46 : dataplane : fibs-17 rule size: 304
+[INFO]   2022-07-18 15:27:47 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt
+[INFO]   2022-07-18 15:27:47 : dataplane : fibs-18 rule size: 491
+[INFO]   2022-07-18 15:27:48 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london
+[INFO]   2022-07-18 15:27:48 : dataplane : fibs-19 rule size: 347
+[INFO]   2022-07-18 15:27:49 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=luxembourg
+[INFO]   2022-07-18 15:27:49 : dataplane : fibs-20 rule size: 261
+[INFO]   2022-07-18 15:27:49 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris
+[INFO]   2022-07-18 15:27:50 : dataplane : fibs-21 rule size: 409
+[INFO]   2022-07-18 15:27:50 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=peerbrussels_4
+[INFO]   2022-07-18 15:27:51 : dataplane : fibs-22 rule size: 463
+[INFO]   2022-07-18 15:27:51 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=peerbrussels_5
+[INFO]   2022-07-18 15:27:51 : dataplane : fibs-23 rule size: 306
+[INFO]   2022-07-18 15:27:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=peerbrussels_6
+[INFO]   2022-07-18 15:27:52 : dataplane : fibs-24 rule size: 306
+[INFO]   2022-07-18 15:27:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=rotterdam
+[INFO]   2022-07-18 15:27:53 : dataplane : fibs-25 rule size: 203
+[INFO]   2022-07-18 15:27:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bucharest=budapest
+[INFO]   2022-07-18 15:27:54 : dataplane : fibs-26 rule size: 364
+[INFO]   2022-07-18 15:27:54 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bucharest=istanbul
+[INFO]   2022-07-18 15:27:54 : dataplane : fibs-27 rule size: 298
+[INFO]   2022-07-18 15:27:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bucharest=kiev
+[INFO]   2022-07-18 15:27:55 : dataplane : fibs-28 rule size: 262
+[INFO]   2022-07-18 15:27:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:budapest=sofia
+[INFO]   2022-07-18 15:27:56 : dataplane : fibs-29 rule size: 420
+[INFO]   2022-07-18 15:27:56 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:budapest=zagreb
+[INFO]   2022-07-18 15:27:56 : dataplane : fibs-30 rule size: 426
+[INFO]   2022-07-18 15:27:57 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:dublin=london
+[INFO]   2022-07-18 15:27:57 : dataplane : fibs-31 rule size: 323
+[INFO]   2022-07-18 15:27:57 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=peerfrankfurt_7
+[INFO]   2022-07-18 15:27:58 : dataplane : fibs-32 rule size: 264
+[INFO]   2022-07-18 15:27:58 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha
+[INFO]   2022-07-18 15:27:58 : dataplane : fibs-33 rule size: 335
+[INFO]   2022-07-18 15:27:59 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=stockholm
+[INFO]   2022-07-18 15:27:59 : dataplane : fibs-34 rule size: 290
+[INFO]   2022-07-18 15:28:00 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:00 : dataplane : fibs-35 rule size: 308
+[INFO]   2022-07-18 15:28:00 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna
+[INFO]   2022-07-18 15:28:01 : dataplane : fibs-36 rule size: 384
+[INFO]   2022-07-18 15:28:01 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=warsaw
+[INFO]   2022-07-18 15:28:01 : dataplane : fibs-37 rule size: 467
+[INFO]   2022-07-18 15:28:02 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich
+[INFO]   2022-07-18 15:28:02 : dataplane : fibs-38 rule size: 631
+[INFO]   2022-07-18 15:28:03 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon
+[INFO]   2022-07-18 15:28:03 : dataplane : fibs-39 rule size: 417
+[INFO]   2022-07-18 15:28:03 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris
+[INFO]   2022-07-18 15:28:03 : dataplane : fibs-40 rule size: 307
+[INFO]   2022-07-18 15:28:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=peergeneva_8
+[INFO]   2022-07-18 15:28:04 : dataplane : fibs-41 rule size: 357
+[INFO]   2022-07-18 15:28:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=peergeneva_9
+[INFO]   2022-07-18 15:28:05 : dataplane : fibs-42 rule size: 305
+[INFO]   2022-07-18 15:28:05 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich
+[INFO]   2022-07-18 15:28:05 : dataplane : fibs-43 rule size: 402
+[INFO]   2022-07-18 15:28:06 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:istanbul=peeristanbul_10
+[INFO]   2022-07-18 15:28:06 : dataplane : fibs-44 rule size: 460
+[INFO]   2022-07-18 15:28:06 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:kiev=peerkiev_11
+[INFO]   2022-07-18 15:28:07 : dataplane : fibs-45 rule size: 357
+[INFO]   2022-07-18 15:28:07 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:kiev=warsaw
+[INFO]   2022-07-18 15:28:07 : dataplane : fibs-46 rule size: 489
+[INFO]   2022-07-18 15:28:08 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lisbon=london
+[INFO]   2022-07-18 15:28:08 : dataplane : fibs-47 rule size: 463
+[INFO]   2022-07-18 15:28:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:ljubjana=zagreb
+[INFO]   2022-07-18 15:28:09 : dataplane : fibs-48 rule size: 219
+[INFO]   2022-07-18 15:28:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:london=paris
+[INFO]   2022-07-18 15:28:09 : dataplane : fibs-49 rule size: 269
+[INFO]   2022-07-18 15:28:10 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:luxembourg=strasbourg
+[INFO]   2022-07-18 15:28:10 : dataplane : fibs-50 rule size: 184
+[INFO]   2022-07-18 15:28:11 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille
+[INFO]   2022-07-18 15:28:11 : dataplane : fibs-51 rule size: 213
+[INFO]   2022-07-18 15:28:11 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=paris
+[INFO]   2022-07-18 15:28:12 : dataplane : fibs-52 rule size: 167
+[INFO]   2022-07-18 15:28:12 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:madrid=paris
+[INFO]   2022-07-18 15:28:12 : dataplane : fibs-53 rule size: 332
+[INFO]   2022-07-18 15:28:13 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:marseille=milan
+[INFO]   2022-07-18 15:28:13 : dataplane : fibs-54 rule size: 537
+[INFO]   2022-07-18 15:28:13 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:marseille=peermarseille_12
+[INFO]   2022-07-18 15:28:14 : dataplane : fibs-55 rule size: 515
+[INFO]   2022-07-18 15:28:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:marseille=peermarseille_13
+[INFO]   2022-07-18 15:28:14 : dataplane : fibs-56 rule size: 310
+[INFO]   2022-07-18 15:28:15 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=peermilan_14
+[INFO]   2022-07-18 15:28:15 : dataplane : fibs-57 rule size: 422
+[INFO]   2022-07-18 15:28:15 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=roma
+[INFO]   2022-07-18 15:28:16 : dataplane : fibs-58 rule size: 215
+[INFO]   2022-07-18 15:28:16 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=vienna
+[INFO]   2022-07-18 15:28:16 : dataplane : fibs-59 rule size: 294
+[INFO]   2022-07-18 15:28:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=zurich
+[INFO]   2022-07-18 15:28:17 : dataplane : fibs-60 rule size: 386
+[INFO]   2022-07-18 15:28:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:peerstrasbourg_15=strasbourg
+[INFO]   2022-07-18 15:28:18 : dataplane : fibs-61 rule size: 306
+[INFO]   2022-07-18 15:28:18 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:praha=warsaw
+[INFO]   2022-07-18 15:28:18 : dataplane : fibs-62 rule size: 184
+[INFO]   2022-07-18 15:28:19 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:roma=zurich
+[INFO]   2022-07-18 15:28:19 : dataplane : fibs-63 rule size: 124
+[INFO]   2022-07-18 15:28:19 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:vaduz=zurich
+[INFO]   2022-07-18 15:28:20 : dataplane : fibs-64 rule size: 208
+[INFO]   2022-07-18 15:28:20 : update time : 50.678038 s
+[INFO]   2022-07-18 15:28:20 : unverified policies : 424
+[INFO]   2022-07-18 15:28:20 : verify - mf0 1
+[INFO]   2022-07-18 15:28:20 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-18 15:28:21 : dataplane : fibs-65 rule size: 112
+[INFO]   2022-07-18 15:28:21 : verify - mf1 26
+[INFO]   2022-07-18 15:28:21 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels
+[INFO]   2022-07-18 15:28:21 : dataplane : fibs-66 rule size: 176
+[INFO]   2022-07-18 15:28:21 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt
+[INFO]   2022-07-18 15:28:21 : dataplane : fibs-67 rule size: 441
+[INFO]   2022-07-18 15:28:21 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london
+[INFO]   2022-07-18 15:28:22 : dataplane : fibs-68 rule size: 348
+[INFO]   2022-07-18 15:28:22 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva
+[INFO]   2022-07-18 15:28:22 : dataplane : fibs-69 rule size: 313
+[INFO]   2022-07-18 15:28:22 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg
+[INFO]   2022-07-18 15:28:22 : dataplane : fibs-70 rule size: 283
+[INFO]   2022-07-18 15:28:22 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha
+[INFO]   2022-07-18 15:28:22 : dataplane : fibs-71 rule size: 283
+[INFO]   2022-07-18 15:28:22 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna
+[INFO]   2022-07-18 15:28:23 : dataplane : fibs-72 rule size: 304
+[INFO]   2022-07-18 15:28:23 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt
+[INFO]   2022-07-18 15:28:23 : dataplane : fibs-73 rule size: 491
+[INFO]   2022-07-18 15:28:23 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london
+[INFO]   2022-07-18 15:28:23 : dataplane : fibs-74 rule size: 347
+[INFO]   2022-07-18 15:28:23 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris
+[INFO]   2022-07-18 15:28:23 : dataplane : fibs-75 rule size: 332
+[INFO]   2022-07-18 15:28:23 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bucharest=budapest
+[INFO]   2022-07-18 15:28:24 : dataplane : fibs-76 rule size: 448
+[INFO]   2022-07-18 15:28:24 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha
+[INFO]   2022-07-18 15:28:24 : dataplane : fibs-77 rule size: 334
+[INFO]   2022-07-18 15:28:24 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:24 : dataplane : fibs-78 rule size: 382
+[INFO]   2022-07-18 15:28:24 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna
+[INFO]   2022-07-18 15:28:24 : dataplane : fibs-79 rule size: 384
+[INFO]   2022-07-18 15:28:24 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=warsaw
+[INFO]   2022-07-18 15:28:25 : dataplane : fibs-80 rule size: 467
+[INFO]   2022-07-18 15:28:25 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich
+[INFO]   2022-07-18 15:28:25 : dataplane : fibs-81 rule size: 631
+[INFO]   2022-07-18 15:28:25 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon
+[INFO]   2022-07-18 15:28:25 : dataplane : fibs-82 rule size: 417
+[INFO]   2022-07-18 15:28:25 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris
+[INFO]   2022-07-18 15:28:26 : dataplane : fibs-83 rule size: 307
+[INFO]   2022-07-18 15:28:26 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich
+[INFO]   2022-07-18 15:28:26 : dataplane : fibs-84 rule size: 386
+[INFO]   2022-07-18 15:28:26 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:london=paris
+[INFO]   2022-07-18 15:28:26 : dataplane : fibs-85 rule size: 333
+[INFO]   2022-07-18 15:28:26 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille
+[INFO]   2022-07-18 15:28:26 : dataplane : fibs-86 rule size: 249
+[INFO]   2022-07-18 15:28:26 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=paris
+[INFO]   2022-07-18 15:28:27 : dataplane : fibs-87 rule size: 167
+[INFO]   2022-07-18 15:28:27 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:marseille=milan
+[INFO]   2022-07-18 15:28:27 : dataplane : fibs-88 rule size: 479
+[INFO]   2022-07-18 15:28:27 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=vienna
+[INFO]   2022-07-18 15:28:27 : dataplane : fibs-89 rule size: 314
+[INFO]   2022-07-18 15:28:27 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=zurich
+[INFO]   2022-07-18 15:28:27 : dataplane : fibs-90 rule size: 386
+[INFO]   2022-07-18 15:28:27 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:praha=warsaw
+[INFO]   2022-07-18 15:28:28 : dataplane : fibs-91 rule size: 170
+[INFO]   2022-07-18 15:28:28 : verify - mf2 212
+[INFO]   2022-07-18 15:28:28 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt
+[INFO]   2022-07-18 15:28:28 : dataplane : fibs-92 rule size: 369
+[INFO]   2022-07-18 15:28:28 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=london
+[INFO]   2022-07-18 15:28:28 : dataplane : fibs-93 rule size: 393
+[INFO]   2022-07-18 15:28:28 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt
+[INFO]   2022-07-18 15:28:28 : dataplane : fibs-94 rule size: 487
+[INFO]   2022-07-18 15:28:28 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:29 : dataplane : fibs-95 rule size: 487
+[INFO]   2022-07-18 15:28:29 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,frankfurt=vienna
+[INFO]   2022-07-18 15:28:29 : dataplane : fibs-96 rule size: 356
+[INFO]   2022-07-18 15:28:29 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,frankfurt=zurich
+[INFO]   2022-07-18 15:28:29 : dataplane : fibs-97 rule size: 480
+[INFO]   2022-07-18 15:28:29 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,geneva=paris
+[INFO]   2022-07-18 15:28:29 : dataplane : fibs-98 rule size: 490
+[INFO]   2022-07-18 15:28:29 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,geneva=zurich
+[INFO]   2022-07-18 15:28:30 : dataplane : fibs-99 rule size: 385
+[INFO]   2022-07-18 15:28:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,london=paris
+[INFO]   2022-07-18 15:28:30 : dataplane : fibs-100 rule size: 399
+[INFO]   2022-07-18 15:28:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,lyon=marseille
+[INFO]   2022-07-18 15:28:30 : dataplane : fibs-101 rule size: 295
+[INFO]   2022-07-18 15:28:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,lyon=paris
+[INFO]   2022-07-18 15:28:30 : dataplane : fibs-102 rule size: 168
+[INFO]   2022-07-18 15:28:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,marseille=milan
+[INFO]   2022-07-18 15:28:31 : dataplane : fibs-103 rule size: 446
+[INFO]   2022-07-18 15:28:31 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,milan=vienna
+[INFO]   2022-07-18 15:28:31 : dataplane : fibs-104 rule size: 322
+[INFO]   2022-07-18 15:28:31 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,bratislava=praha
+[INFO]   2022-07-18 15:28:31 : dataplane : fibs-105 rule size: 797
+[INFO]   2022-07-18 15:28:31 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,bratislava=vienna
+[INFO]   2022-07-18 15:28:31 : dataplane : fibs-106 rule size: 310
+[INFO]   2022-07-18 15:28:31 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt
+[INFO]   2022-07-18 15:28:32 : dataplane : fibs-107 rule size: 661
+[INFO]   2022-07-18 15:28:32 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=london
+[INFO]   2022-07-18 15:28:32 : dataplane : fibs-108 rule size: 466
+[INFO]   2022-07-18 15:28:32 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=paris
+[INFO]   2022-07-18 15:28:32 : dataplane : fibs-109 rule size: 377
+[INFO]   2022-07-18 15:28:32 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,frankfurt=praha
+[INFO]   2022-07-18 15:28:33 : dataplane : fibs-110 rule size: 518
+[INFO]   2022-07-18 15:28:33 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:33 : dataplane : fibs-111 rule size: 347
+[INFO]   2022-07-18 15:28:33 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,frankfurt=vienna
+[INFO]   2022-07-18 15:28:33 : dataplane : fibs-112 rule size: 450
+[INFO]   2022-07-18 15:28:33 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,frankfurt=warsaw
+[INFO]   2022-07-18 15:28:33 : dataplane : fibs-113 rule size: 500
+[INFO]   2022-07-18 15:28:33 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,frankfurt=zurich
+[INFO]   2022-07-18 15:28:34 : dataplane : fibs-114 rule size: 542
+[INFO]   2022-07-18 15:28:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,geneva=paris
+[INFO]   2022-07-18 15:28:34 : dataplane : fibs-115 rule size: 597
+[INFO]   2022-07-18 15:28:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,lyon=marseille
+[INFO]   2022-07-18 15:28:34 : dataplane : fibs-116 rule size: 337
+[INFO]   2022-07-18 15:28:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,lyon=paris
+[INFO]   2022-07-18 15:28:34 : dataplane : fibs-117 rule size: 186
+[INFO]   2022-07-18 15:28:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,milan=vienna
+[INFO]   2022-07-18 15:28:34 : dataplane : fibs-118 rule size: 481
+[INFO]   2022-07-18 15:28:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,bratislava=praha
+[INFO]   2022-07-18 15:28:35 : dataplane : fibs-119 rule size: 645
+[INFO]   2022-07-18 15:28:35 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,brussels=frankfurt
+[INFO]   2022-07-18 15:28:35 : dataplane : fibs-120 rule size: 454
+[INFO]   2022-07-18 15:28:35 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,brussels=london
+[INFO]   2022-07-18 15:28:35 : dataplane : fibs-121 rule size: 367
+[INFO]   2022-07-18 15:28:35 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,brussels=paris
+[INFO]   2022-07-18 15:28:36 : dataplane : fibs-122 rule size: 375
+[INFO]   2022-07-18 15:28:36 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,frankfurt=praha
+[INFO]   2022-07-18 15:28:36 : dataplane : fibs-123 rule size: 500
+[INFO]   2022-07-18 15:28:36 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:36 : dataplane : fibs-124 rule size: 478
+[INFO]   2022-07-18 15:28:36 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,frankfurt=vienna
+[INFO]   2022-07-18 15:28:36 : dataplane : fibs-125 rule size: 360
+[INFO]   2022-07-18 15:28:36 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,frankfurt=warsaw
+[INFO]   2022-07-18 15:28:37 : dataplane : fibs-126 rule size: 452
+[INFO]   2022-07-18 15:28:37 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,frankfurt=zurich
+[INFO]   2022-07-18 15:28:37 : dataplane : fibs-127 rule size: 622
+[INFO]   2022-07-18 15:28:37 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,milan=vienna
+[INFO]   2022-07-18 15:28:37 : dataplane : fibs-128 rule size: 593
+[INFO]   2022-07-18 15:28:37 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:athens=istanbul,bucharest=budapest
+[INFO]   2022-07-18 15:28:37 : dataplane : fibs-129 rule size: 600
+[INFO]   2022-07-18 15:28:37 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:athens=sofia,bucharest=budapest
+[INFO]   2022-07-18 15:28:38 : dataplane : fibs-130 rule size: 154
+[INFO]   2022-07-18 15:28:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=madrid,lyon=marseille
+[INFO]   2022-07-18 15:28:38 : dataplane : fibs-131 rule size: 494
+[INFO]   2022-07-18 15:28:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=madrid,lyon=paris
+[INFO]   2022-07-18 15:28:38 : dataplane : fibs-132 rule size: 248
+[INFO]   2022-07-18 15:28:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=marseille,lyon=marseille
+[INFO]   2022-07-18 15:28:38 : dataplane : fibs-133 rule size: 388
+[INFO]   2022-07-18 15:28:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=marseille,lyon=paris
+[INFO]   2022-07-18 15:28:39 : dataplane : fibs-134 rule size: 291
+[INFO]   2022-07-18 15:28:39 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,brussels=frankfurt
+[INFO]   2022-07-18 15:28:39 : dataplane : fibs-135 rule size: 760
+[INFO]   2022-07-18 15:28:39 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,brussels=paris
+[INFO]   2022-07-18 15:28:39 : dataplane : fibs-136 rule size: 422
+[INFO]   2022-07-18 15:28:39 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:39 : dataplane : fibs-137 rule size: 545
+[INFO]   2022-07-18 15:28:39 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,frankfurt=vienna
+[INFO]   2022-07-18 15:28:40 : dataplane : fibs-138 rule size: 424
+[INFO]   2022-07-18 15:28:40 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,frankfurt=zurich
+[INFO]   2022-07-18 15:28:40 : dataplane : fibs-139 rule size: 540
+[INFO]   2022-07-18 15:28:40 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,geneva=lyon
+[INFO]   2022-07-18 15:28:40 : dataplane : fibs-140 rule size: 378
+[INFO]   2022-07-18 15:28:40 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,geneva=zurich
+[INFO]   2022-07-18 15:28:40 : dataplane : fibs-141 rule size: 183
+[INFO]   2022-07-18 15:28:40 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,lyon=paris
+[INFO]   2022-07-18 15:28:41 : dataplane : fibs-142 rule size: 361
+[INFO]   2022-07-18 15:28:41 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,marseille=milan
+[INFO]   2022-07-18 15:28:41 : dataplane : fibs-143 rule size: 491
+[INFO]   2022-07-18 15:28:41 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,milan=vienna
+[INFO]   2022-07-18 15:28:41 : dataplane : fibs-144 rule size: 394
+[INFO]   2022-07-18 15:28:41 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,brussels=frankfurt
+[INFO]   2022-07-18 15:28:41 : dataplane : fibs-145 rule size: 797
+[INFO]   2022-07-18 15:28:41 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,brussels=paris
+[INFO]   2022-07-18 15:28:41 : dataplane : fibs-146 rule size: 409
+[INFO]   2022-07-18 15:28:41 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:42 : dataplane : fibs-147 rule size: 484
+[INFO]   2022-07-18 15:28:42 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,frankfurt=vienna
+[INFO]   2022-07-18 15:28:42 : dataplane : fibs-148 rule size: 338
+[INFO]   2022-07-18 15:28:42 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,frankfurt=zurich
+[INFO]   2022-07-18 15:28:42 : dataplane : fibs-149 rule size: 517
+[INFO]   2022-07-18 15:28:42 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,geneva=lyon
+[INFO]   2022-07-18 15:28:42 : dataplane : fibs-150 rule size: 425
+[INFO]   2022-07-18 15:28:42 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,geneva=zurich
+[INFO]   2022-07-18 15:28:43 : dataplane : fibs-151 rule size: 282
+[INFO]   2022-07-18 15:28:43 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,lyon=paris
+[INFO]   2022-07-18 15:28:43 : dataplane : fibs-152 rule size: 382
+[INFO]   2022-07-18 15:28:43 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,marseille=milan
+[INFO]   2022-07-18 15:28:43 : dataplane : fibs-153 rule size: 440
+[INFO]   2022-07-18 15:28:43 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,milan=vienna
+[INFO]   2022-07-18 15:28:43 : dataplane : fibs-154 rule size: 354
+[INFO]   2022-07-18 15:28:43 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,bratislava=vienna
+[INFO]   2022-07-18 15:28:44 : dataplane : fibs-155 rule size: 683
+[INFO]   2022-07-18 15:28:44 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,brussels=frankfurt
+[INFO]   2022-07-18 15:28:44 : dataplane : fibs-156 rule size: 686
+[INFO]   2022-07-18 15:28:44 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,brussels=london
+[INFO]   2022-07-18 15:28:44 : dataplane : fibs-157 rule size: 422
+[INFO]   2022-07-18 15:28:44 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,brussels=paris
+[INFO]   2022-07-18 15:28:44 : dataplane : fibs-158 rule size: 390
+[INFO]   2022-07-18 15:28:44 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,frankfurt=praha
+[INFO]   2022-07-18 15:28:45 : dataplane : fibs-159 rule size: 448
+[INFO]   2022-07-18 15:28:45 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:45 : dataplane : fibs-160 rule size: 314
+[INFO]   2022-07-18 15:28:45 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,frankfurt=vienna
+[INFO]   2022-07-18 15:28:45 : dataplane : fibs-161 rule size: 420
+[INFO]   2022-07-18 15:28:45 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,frankfurt=warsaw
+[INFO]   2022-07-18 15:28:45 : dataplane : fibs-162 rule size: 562
+[INFO]   2022-07-18 15:28:45 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,frankfurt=zurich
+[INFO]   2022-07-18 15:28:46 : dataplane : fibs-163 rule size: 612
+[INFO]   2022-07-18 15:28:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,geneva=zurich
+[INFO]   2022-07-18 15:28:46 : dataplane : fibs-164 rule size: 302
+[INFO]   2022-07-18 15:28:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,lyon=marseille
+[INFO]   2022-07-18 15:28:46 : dataplane : fibs-165 rule size: 386
+[INFO]   2022-07-18 15:28:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,marseille=milan
+[INFO]   2022-07-18 15:28:46 : dataplane : fibs-166 rule size: 375
+[INFO]   2022-07-18 15:28:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,milan=vienna
+[INFO]   2022-07-18 15:28:46 : dataplane : fibs-167 rule size: 308
+[INFO]   2022-07-18 15:28:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,praha=warsaw
+[INFO]   2022-07-18 15:28:47 : dataplane : fibs-168 rule size: 351
+[INFO]   2022-07-18 15:28:47 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,brussels=frankfurt
+[INFO]   2022-07-18 15:28:47 : dataplane : fibs-169 rule size: 586
+[INFO]   2022-07-18 15:28:47 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,brussels=paris
+[INFO]   2022-07-18 15:28:47 : dataplane : fibs-170 rule size: 560
+[INFO]   2022-07-18 15:28:47 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,frankfurt=praha
+[INFO]   2022-07-18 15:28:47 : dataplane : fibs-171 rule size: 546
+[INFO]   2022-07-18 15:28:47 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,frankfurt=vienna
+[INFO]   2022-07-18 15:28:48 : dataplane : fibs-172 rule size: 328
+[INFO]   2022-07-18 15:28:48 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,frankfurt=warsaw
+[INFO]   2022-07-18 15:28:48 : dataplane : fibs-173 rule size: 539
+[INFO]   2022-07-18 15:28:48 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:28:48 : dataplane : fibs-174 rule size: 705
+[INFO]   2022-07-18 15:28:48 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,geneva=lyon
+[INFO]   2022-07-18 15:28:48 : dataplane : fibs-175 rule size: 403
+[INFO]   2022-07-18 15:28:48 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,geneva=zurich
+[INFO]   2022-07-18 15:28:49 : dataplane : fibs-176 rule size: 287
+[INFO]   2022-07-18 15:28:49 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,lyon=paris
+[INFO]   2022-07-18 15:28:49 : dataplane : fibs-177 rule size: 381
+[INFO]   2022-07-18 15:28:49 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,marseille=milan
+[INFO]   2022-07-18 15:28:49 : dataplane : fibs-178 rule size: 355
+[INFO]   2022-07-18 15:28:49 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,milan=vienna
+[INFO]   2022-07-18 15:28:49 : dataplane : fibs-179 rule size: 274
+[INFO]   2022-07-18 15:28:49 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,brussels=london
+[INFO]   2022-07-18 15:28:50 : dataplane : fibs-180 rule size: 622
+[INFO]   2022-07-18 15:28:50 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,brussels=luxembourg
+[INFO]   2022-07-18 15:28:50 : dataplane : fibs-181 rule size: 139
+[INFO]   2022-07-18 15:28:50 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,brussels=paris
+[INFO]   2022-07-18 15:28:50 : dataplane : fibs-182 rule size: 297
+[INFO]   2022-07-18 15:28:50 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=praha
+[INFO]   2022-07-18 15:28:50 : dataplane : fibs-183 rule size: 458
+[INFO]   2022-07-18 15:28:50 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:51 : dataplane : fibs-184 rule size: 455
+[INFO]   2022-07-18 15:28:51 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=vienna
+[INFO]   2022-07-18 15:28:51 : dataplane : fibs-185 rule size: 371
+[INFO]   2022-07-18 15:28:51 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=warsaw
+[INFO]   2022-07-18 15:28:51 : dataplane : fibs-186 rule size: 481
+[INFO]   2022-07-18 15:28:51 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=zurich
+[INFO]   2022-07-18 15:28:51 : dataplane : fibs-187 rule size: 528
+[INFO]   2022-07-18 15:28:51 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=lyon
+[INFO]   2022-07-18 15:28:51 : dataplane : fibs-188 rule size: 401
+[INFO]   2022-07-18 15:28:51 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=paris
+[INFO]   2022-07-18 15:28:52 : dataplane : fibs-189 rule size: 339
+[INFO]   2022-07-18 15:28:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=zurich
+[INFO]   2022-07-18 15:28:52 : dataplane : fibs-190 rule size: 394
+[INFO]   2022-07-18 15:28:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,london=paris
+[INFO]   2022-07-18 15:28:52 : dataplane : fibs-191 rule size: 348
+[INFO]   2022-07-18 15:28:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,luxembourg=strasbourg
+[INFO]   2022-07-18 15:28:52 : dataplane : fibs-192 rule size: 285
+[INFO]   2022-07-18 15:28:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,lyon=marseille
+[INFO]   2022-07-18 15:28:53 : dataplane : fibs-193 rule size: 355
+[INFO]   2022-07-18 15:28:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,lyon=paris
+[INFO]   2022-07-18 15:28:53 : dataplane : fibs-194 rule size: 263
+[INFO]   2022-07-18 15:28:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,marseille=milan
+[INFO]   2022-07-18 15:28:53 : dataplane : fibs-195 rule size: 536
+[INFO]   2022-07-18 15:28:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,milan=vienna
+[INFO]   2022-07-18 15:28:53 : dataplane : fibs-196 rule size: 386
+[INFO]   2022-07-18 15:28:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,brussels=paris
+[INFO]   2022-07-18 15:28:53 : dataplane : fibs-197 rule size: 764
+[INFO]   2022-07-18 15:28:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,frankfurt=praha
+[INFO]   2022-07-18 15:28:54 : dataplane : fibs-198 rule size: 559
+[INFO]   2022-07-18 15:28:54 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:54 : dataplane : fibs-199 rule size: 480
+[INFO]   2022-07-18 15:28:54 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,frankfurt=vienna
+[INFO]   2022-07-18 15:28:54 : dataplane : fibs-200 rule size: 360
+[INFO]   2022-07-18 15:28:54 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,frankfurt=warsaw
+[INFO]   2022-07-18 15:28:54 : dataplane : fibs-201 rule size: 454
+[INFO]   2022-07-18 15:28:54 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,geneva=paris
+[INFO]   2022-07-18 15:28:55 : dataplane : fibs-202 rule size: 586
+[INFO]   2022-07-18 15:28:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,geneva=zurich
+[INFO]   2022-07-18 15:28:55 : dataplane : fibs-203 rule size: 390
+[INFO]   2022-07-18 15:28:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,london=paris
+[INFO]   2022-07-18 15:28:55 : dataplane : fibs-204 rule size: 343
+[INFO]   2022-07-18 15:28:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,milan=vienna
+[INFO]   2022-07-18 15:28:55 : dataplane : fibs-205 rule size: 439
+[INFO]   2022-07-18 15:28:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,milan=zurich
+[INFO]   2022-07-18 15:28:55 : dataplane : fibs-206 rule size: 395
+[INFO]   2022-07-18 15:28:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=luxembourg,frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:56 : dataplane : fibs-207 rule size: 511
+[INFO]   2022-07-18 15:28:56 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=praha
+[INFO]   2022-07-18 15:28:56 : dataplane : fibs-208 rule size: 790
+[INFO]   2022-07-18 15:28:56 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=strasbourg
+[INFO]   2022-07-18 15:28:56 : dataplane : fibs-209 rule size: 478
+[INFO]   2022-07-18 15:28:56 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=vienna
+[INFO]   2022-07-18 15:28:56 : dataplane : fibs-210 rule size: 372
+[INFO]   2022-07-18 15:28:56 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=warsaw
+[INFO]   2022-07-18 15:28:57 : dataplane : fibs-211 rule size: 458
+[INFO]   2022-07-18 15:28:57 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=zurich
+[INFO]   2022-07-18 15:28:57 : dataplane : fibs-212 rule size: 618
+[INFO]   2022-07-18 15:28:57 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=lyon
+[INFO]   2022-07-18 15:28:57 : dataplane : fibs-213 rule size: 450
+[INFO]   2022-07-18 15:28:57 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=paris
+[INFO]   2022-07-18 15:28:57 : dataplane : fibs-214 rule size: 252
+[INFO]   2022-07-18 15:28:57 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=zurich
+[INFO]   2022-07-18 15:28:58 : dataplane : fibs-215 rule size: 361
+[INFO]   2022-07-18 15:28:58 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,london=paris
+[INFO]   2022-07-18 15:28:58 : dataplane : fibs-216 rule size: 532
+[INFO]   2022-07-18 15:28:58 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,lyon=marseille
+[INFO]   2022-07-18 15:28:58 : dataplane : fibs-217 rule size: 331
+[INFO]   2022-07-18 15:28:58 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,lyon=paris
+[INFO]   2022-07-18 15:28:59 : dataplane : fibs-218 rule size: 155
+[INFO]   2022-07-18 15:28:59 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,marseille=milan
+[INFO]   2022-07-18 15:28:59 : dataplane : fibs-219 rule size: 468
+[INFO]   2022-07-18 15:28:59 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,milan=vienna
+[INFO]   2022-07-18 15:28:59 : dataplane : fibs-220 rule size: 401
+[INFO]   2022-07-18 15:28:59 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bucharest=budapest,bucharest=istanbul
+[INFO]   2022-07-18 15:28:59 : dataplane : fibs-221 rule size: 835
+[INFO]   2022-07-18 15:28:59 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bucharest=budapest,budapest=sofia
+[INFO]   2022-07-18 15:29:00 : dataplane : fibs-222 rule size: 470
+[INFO]   2022-07-18 15:29:00 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,frankfurt=strasbourg
+[INFO]   2022-07-18 15:29:00 : dataplane : fibs-223 rule size: 698
+[INFO]   2022-07-18 15:29:00 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,frankfurt=vienna
+[INFO]   2022-07-18 15:29:00 : dataplane : fibs-224 rule size: 459
+[INFO]   2022-07-18 15:29:00 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,frankfurt=warsaw
+[INFO]   2022-07-18 15:29:00 : dataplane : fibs-225 rule size: 707
+[INFO]   2022-07-18 15:29:00 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,frankfurt=zurich
+[INFO]   2022-07-18 15:29:01 : dataplane : fibs-226 rule size: 689
+[INFO]   2022-07-18 15:29:01 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,geneva=lyon
+[INFO]   2022-07-18 15:29:01 : dataplane : fibs-227 rule size: 468
+[INFO]   2022-07-18 15:29:01 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,geneva=zurich
+[INFO]   2022-07-18 15:29:01 : dataplane : fibs-228 rule size: 364
+[INFO]   2022-07-18 15:29:01 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,lyon=marseille
+[INFO]   2022-07-18 15:29:01 : dataplane : fibs-229 rule size: 479
+[INFO]   2022-07-18 15:29:01 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,lyon=paris
+[INFO]   2022-07-18 15:29:02 : dataplane : fibs-230 rule size: 167
+[INFO]   2022-07-18 15:29:02 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,marseille=milan
+[INFO]   2022-07-18 15:29:02 : dataplane : fibs-231 rule size: 434
+[INFO]   2022-07-18 15:29:02 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,milan=vienna
+[INFO]   2022-07-18 15:29:02 : dataplane : fibs-232 rule size: 410
+[INFO]   2022-07-18 15:29:02 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,praha=warsaw
+[INFO]   2022-07-18 15:29:02 : dataplane : fibs-233 rule size: 513
+[INFO]   2022-07-18 15:29:02 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,frankfurt=vienna
+[INFO]   2022-07-18 15:29:03 : dataplane : fibs-234 rule size: 582
+[INFO]   2022-07-18 15:29:03 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,frankfurt=warsaw
+[INFO]   2022-07-18 15:29:03 : dataplane : fibs-235 rule size: 463
+[INFO]   2022-07-18 15:29:03 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,frankfurt=zurich
+[INFO]   2022-07-18 15:29:03 : dataplane : fibs-236 rule size: 596
+[INFO]   2022-07-18 15:29:03 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,geneva=lyon
+[INFO]   2022-07-18 15:29:03 : dataplane : fibs-237 rule size: 405
+[INFO]   2022-07-18 15:29:03 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,geneva=paris
+[INFO]   2022-07-18 15:29:04 : dataplane : fibs-238 rule size: 288
+[INFO]   2022-07-18 15:29:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,geneva=zurich
+[INFO]   2022-07-18 15:29:04 : dataplane : fibs-239 rule size: 377
+[INFO]   2022-07-18 15:29:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,luxembourg=strasbourg
+[INFO]   2022-07-18 15:29:04 : dataplane : fibs-240 rule size: 428
+[INFO]   2022-07-18 15:29:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,lyon=marseille
+[INFO]   2022-07-18 15:29:04 : dataplane : fibs-241 rule size: 339
+[INFO]   2022-07-18 15:29:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,milan=vienna
+[INFO]   2022-07-18 15:29:04 : dataplane : fibs-242 rule size: 467
+[INFO]   2022-07-18 15:29:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,milan=zurich
+[INFO]   2022-07-18 15:29:05 : dataplane : fibs-243 rule size: 363
+[INFO]   2022-07-18 15:29:05 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,frankfurt=warsaw
+[INFO]   2022-07-18 15:29:05 : dataplane : fibs-244 rule size: 789
+[INFO]   2022-07-18 15:29:05 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:05 : dataplane : fibs-245 rule size: 634
+[INFO]   2022-07-18 15:29:05 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,geneva=lyon
+[INFO]   2022-07-18 15:29:05 : dataplane : fibs-246 rule size: 484
+[INFO]   2022-07-18 15:29:05 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,geneva=paris
+[INFO]   2022-07-18 15:29:06 : dataplane : fibs-247 rule size: 307
+[INFO]   2022-07-18 15:29:06 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,geneva=zurich
+[INFO]   2022-07-18 15:29:06 : dataplane : fibs-248 rule size: 409
+[INFO]   2022-07-18 15:29:06 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,lyon=marseille
+[INFO]   2022-07-18 15:29:06 : dataplane : fibs-249 rule size: 407
+[INFO]   2022-07-18 15:29:06 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,lyon=paris
+[INFO]   2022-07-18 15:29:06 : dataplane : fibs-250 rule size: 169
+[INFO]   2022-07-18 15:29:06 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,marseille=milan
+[INFO]   2022-07-18 15:29:07 : dataplane : fibs-251 rule size: 468
+[INFO]   2022-07-18 15:29:07 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,milan=vienna
+[INFO]   2022-07-18 15:29:07 : dataplane : fibs-252 rule size: 316
+[INFO]   2022-07-18 15:29:07 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,milan=zurich
+[INFO]   2022-07-18 15:29:07 : dataplane : fibs-253 rule size: 456
+[INFO]   2022-07-18 15:29:07 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,praha=warsaw
+[INFO]   2022-07-18 15:29:07 : dataplane : fibs-254 rule size: 301
+[INFO]   2022-07-18 15:29:07 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=warsaw,frankfurt=zurich
+[INFO]   2022-07-18 15:29:07 : dataplane : fibs-255 rule size: 783
+[INFO]   2022-07-18 15:29:07 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=warsaw,geneva=lyon
+[INFO]   2022-07-18 15:29:08 : dataplane : fibs-256 rule size: 379
+[INFO]   2022-07-18 15:29:08 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=warsaw,geneva=zurich
+[INFO]   2022-07-18 15:29:08 : dataplane : fibs-257 rule size: 277
+[INFO]   2022-07-18 15:29:08 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=warsaw,lyon=paris
+[INFO]   2022-07-18 15:29:08 : dataplane : fibs-258 rule size: 376
+[INFO]   2022-07-18 15:29:08 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=warsaw,marseille=milan
+[INFO]   2022-07-18 15:29:08 : dataplane : fibs-259 rule size: 433
+[INFO]   2022-07-18 15:29:08 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=warsaw,milan=vienna
+[INFO]   2022-07-18 15:29:09 : dataplane : fibs-260 rule size: 337
+[INFO]   2022-07-18 15:29:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=warsaw,praha=warsaw
+[INFO]   2022-07-18 15:29:09 : dataplane : fibs-261 rule size: 587
+[INFO]   2022-07-18 15:29:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=paris
+[INFO]   2022-07-18 15:29:09 : dataplane : fibs-262 rule size: 807
+[INFO]   2022-07-18 15:29:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=zurich
+[INFO]   2022-07-18 15:29:09 : dataplane : fibs-263 rule size: 309
+[INFO]   2022-07-18 15:29:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,london=paris
+[INFO]   2022-07-18 15:29:10 : dataplane : fibs-264 rule size: 322
+[INFO]   2022-07-18 15:29:10 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,lyon=marseille
+[INFO]   2022-07-18 15:29:10 : dataplane : fibs-265 rule size: 279
+[INFO]   2022-07-18 15:29:10 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,lyon=paris
+[INFO]   2022-07-18 15:29:10 : dataplane : fibs-266 rule size: 184
+[INFO]   2022-07-18 15:29:10 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,marseille=milan
+[INFO]   2022-07-18 15:29:10 : dataplane : fibs-267 rule size: 456
+[INFO]   2022-07-18 15:29:10 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,milan=vienna
+[INFO]   2022-07-18 15:29:11 : dataplane : fibs-268 rule size: 515
+[INFO]   2022-07-18 15:29:11 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:11 : dataplane : fibs-269 rule size: 516
+[INFO]   2022-07-18 15:29:11 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,geneva=paris
+[INFO]   2022-07-18 15:29:11 : dataplane : fibs-270 rule size: 580
+[INFO]   2022-07-18 15:29:11 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,geneva=zurich
+[INFO]   2022-07-18 15:29:11 : dataplane : fibs-271 rule size: 419
+[INFO]   2022-07-18 15:29:11 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,lyon=marseille
+[INFO]   2022-07-18 15:29:12 : dataplane : fibs-272 rule size: 375
+[INFO]   2022-07-18 15:29:12 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,lyon=paris
+[INFO]   2022-07-18 15:29:12 : dataplane : fibs-273 rule size: 193
+[INFO]   2022-07-18 15:29:12 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,marseille=milan
+[INFO]   2022-07-18 15:29:12 : dataplane : fibs-274 rule size: 504
+[INFO]   2022-07-18 15:29:12 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,milan=vienna
+[INFO]   2022-07-18 15:29:12 : dataplane : fibs-275 rule size: 362
+[INFO]   2022-07-18 15:29:12 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,milan=zurich
+[INFO]   2022-07-18 15:29:12 : dataplane : fibs-276 rule size: 470
+[INFO]   2022-07-18 15:29:12 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:13 : dataplane : fibs-277 rule size: 470
+[INFO]   2022-07-18 15:29:13 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,london=paris
+[INFO]   2022-07-18 15:29:13 : dataplane : fibs-278 rule size: 324
+[INFO]   2022-07-18 15:29:13 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,lyon=marseille
+[INFO]   2022-07-18 15:29:13 : dataplane : fibs-279 rule size: 269
+[INFO]   2022-07-18 15:29:13 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,lyon=paris
+[INFO]   2022-07-18 15:29:13 : dataplane : fibs-280 rule size: 293
+[INFO]   2022-07-18 15:29:13 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,marseille=milan
+[INFO]   2022-07-18 15:29:14 : dataplane : fibs-281 rule size: 544
+[INFO]   2022-07-18 15:29:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:29:14 : dataplane : fibs-282 rule size: 757
+[INFO]   2022-07-18 15:29:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,lyon=paris
+[INFO]   2022-07-18 15:29:14 : dataplane : fibs-283 rule size: 289
+[INFO]   2022-07-18 15:29:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,marseille=milan
+[INFO]   2022-07-18 15:29:14 : dataplane : fibs-284 rule size: 549
+[INFO]   2022-07-18 15:29:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,milan=vienna
+[INFO]   2022-07-18 15:29:14 : dataplane : fibs-285 rule size: 396
+[INFO]   2022-07-18 15:29:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:15 : dataplane : fibs-286 rule size: 366
+[INFO]   2022-07-18 15:29:15 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:london=paris,lyon=marseille
+[INFO]   2022-07-18 15:29:15 : dataplane : fibs-287 rule size: 483
+[INFO]   2022-07-18 15:29:15 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:london=paris,lyon=paris
+[INFO]   2022-07-18 15:29:15 : dataplane : fibs-288 rule size: 244
+[INFO]   2022-07-18 15:29:15 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:london=paris,milan=vienna
+[INFO]   2022-07-18 15:29:15 : dataplane : fibs-289 rule size: 418
+[INFO]   2022-07-18 15:29:15 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille,lyon=paris
+[INFO]   2022-07-18 15:29:16 : dataplane : fibs-290 rule size: 608
+[INFO]   2022-07-18 15:29:16 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille,madrid=paris
+[INFO]   2022-07-18 15:29:16 : dataplane : fibs-291 rule size: 332
+[INFO]   2022-07-18 15:29:16 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille,marseille=milan
+[INFO]   2022-07-18 15:29:16 : dataplane : fibs-292 rule size: 677
+[INFO]   2022-07-18 15:29:16 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille,milan=vienna
+[INFO]   2022-07-18 15:29:16 : dataplane : fibs-293 rule size: 410
+[INFO]   2022-07-18 15:29:16 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille,milan=zurich
+[INFO]   2022-07-18 15:29:17 : dataplane : fibs-294 rule size: 503
+[INFO]   2022-07-18 15:29:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=paris,madrid=paris
+[INFO]   2022-07-18 15:29:17 : dataplane : fibs-295 rule size: 554
+[INFO]   2022-07-18 15:29:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=paris,marseille=milan
+[INFO]   2022-07-18 15:29:17 : dataplane : fibs-296 rule size: 598
+[INFO]   2022-07-18 15:29:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=paris,milan=vienna
+[INFO]   2022-07-18 15:29:17 : dataplane : fibs-297 rule size: 418
+[INFO]   2022-07-18 15:29:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=paris,milan=zurich
+[INFO]   2022-07-18 15:29:17 : dataplane : fibs-298 rule size: 457
+[INFO]   2022-07-18 15:29:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:marseille=milan,milan=vienna
+[INFO]   2022-07-18 15:29:18 : dataplane : fibs-299 rule size: 578
+[INFO]   2022-07-18 15:29:18 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:marseille=milan,milan=zurich
+[INFO]   2022-07-18 15:29:18 : dataplane : fibs-300 rule size: 320
+[INFO]   2022-07-18 15:29:18 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=roma,milan=zurich
+[INFO]   2022-07-18 15:29:18 : dataplane : fibs-301 rule size: 388
+[INFO]   2022-07-18 15:29:18 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=vienna,milan=zurich
+[INFO]   2022-07-18 15:29:18 : dataplane : fibs-302 rule size: 400
+[INFO]   2022-07-18 15:29:18 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=zurich,roma=zurich
+[INFO]   2022-07-18 15:29:19 : dataplane : fibs-303 rule size: 488
+[INFO]   2022-07-18 15:29:19 : verify - mf3 258
+[INFO]   2022-07-18 15:29:19 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,amsterdam=london
+[INFO]   2022-07-18 15:29:19 : dataplane : fibs-304 rule size: 519
+[INFO]   2022-07-18 15:29:19 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,brussels=frankfurt
+[INFO]   2022-07-18 15:29:19 : dataplane : fibs-305 rule size: 551
+[INFO]   2022-07-18 15:29:19 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,brussels=london
+[INFO]   2022-07-18 15:29:19 : dataplane : fibs-306 rule size: 472
+[INFO]   2022-07-18 15:29:19 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,frankfurt=vienna
+[INFO]   2022-07-18 15:29:20 : dataplane : fibs-307 rule size: 425
+[INFO]   2022-07-18 15:29:20 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,frankfurt=zurich
+[INFO]   2022-07-18 15:29:20 : dataplane : fibs-308 rule size: 474
+[INFO]   2022-07-18 15:29:20 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,geneva=paris
+[INFO]   2022-07-18 15:29:20 : dataplane : fibs-309 rule size: 511
+[INFO]   2022-07-18 15:29:20 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,london=paris
+[INFO]   2022-07-18 15:29:20 : dataplane : fibs-310 rule size: 257
+[INFO]   2022-07-18 15:29:20 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,lyon=marseille
+[INFO]   2022-07-18 15:29:20 : dataplane : fibs-311 rule size: 292
+[INFO]   2022-07-18 15:29:20 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,lyon=paris
+[INFO]   2022-07-18 15:29:21 : dataplane : fibs-312 rule size: 158
+[INFO]   2022-07-18 15:29:21 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,marseille=milan
+[INFO]   2022-07-18 15:29:21 : dataplane : fibs-313 rule size: 472
+[INFO]   2022-07-18 15:29:21 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,milan=vienna
+[INFO]   2022-07-18 15:29:21 : dataplane : fibs-314 rule size: 368
+[INFO]   2022-07-18 15:29:21 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=frankfurt,milan=zurich
+[INFO]   2022-07-18 15:29:21 : dataplane : fibs-315 rule size: 422
+[INFO]   2022-07-18 15:29:21 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=london,brussels=frankfurt
+[INFO]   2022-07-18 15:29:22 : dataplane : fibs-316 rule size: 663
+[INFO]   2022-07-18 15:29:22 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=london,brussels=paris
+[INFO]   2022-07-18 15:29:22 : dataplane : fibs-317 rule size: 394
+[INFO]   2022-07-18 15:29:22 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=london,frankfurt=zurich
+[INFO]   2022-07-18 15:29:22 : dataplane : fibs-318 rule size: 562
+[INFO]   2022-07-18 15:29:22 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,amsterdam=london,geneva=zurich
+[INFO]   2022-07-18 15:29:22 : dataplane : fibs-319 rule size: 384
+[INFO]   2022-07-18 15:29:22 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,brussels=london
+[INFO]   2022-07-18 15:29:22 : dataplane : fibs-320 rule size: 706
+[INFO]   2022-07-18 15:29:22 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,brussels=luxembourg
+[INFO]   2022-07-18 15:29:23 : dataplane : fibs-321 rule size: 238
+[INFO]   2022-07-18 15:29:23 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,brussels=paris
+[INFO]   2022-07-18 15:29:23 : dataplane : fibs-322 rule size: 215
+[INFO]   2022-07-18 15:29:23 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,frankfurt=strasbourg
+[INFO]   2022-07-18 15:29:23 : dataplane : fibs-323 rule size: 402
+[INFO]   2022-07-18 15:29:23 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,frankfurt=vienna
+[INFO]   2022-07-18 15:29:23 : dataplane : fibs-324 rule size: 382
+[INFO]   2022-07-18 15:29:23 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,frankfurt=zurich
+[INFO]   2022-07-18 15:29:24 : dataplane : fibs-325 rule size: 489
+[INFO]   2022-07-18 15:29:24 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,geneva=paris
+[INFO]   2022-07-18 15:29:24 : dataplane : fibs-326 rule size: 493
+[INFO]   2022-07-18 15:29:24 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,geneva=zurich
+[INFO]   2022-07-18 15:29:24 : dataplane : fibs-327 rule size: 380
+[INFO]   2022-07-18 15:29:24 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,london=paris
+[INFO]   2022-07-18 15:29:24 : dataplane : fibs-328 rule size: 475
+[INFO]   2022-07-18 15:29:24 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,luxembourg=strasbourg
+[INFO]   2022-07-18 15:29:24 : dataplane : fibs-329 rule size: 256
+[INFO]   2022-07-18 15:29:24 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,lyon=marseille
+[INFO]   2022-07-18 15:29:25 : dataplane : fibs-330 rule size: 339
+[INFO]   2022-07-18 15:29:25 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,lyon=paris
+[INFO]   2022-07-18 15:29:25 : dataplane : fibs-331 rule size: 166
+[INFO]   2022-07-18 15:29:25 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,marseille=milan
+[INFO]   2022-07-18 15:29:25 : dataplane : fibs-332 rule size: 443
+[INFO]   2022-07-18 15:29:25 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,milan=vienna
+[INFO]   2022-07-18 15:29:25 : dataplane : fibs-333 rule size: 416
+[INFO]   2022-07-18 15:29:25 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=frankfurt,milan=zurich
+[INFO]   2022-07-18 15:29:26 : dataplane : fibs-334 rule size: 520
+[INFO]   2022-07-18 15:29:26 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=london,brussels=paris
+[INFO]   2022-07-18 15:29:26 : dataplane : fibs-335 rule size: 599
+[INFO]   2022-07-18 15:29:26 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,brussels=paris,london=paris
+[INFO]   2022-07-18 15:29:26 : dataplane : fibs-336 rule size: 202
+[INFO]   2022-07-18 15:29:26 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:26 : dataplane : fibs-337 rule size: 917
+[INFO]   2022-07-18 15:29:26 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,frankfurt=zurich,geneva=paris
+[INFO]   2022-07-18 15:29:26 : dataplane : fibs-338 rule size: 490
+[INFO]   2022-07-18 15:29:26 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,frankfurt=zurich,geneva=zurich
+[INFO]   2022-07-18 15:29:27 : dataplane : fibs-339 rule size: 351
+[INFO]   2022-07-18 15:29:27 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,frankfurt=zurich,london=paris
+[INFO]   2022-07-18 15:29:27 : dataplane : fibs-340 rule size: 371
+[INFO]   2022-07-18 15:29:27 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,frankfurt=zurich,milan=vienna
+[INFO]   2022-07-18 15:29:27 : dataplane : fibs-341 rule size: 743
+[INFO]   2022-07-18 15:29:27 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,frankfurt=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:27 : dataplane : fibs-342 rule size: 538
+[INFO]   2022-07-18 15:29:27 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,geneva=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:28 : dataplane : fibs-343 rule size: 466
+[INFO]   2022-07-18 15:29:28 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=brussels,geneva=zurich,london=paris
+[INFO]   2022-07-18 15:29:28 : dataplane : fibs-344 rule size: 254
+[INFO]   2022-07-18 15:29:28 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,amsterdam=london,brussels=paris
+[INFO]   2022-07-18 15:29:28 : dataplane : fibs-345 rule size: 766
+[INFO]   2022-07-18 15:29:28 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,brussels=luxembourg
+[INFO]   2022-07-18 15:29:28 : dataplane : fibs-346 rule size: 561
+[INFO]   2022-07-18 15:29:28 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,brussels=paris
+[INFO]   2022-07-18 15:29:28 : dataplane : fibs-347 rule size: 543
+[INFO]   2022-07-18 15:29:28 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,frankfurt=strasbourg
+[INFO]   2022-07-18 15:29:29 : dataplane : fibs-348 rule size: 628
+[INFO]   2022-07-18 15:29:29 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,frankfurt=vienna
+[INFO]   2022-07-18 15:29:29 : dataplane : fibs-349 rule size: 392
+[INFO]   2022-07-18 15:29:29 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,frankfurt=zurich
+[INFO]   2022-07-18 15:29:29 : dataplane : fibs-350 rule size: 453
+[INFO]   2022-07-18 15:29:29 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,geneva=paris
+[INFO]   2022-07-18 15:29:29 : dataplane : fibs-351 rule size: 495
+[INFO]   2022-07-18 15:29:29 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,geneva=zurich
+[INFO]   2022-07-18 15:29:30 : dataplane : fibs-352 rule size: 375
+[INFO]   2022-07-18 15:29:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,luxembourg=strasbourg
+[INFO]   2022-07-18 15:29:30 : dataplane : fibs-353 rule size: 616
+[INFO]   2022-07-18 15:29:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,lyon=marseille
+[INFO]   2022-07-18 15:29:30 : dataplane : fibs-354 rule size: 461
+[INFO]   2022-07-18 15:29:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,lyon=paris
+[INFO]   2022-07-18 15:29:30 : dataplane : fibs-355 rule size: 229
+[INFO]   2022-07-18 15:29:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,marseille=milan
+[INFO]   2022-07-18 15:29:30 : dataplane : fibs-356 rule size: 502
+[INFO]   2022-07-18 15:29:30 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,milan=vienna
+[INFO]   2022-07-18 15:29:31 : dataplane : fibs-357 rule size: 353
+[INFO]   2022-07-18 15:29:31 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=frankfurt,milan=zurich
+[INFO]   2022-07-18 15:29:31 : dataplane : fibs-358 rule size: 409
+[INFO]   2022-07-18 15:29:31 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=london,brussels=paris
+[INFO]   2022-07-18 15:29:31 : dataplane : fibs-359 rule size: 655
+[INFO]   2022-07-18 15:29:31 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=paris,frankfurt=zurich
+[INFO]   2022-07-18 15:29:31 : dataplane : fibs-360 rule size: 629
+[INFO]   2022-07-18 15:29:31 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=paris,geneva=paris
+[INFO]   2022-07-18 15:29:32 : dataplane : fibs-361 rule size: 513
+[INFO]   2022-07-18 15:29:32 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:32 : dataplane : fibs-362 rule size: 312
+[INFO]   2022-07-18 15:29:32 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,brussels=paris,london=paris
+[INFO]   2022-07-18 15:29:32 : dataplane : fibs-363 rule size: 568
+[INFO]   2022-07-18 15:29:32 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:32 : dataplane : fibs-364 rule size: 860
+[INFO]   2022-07-18 15:29:32 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,frankfurt=vienna,milan=zurich
+[INFO]   2022-07-18 15:29:32 : dataplane : fibs-365 rule size: 388
+[INFO]   2022-07-18 15:29:32 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,frankfurt=zurich,geneva=paris
+[INFO]   2022-07-18 15:29:33 : dataplane : fibs-366 rule size: 670
+[INFO]   2022-07-18 15:29:33 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,frankfurt=zurich,geneva=zurich
+[INFO]   2022-07-18 15:29:33 : dataplane : fibs-367 rule size: 373
+[INFO]   2022-07-18 15:29:33 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,frankfurt=zurich,milan=vienna
+[INFO]   2022-07-18 15:29:33 : dataplane : fibs-368 rule size: 684
+[INFO]   2022-07-18 15:29:33 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,geneva=lyon,geneva=paris
+[INFO]   2022-07-18 15:29:33 : dataplane : fibs-369 rule size: 895
+[INFO]   2022-07-18 15:29:33 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,geneva=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:34 : dataplane : fibs-370 rule size: 324
+[INFO]   2022-07-18 15:29:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,geneva=paris,lyon=paris
+[INFO]   2022-07-18 15:29:34 : dataplane : fibs-371 rule size: 412
+[INFO]   2022-07-18 15:29:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=frankfurt,milan=vienna,milan=zurich
+[INFO]   2022-07-18 15:29:34 : dataplane : fibs-372 rule size: 753
+[INFO]   2022-07-18 15:29:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,brussels=frankfurt,brussels=paris
+[INFO]   2022-07-18 15:29:34 : dataplane : fibs-373 rule size: 1005
+[INFO]   2022-07-18 15:29:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,brussels=london,brussels=paris
+[INFO]   2022-07-18 15:29:34 : dataplane : fibs-374 rule size: 484
+[INFO]   2022-07-18 15:29:34 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,brussels=paris,frankfurt=zurich
+[INFO]   2022-07-18 15:29:35 : dataplane : fibs-375 rule size: 599
+[INFO]   2022-07-18 15:29:35 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,brussels=paris,geneva=paris
+[INFO]   2022-07-18 15:29:35 : dataplane : fibs-376 rule size: 458
+[INFO]   2022-07-18 15:29:35 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,brussels=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:35 : dataplane : fibs-377 rule size: 380
+[INFO]   2022-07-18 15:29:35 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:amsterdam=london,brussels=paris,london=paris
+[INFO]   2022-07-18 15:29:35 : dataplane : fibs-378 rule size: 568
+[INFO]   2022-07-18 15:29:35 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=madrid,geneva=paris,lyon=marseille
+[INFO]   2022-07-18 15:29:36 : dataplane : fibs-379 rule size: 576
+[INFO]   2022-07-18 15:29:36 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=madrid,geneva=paris,lyon=paris
+[INFO]   2022-07-18 15:29:36 : dataplane : fibs-380 rule size: 231
+[INFO]   2022-07-18 15:29:36 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=madrid,geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:29:36 : dataplane : fibs-381 rule size: 481
+[INFO]   2022-07-18 15:29:36 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=madrid,geneva=zurich,lyon=paris
+[INFO]   2022-07-18 15:29:36 : dataplane : fibs-382 rule size: 370
+[INFO]   2022-07-18 15:29:36 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=madrid,lyon=marseille,milan=zurich
+[INFO]   2022-07-18 15:29:36 : dataplane : fibs-383 rule size: 436
+[INFO]   2022-07-18 15:29:36 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=madrid,lyon=paris,milan=zurich
+[INFO]   2022-07-18 15:29:37 : dataplane : fibs-384 rule size: 289
+[INFO]   2022-07-18 15:29:37 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=marseille,geneva=paris,lyon=marseille
+[INFO]   2022-07-18 15:29:37 : dataplane : fibs-385 rule size: 625
+[INFO]   2022-07-18 15:29:37 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=marseille,geneva=paris,lyon=paris
+[INFO]   2022-07-18 15:29:37 : dataplane : fibs-386 rule size: 259
+[INFO]   2022-07-18 15:29:37 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=marseille,geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:29:37 : dataplane : fibs-387 rule size: 505
+[INFO]   2022-07-18 15:29:37 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=marseille,geneva=zurich,lyon=paris
+[INFO]   2022-07-18 15:29:38 : dataplane : fibs-388 rule size: 354
+[INFO]   2022-07-18 15:29:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=marseille,lyon=marseille,milan=zurich
+[INFO]   2022-07-18 15:29:38 : dataplane : fibs-389 rule size: 507
+[INFO]   2022-07-18 15:29:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:barcelona=marseille,lyon=paris,milan=zurich
+[INFO]   2022-07-18 15:29:38 : dataplane : fibs-390 rule size: 368
+[INFO]   2022-07-18 15:29:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,brussels=frankfurt,frankfurt=zurich
+[INFO]   2022-07-18 15:29:38 : dataplane : fibs-391 rule size: 970
+[INFO]   2022-07-18 15:29:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,brussels=frankfurt,geneva=zurich
+[INFO]   2022-07-18 15:29:38 : dataplane : fibs-392 rule size: 372
+[INFO]   2022-07-18 15:29:38 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,brussels=paris,frankfurt=zurich
+[INFO]   2022-07-18 15:29:39 : dataplane : fibs-393 rule size: 740
+[INFO]   2022-07-18 15:29:39 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,brussels=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:39 : dataplane : fibs-394 rule size: 390
+[INFO]   2022-07-18 15:29:39 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:39 : dataplane : fibs-395 rule size: 772
+[INFO]   2022-07-18 15:29:39 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,frankfurt=zurich,geneva=paris
+[INFO]   2022-07-18 15:29:39 : dataplane : fibs-396 rule size: 566
+[INFO]   2022-07-18 15:29:39 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,frankfurt=zurich,milan=vienna
+[INFO]   2022-07-18 15:29:40 : dataplane : fibs-397 rule size: 845
+[INFO]   2022-07-18 15:29:40 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,frankfurt=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:40 : dataplane : fibs-398 rule size: 577
+[INFO]   2022-07-18 15:29:40 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,geneva=lyon,geneva=zurich
+[INFO]   2022-07-18 15:29:40 : dataplane : fibs-399 rule size: 384
+[INFO]   2022-07-18 15:29:40 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,geneva=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:40 : dataplane : fibs-400 rule size: 240
+[INFO]   2022-07-18 15:29:40 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:29:40 : dataplane : fibs-401 rule size: 395
+[INFO]   2022-07-18 15:29:40 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,geneva=zurich,marseille=milan
+[INFO]   2022-07-18 15:29:41 : dataplane : fibs-402 rule size: 413
+[INFO]   2022-07-18 15:29:41 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=geneva,geneva=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:41 : dataplane : fibs-403 rule size: 410
+[INFO]   2022-07-18 15:29:41 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,brussels=frankfurt,frankfurt=zurich
+[INFO]   2022-07-18 15:29:41 : dataplane : fibs-404 rule size: 881
+[INFO]   2022-07-18 15:29:41 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,brussels=frankfurt,geneva=zurich
+[INFO]   2022-07-18 15:29:41 : dataplane : fibs-405 rule size: 307
+[INFO]   2022-07-18 15:29:41 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,brussels=paris,frankfurt=zurich
+[INFO]   2022-07-18 15:29:42 : dataplane : fibs-406 rule size: 768
+[INFO]   2022-07-18 15:29:42 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,brussels=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:42 : dataplane : fibs-407 rule size: 417
+[INFO]   2022-07-18 15:29:42 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:42 : dataplane : fibs-408 rule size: 775
+[INFO]   2022-07-18 15:29:42 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,frankfurt=zurich,geneva=paris
+[INFO]   2022-07-18 15:29:42 : dataplane : fibs-409 rule size: 526
+[INFO]   2022-07-18 15:29:42 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,frankfurt=zurich,milan=vienna
+[INFO]   2022-07-18 15:29:42 : dataplane : fibs-410 rule size: 788
+[INFO]   2022-07-18 15:29:42 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,frankfurt=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:43 : dataplane : fibs-411 rule size: 554
+[INFO]   2022-07-18 15:29:43 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,geneva=lyon,geneva=zurich
+[INFO]   2022-07-18 15:29:43 : dataplane : fibs-412 rule size: 390
+[INFO]   2022-07-18 15:29:43 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,geneva=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:43 : dataplane : fibs-413 rule size: 288
+[INFO]   2022-07-18 15:29:43 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:29:43 : dataplane : fibs-414 rule size: 450
+[INFO]   2022-07-18 15:29:43 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,geneva=zurich,marseille=milan
+[INFO]   2022-07-18 15:29:44 : dataplane : fibs-415 rule size: 410
+[INFO]   2022-07-18 15:29:44 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:basel=strasbourg,geneva=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:44 : dataplane : fibs-416 rule size: 414
+[INFO]   2022-07-18 15:29:44 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=praha,frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:44 : dataplane : fibs-417 rule size: 868
+[INFO]   2022-07-18 15:29:44 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:bratislava=vienna,frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:44 : dataplane : fibs-418 rule size: 561
+[INFO]   2022-07-18 15:29:44 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,brussels=london,brussels=paris
+[INFO]   2022-07-18 15:29:44 : dataplane : fibs-419 rule size: 1092
+[INFO]   2022-07-18 15:29:44 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,brussels=paris,frankfurt=vienna
+[INFO]   2022-07-18 15:29:45 : dataplane : fibs-420 rule size: 372
+[INFO]   2022-07-18 15:29:45 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,brussels=paris,frankfurt=zurich
+[INFO]   2022-07-18 15:29:45 : dataplane : fibs-421 rule size: 463
+[INFO]   2022-07-18 15:29:45 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,brussels=paris,geneva=paris
+[INFO]   2022-07-18 15:29:45 : dataplane : fibs-422 rule size: 500
+[INFO]   2022-07-18 15:29:45 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,brussels=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:45 : dataplane : fibs-423 rule size: 311
+[INFO]   2022-07-18 15:29:45 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,brussels=paris,london=paris
+[INFO]   2022-07-18 15:29:46 : dataplane : fibs-424 rule size: 515
+[INFO]   2022-07-18 15:29:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,brussels=paris,milan=vienna
+[INFO]   2022-07-18 15:29:46 : dataplane : fibs-425 rule size: 605
+[INFO]   2022-07-18 15:29:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=strasbourg,frankfurt=zurich
+[INFO]   2022-07-18 15:29:46 : dataplane : fibs-426 rule size: 1047
+[INFO]   2022-07-18 15:29:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=strasbourg,geneva=zurich
+[INFO]   2022-07-18 15:29:46 : dataplane : fibs-427 rule size: 345
+[INFO]   2022-07-18 15:29:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:46 : dataplane : fibs-428 rule size: 777
+[INFO]   2022-07-18 15:29:46 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=vienna,lyon=marseille
+[INFO]   2022-07-18 15:29:47 : dataplane : fibs-429 rule size: 678
+[INFO]   2022-07-18 15:29:47 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=vienna,lyon=paris
+[INFO]   2022-07-18 15:29:47 : dataplane : fibs-430 rule size: 246
+[INFO]   2022-07-18 15:29:47 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=vienna,marseille=milan
+[INFO]   2022-07-18 15:29:47 : dataplane : fibs-431 rule size: 495
+[INFO]   2022-07-18 15:29:47 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=vienna,milan=zurich
+[INFO]   2022-07-18 15:29:47 : dataplane : fibs-432 rule size: 407
+[INFO]   2022-07-18 15:29:47 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=zurich,geneva=paris
+[INFO]   2022-07-18 15:29:48 : dataplane : fibs-433 rule size: 742
+[INFO]   2022-07-18 15:29:48 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=zurich,geneva=zurich
+[INFO]   2022-07-18 15:29:48 : dataplane : fibs-434 rule size: 411
+[INFO]   2022-07-18 15:29:48 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=zurich,milan=vienna
+[INFO]   2022-07-18 15:29:48 : dataplane : fibs-435 rule size: 707
+[INFO]   2022-07-18 15:29:48 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,frankfurt=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:48 : dataplane : fibs-436 rule size: 536
+[INFO]   2022-07-18 15:29:48 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=lyon,geneva=paris
+[INFO]   2022-07-18 15:29:48 : dataplane : fibs-437 rule size: 684
+[INFO]   2022-07-18 15:29:48 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=lyon,geneva=zurich
+[INFO]   2022-07-18 15:29:49 : dataplane : fibs-438 rule size: 417
+[INFO]   2022-07-18 15:29:49 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:49 : dataplane : fibs-439 rule size: 310
+[INFO]   2022-07-18 15:29:49 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=paris,lyon=marseille
+[INFO]   2022-07-18 15:29:49 : dataplane : fibs-440 rule size: 384
+[INFO]   2022-07-18 15:29:49 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=paris,lyon=paris
+[INFO]   2022-07-18 15:29:49 : dataplane : fibs-441 rule size: 273
+[INFO]   2022-07-18 15:29:49 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=paris,marseille=milan
+[INFO]   2022-07-18 15:29:50 : dataplane : fibs-442 rule size: 586
+[INFO]   2022-07-18 15:29:50 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:29:50 : dataplane : fibs-443 rule size: 744
+[INFO]   2022-07-18 15:29:50 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=zurich,lyon=paris
+[INFO]   2022-07-18 15:29:50 : dataplane : fibs-444 rule size: 309
+[INFO]   2022-07-18 15:29:50 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=zurich,marseille=milan
+[INFO]   2022-07-18 15:29:50 : dataplane : fibs-445 rule size: 558
+[INFO]   2022-07-18 15:29:50 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,geneva=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:50 : dataplane : fibs-446 rule size: 499
+[INFO]   2022-07-18 15:29:50 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,lyon=marseille,milan=vienna
+[INFO]   2022-07-18 15:29:51 : dataplane : fibs-447 rule size: 677
+[INFO]   2022-07-18 15:29:51 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,lyon=marseille,milan=zurich
+[INFO]   2022-07-18 15:29:51 : dataplane : fibs-448 rule size: 457
+[INFO]   2022-07-18 15:29:51 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,lyon=paris,milan=vienna
+[INFO]   2022-07-18 15:29:51 : dataplane : fibs-449 rule size: 621
+[INFO]   2022-07-18 15:29:51 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,lyon=paris,milan=zurich
+[INFO]   2022-07-18 15:29:51 : dataplane : fibs-450 rule size: 463
+[INFO]   2022-07-18 15:29:51 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,marseille=milan,milan=vienna
+[INFO]   2022-07-18 15:29:52 : dataplane : fibs-451 rule size: 756
+[INFO]   2022-07-18 15:29:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,marseille=milan,milan=zurich
+[INFO]   2022-07-18 15:29:52 : dataplane : fibs-452 rule size: 266
+[INFO]   2022-07-18 15:29:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=frankfurt,milan=vienna,milan=zurich
+[INFO]   2022-07-18 15:29:52 : dataplane : fibs-453 rule size: 331
+[INFO]   2022-07-18 15:29:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,brussels=paris,frankfurt=zurich
+[INFO]   2022-07-18 15:29:52 : dataplane : fibs-454 rule size: 1084
+[INFO]   2022-07-18 15:29:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,brussels=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:53 : dataplane : fibs-455 rule size: 380
+[INFO]   2022-07-18 15:29:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=london,brussels=paris,london=paris
+[INFO]   2022-07-18 15:29:53 : dataplane : fibs-456 rule size: 505
+[INFO]   2022-07-18 15:29:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=strasbourg,frankfurt=zurich
+[INFO]   2022-07-18 15:29:53 : dataplane : fibs-457 rule size: 878
+[INFO]   2022-07-18 15:29:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=strasbourg,geneva=zurich
+[INFO]   2022-07-18 15:29:53 : dataplane : fibs-458 rule size: 355
+[INFO]   2022-07-18 15:29:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:53 : dataplane : fibs-459 rule size: 789
+[INFO]   2022-07-18 15:29:53 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=vienna,milan=zurich
+[INFO]   2022-07-18 15:29:54 : dataplane : fibs-460 rule size: 511
+[INFO]   2022-07-18 15:29:54 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=zurich,geneva=paris
+[INFO]   2022-07-18 15:29:54 : dataplane : fibs-461 rule size: 680
+[INFO]   2022-07-18 15:29:54 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=zurich,geneva=zurich
+[INFO]   2022-07-18 15:29:54 : dataplane : fibs-462 rule size: 410
+[INFO]   2022-07-18 15:29:54 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=zurich,london=paris
+[INFO]   2022-07-18 15:29:54 : dataplane : fibs-463 rule size: 576
+[INFO]   2022-07-18 15:29:54 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=zurich,milan=vienna
+[INFO]   2022-07-18 15:29:54 : dataplane : fibs-464 rule size: 1054
+[INFO]   2022-07-18 15:29:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,frankfurt=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:55 : dataplane : fibs-465 rule size: 588
+[INFO]   2022-07-18 15:29:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=lyon,geneva=paris
+[INFO]   2022-07-18 15:29:55 : dataplane : fibs-466 rule size: 629
+[INFO]   2022-07-18 15:29:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=paris,geneva=zurich
+[INFO]   2022-07-18 15:29:55 : dataplane : fibs-467 rule size: 346
+[INFO]   2022-07-18 15:29:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=paris,london=paris
+[INFO]   2022-07-18 15:29:55 : dataplane : fibs-468 rule size: 514
+[INFO]   2022-07-18 15:29:55 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=paris,lyon=marseille
+[INFO]   2022-07-18 15:29:56 : dataplane : fibs-469 rule size: 423
+[INFO]   2022-07-18 15:29:56 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=paris,lyon=paris
+[INFO]   2022-07-18 15:29:56 : dataplane : fibs-470 rule size: 255
+[INFO]   2022-07-18 15:29:56 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=paris,marseille=milan
+[INFO]   2022-07-18 15:29:56 : dataplane : fibs-471 rule size: 519
+[INFO]   2022-07-18 15:29:56 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=zurich,london=paris
+[INFO]   2022-07-18 15:29:56 : dataplane : fibs-472 rule size: 879
+[INFO]   2022-07-18 15:29:56 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:29:57 : dataplane : fibs-473 rule size: 527
+[INFO]   2022-07-18 15:29:57 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=zurich,lyon=paris
+[INFO]   2022-07-18 15:29:57 : dataplane : fibs-474 rule size: 259
+[INFO]   2022-07-18 15:29:57 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,geneva=zurich,marseille=milan
+[INFO]   2022-07-18 15:29:57 : dataplane : fibs-475 rule size: 554
+[INFO]   2022-07-18 15:29:57 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,lyon=marseille,milan=zurich
+[INFO]   2022-07-18 15:29:57 : dataplane : fibs-476 rule size: 707
+[INFO]   2022-07-18 15:29:57 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,lyon=paris,milan=zurich
+[INFO]   2022-07-18 15:29:58 : dataplane : fibs-477 rule size: 294
+[INFO]   2022-07-18 15:29:58 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,marseille=milan,milan=zurich
+[INFO]   2022-07-18 15:29:58 : dataplane : fibs-478 rule size: 561
+[INFO]   2022-07-18 15:29:58 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:brussels=paris,milan=vienna,milan=zurich
+[INFO]   2022-07-18 15:29:58 : dataplane : fibs-479 rule size: 295
+[INFO]   2022-07-18 15:29:58 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=praha,frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:58 : dataplane : fibs-480 rule size: 1108
+[INFO]   2022-07-18 15:29:58 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,frankfurt=vienna,frankfurt=zurich
+[INFO]   2022-07-18 15:29:59 : dataplane : fibs-481 rule size: 406
+[INFO]   2022-07-18 15:29:59 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,frankfurt=zurich,geneva=paris
+[INFO]   2022-07-18 15:29:59 : dataplane : fibs-482 rule size: 529
+[INFO]   2022-07-18 15:29:59 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,frankfurt=zurich,milan=vienna
+[INFO]   2022-07-18 15:29:59 : dataplane : fibs-483 rule size: 772
+[INFO]   2022-07-18 15:29:59 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,frankfurt=zurich,milan=zurich
+[INFO]   2022-07-18 15:29:59 : dataplane : fibs-484 rule size: 568
+[INFO]   2022-07-18 15:29:59 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,geneva=lyon,geneva=zurich
+[INFO]   2022-07-18 15:29:59 : dataplane : fibs-485 rule size: 399
+[INFO]   2022-07-18 15:29:59 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,geneva=paris,geneva=zurich
+[INFO]   2022-07-18 15:30:00 : dataplane : fibs-486 rule size: 293
+[INFO]   2022-07-18 15:30:00 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:30:00 : dataplane : fibs-487 rule size: 456
+[INFO]   2022-07-18 15:30:00 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,geneva=zurich,marseille=milan
+[INFO]   2022-07-18 15:30:00 : dataplane : fibs-488 rule size: 406
+[INFO]   2022-07-18 15:30:00 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=strasbourg,geneva=zurich,milan=zurich
+[INFO]   2022-07-18 15:30:00 : dataplane : fibs-489 rule size: 396
+[INFO]   2022-07-18 15:30:00 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,frankfurt=zurich,geneva=paris
+[INFO]   2022-07-18 15:30:01 : dataplane : fibs-490 rule size: 923
+[INFO]   2022-07-18 15:30:01 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,frankfurt=zurich,geneva=zurich
+[INFO]   2022-07-18 15:30:01 : dataplane : fibs-491 rule size: 419
+[INFO]   2022-07-18 15:30:01 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,frankfurt=zurich,lyon=marseille
+[INFO]   2022-07-18 15:30:01 : dataplane : fibs-492 rule size: 531
+[INFO]   2022-07-18 15:30:01 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,frankfurt=zurich,lyon=paris
+[INFO]   2022-07-18 15:30:01 : dataplane : fibs-493 rule size: 182
+[INFO]   2022-07-18 15:30:01 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,frankfurt=zurich,marseille=milan
+[INFO]   2022-07-18 15:30:02 : dataplane : fibs-494 rule size: 481
+[INFO]   2022-07-18 15:30:02 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,frankfurt=zurich,milan=vienna
+[INFO]   2022-07-18 15:30:02 : dataplane : fibs-495 rule size: 441
+[INFO]   2022-07-18 15:30:02 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,frankfurt=zurich,milan=zurich
+[INFO]   2022-07-18 15:30:02 : dataplane : fibs-496 rule size: 490
+[INFO]   2022-07-18 15:30:02 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,geneva=paris,lyon=marseille
+[INFO]   2022-07-18 15:30:02 : dataplane : fibs-497 rule size: 772
+[INFO]   2022-07-18 15:30:02 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,geneva=paris,marseille=milan
+[INFO]   2022-07-18 15:30:02 : dataplane : fibs-498 rule size: 437
+[INFO]   2022-07-18 15:30:02 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,geneva=zurich,lyon=paris
+[INFO]   2022-07-18 15:30:03 : dataplane : fibs-499 rule size: 695
+[INFO]   2022-07-18 15:30:03 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,geneva=zurich,marseille=milan
+[INFO]   2022-07-18 15:30:03 : dataplane : fibs-500 rule size: 518
+[INFO]   2022-07-18 15:30:03 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,lyon=marseille,milan=zurich
+[INFO]   2022-07-18 15:30:03 : dataplane : fibs-501 rule size: 667
+[INFO]   2022-07-18 15:30:03 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,lyon=paris,milan=zurich
+[INFO]   2022-07-18 15:30:03 : dataplane : fibs-502 rule size: 220
+[INFO]   2022-07-18 15:30:03 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,marseille=milan,milan=zurich
+[INFO]   2022-07-18 15:30:04 : dataplane : fibs-503 rule size: 397
+[INFO]   2022-07-18 15:30:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,milan=roma,milan=zurich
+[INFO]   2022-07-18 15:30:04 : dataplane : fibs-504 rule size: 385
+[INFO]   2022-07-18 15:30:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=vienna,milan=zurich,roma=zurich
+[INFO]   2022-07-18 15:30:04 : dataplane : fibs-505 rule size: 170
+[INFO]   2022-07-18 15:30:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=lyon,geneva=paris
+[INFO]   2022-07-18 15:30:04 : dataplane : fibs-506 rule size: 838
+[INFO]   2022-07-18 15:30:04 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=lyon,geneva=zurich
+[INFO]   2022-07-18 15:30:05 : dataplane : fibs-507 rule size: 482
+[INFO]   2022-07-18 15:30:05 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=paris,geneva=zurich
+[INFO]   2022-07-18 15:30:05 : dataplane : fibs-508 rule size: 240
+[INFO]   2022-07-18 15:30:05 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=paris,lyon=paris
+[INFO]   2022-07-18 15:30:05 : dataplane : fibs-509 rule size: 493
+[INFO]   2022-07-18 15:30:05 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=paris,milan=vienna
+[INFO]   2022-07-18 15:30:05 : dataplane : fibs-510 rule size: 858
+[INFO]   2022-07-18 15:30:05 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=paris,milan=zurich
+[INFO]   2022-07-18 15:30:05 : dataplane : fibs-511 rule size: 553
+[INFO]   2022-07-18 15:30:05 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:30:06 : dataplane : fibs-512 rule size: 647
+[INFO]   2022-07-18 15:30:06 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=zurich,lyon=paris
+[INFO]   2022-07-18 15:30:06 : dataplane : fibs-513 rule size: 342
+[INFO]   2022-07-18 15:30:06 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=zurich,marseille=milan
+[INFO]   2022-07-18 15:30:06 : dataplane : fibs-514 rule size: 472
+[INFO]   2022-07-18 15:30:06 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=zurich,milan=vienna
+[INFO]   2022-07-18 15:30:06 : dataplane : fibs-515 rule size: 395
+[INFO]   2022-07-18 15:30:06 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,geneva=zurich,milan=zurich
+[INFO]   2022-07-18 15:30:07 : dataplane : fibs-516 rule size: 569
+[INFO]   2022-07-18 15:30:07 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,lyon=marseille,milan=vienna
+[INFO]   2022-07-18 15:30:07 : dataplane : fibs-517 rule size: 851
+[INFO]   2022-07-18 15:30:07 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,lyon=paris,milan=vienna
+[INFO]   2022-07-18 15:30:07 : dataplane : fibs-518 rule size: 189
+[INFO]   2022-07-18 15:30:07 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,marseille=milan,milan=vienna
+[INFO]   2022-07-18 15:30:07 : dataplane : fibs-519 rule size: 378
+[INFO]   2022-07-18 15:30:07 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,milan=roma,milan=zurich
+[INFO]   2022-07-18 15:30:08 : dataplane : fibs-520 rule size: 430
+[INFO]   2022-07-18 15:30:08 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,milan=vienna,milan=zurich
+[INFO]   2022-07-18 15:30:08 : dataplane : fibs-521 rule size: 380
+[INFO]   2022-07-18 15:30:08 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:frankfurt=zurich,milan=zurich,roma=zurich
+[INFO]   2022-07-18 15:30:08 : dataplane : fibs-522 rule size: 474
+[INFO]   2022-07-18 15:30:08 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,geneva=paris,geneva=zurich
+[INFO]   2022-07-18 15:30:08 : dataplane : fibs-523 rule size: 565
+[INFO]   2022-07-18 15:30:08 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:30:09 : dataplane : fibs-524 rule size: 445
+[INFO]   2022-07-18 15:30:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,geneva=zurich,lyon=paris
+[INFO]   2022-07-18 15:30:09 : dataplane : fibs-525 rule size: 219
+[INFO]   2022-07-18 15:30:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,geneva=zurich,marseille=milan
+[INFO]   2022-07-18 15:30:09 : dataplane : fibs-526 rule size: 570
+[INFO]   2022-07-18 15:30:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,geneva=zurich,milan=zurich
+[INFO]   2022-07-18 15:30:09 : dataplane : fibs-527 rule size: 444
+[INFO]   2022-07-18 15:30:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,milan=roma,milan=zurich
+[INFO]   2022-07-18 15:30:09 : dataplane : fibs-528 rule size: 338
+[INFO]   2022-07-18 15:30:09 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=lyon,milan=zurich,roma=zurich
+[INFO]   2022-07-18 15:30:10 : dataplane : fibs-529 rule size: 271
+[INFO]   2022-07-18 15:30:10 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,geneva=zurich,lyon=marseille
+[INFO]   2022-07-18 15:30:10 : dataplane : fibs-530 rule size: 595
+[INFO]   2022-07-18 15:30:10 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,geneva=zurich,lyon=paris
+[INFO]   2022-07-18 15:30:10 : dataplane : fibs-531 rule size: 360
+[INFO]   2022-07-18 15:30:10 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,geneva=zurich,marseille=milan
+[INFO]   2022-07-18 15:30:10 : dataplane : fibs-532 rule size: 592
+[INFO]   2022-07-18 15:30:10 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,lyon=marseille,madrid=paris
+[INFO]   2022-07-18 15:30:11 : dataplane : fibs-533 rule size: 831
+[INFO]   2022-07-18 15:30:11 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,lyon=marseille,marseille=milan
+[INFO]   2022-07-18 15:30:11 : dataplane : fibs-534 rule size: 656
+[INFO]   2022-07-18 15:30:11 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,lyon=marseille,milan=vienna
+[INFO]   2022-07-18 15:30:11 : dataplane : fibs-535 rule size: 384
+[INFO]   2022-07-18 15:30:11 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,lyon=paris,madrid=paris
+[INFO]   2022-07-18 15:30:11 : dataplane : fibs-536 rule size: 767
+[INFO]   2022-07-18 15:30:11 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,lyon=paris,marseille=milan
+[INFO]   2022-07-18 15:30:12 : dataplane : fibs-537 rule size: 574
+[INFO]   2022-07-18 15:30:12 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,lyon=paris,milan=zurich
+[INFO]   2022-07-18 15:30:12 : dataplane : fibs-538 rule size: 388
+[INFO]   2022-07-18 15:30:12 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,marseille=milan,milan=vienna
+[INFO]   2022-07-18 15:30:12 : dataplane : fibs-539 rule size: 668
+[INFO]   2022-07-18 15:30:12 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=paris,marseille=milan,milan=zurich
+[INFO]   2022-07-18 15:30:13 : dataplane : fibs-540 rule size: 389
+[INFO]   2022-07-18 15:30:13 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,lyon=marseille,madrid=paris
+[INFO]   2022-07-18 15:30:13 : dataplane : fibs-541 rule size: 1004
+[INFO]   2022-07-18 15:30:13 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,lyon=marseille,marseille=milan
+[INFO]   2022-07-18 15:30:13 : dataplane : fibs-542 rule size: 691
+[INFO]   2022-07-18 15:30:13 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,lyon=marseille,milan=zurich
+[INFO]   2022-07-18 15:30:13 : dataplane : fibs-543 rule size: 379
+[INFO]   2022-07-18 15:30:13 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,lyon=paris,madrid=paris
+[INFO]   2022-07-18 15:30:14 : dataplane : fibs-544 rule size: 538
+[INFO]   2022-07-18 15:30:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,lyon=paris,marseille=milan
+[INFO]   2022-07-18 15:30:14 : dataplane : fibs-545 rule size: 633
+[INFO]   2022-07-18 15:30:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,lyon=paris,milan=vienna
+[INFO]   2022-07-18 15:30:14 : dataplane : fibs-546 rule size: 378
+[INFO]   2022-07-18 15:30:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,marseille=milan,milan=vienna
+[INFO]   2022-07-18 15:30:14 : dataplane : fibs-547 rule size: 387
+[INFO]   2022-07-18 15:30:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:geneva=zurich,marseille=milan,milan=zurich
+[INFO]   2022-07-18 15:30:14 : dataplane : fibs-548 rule size: 186
+[INFO]   2022-07-18 15:30:14 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille,madrid=paris,milan=zurich
+[INFO]   2022-07-18 15:30:15 : dataplane : fibs-549 rule size: 932
+[INFO]   2022-07-18 15:30:15 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille,marseille=milan,milan=zurich
+[INFO]   2022-07-18 15:30:15 : dataplane : fibs-550 rule size: 762
+[INFO]   2022-07-18 15:30:15 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille,milan=roma,milan=zurich
+[INFO]   2022-07-18 15:30:15 : dataplane : fibs-551 rule size: 461
+[INFO]   2022-07-18 15:30:15 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille,milan=vienna,milan=zurich
+[INFO]   2022-07-18 15:30:15 : dataplane : fibs-552 rule size: 467
+[INFO]   2022-07-18 15:30:15 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=marseille,milan=zurich,roma=zurich
+[INFO]   2022-07-18 15:30:16 : dataplane : fibs-553 rule size: 556
+[INFO]   2022-07-18 15:30:16 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=paris,madrid=paris,milan=zurich
+[INFO]   2022-07-18 15:30:16 : dataplane : fibs-554 rule size: 658
+[INFO]   2022-07-18 15:30:16 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=paris,marseille=milan,milan=zurich
+[INFO]   2022-07-18 15:30:16 : dataplane : fibs-555 rule size: 587
+[INFO]   2022-07-18 15:30:16 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:lyon=paris,milan=vienna,milan=zurich
+[INFO]   2022-07-18 15:30:16 : dataplane : fibs-556 rule size: 294
+[INFO]   2022-07-18 15:30:16 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:marseille=milan,milan=roma,milan=zurich
+[INFO]   2022-07-18 15:30:17 : dataplane : fibs-557 rule size: 407
+[INFO]   2022-07-18 15:30:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:marseille=milan,milan=vienna,milan=zurich
+[INFO]   2022-07-18 15:30:17 : dataplane : fibs-558 rule size: 217
+[INFO]   2022-07-18 15:30:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:marseille=milan,milan=zurich,roma=zurich
+[INFO]   2022-07-18 15:30:17 : dataplane : fibs-559 rule size: 422
+[INFO]   2022-07-18 15:30:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=roma,milan=vienna,milan=zurich
+[INFO]   2022-07-18 15:30:17 : dataplane : fibs-560 rule size: 511
+[INFO]   2022-07-18 15:30:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:milan=vienna,milan=zurich,roma=zurich
+[INFO]   2022-07-18 15:30:18 : dataplane : fibs-561 rule size: 156
+[INFO]   2022-07-18 15:30:18 : verify - invalid policies size : 0
+[INFO]   2022-07-18 15:30:18 : verify time : 117.470517 s
+[INFO]   2022-07-18 15:30:18 : -------------Distribution statistics-------------------
+[INFO]   2022-07-18 15:30:18 : mf0 reachability number : 3391
+[INFO]   2022-07-18 15:30:18 : mf1 reachability number : 490
+[INFO]   2022-07-18 15:30:18 : mf2 reachability number : 170
+[INFO]   2022-07-18 15:30:18 : mf3 reachability number : 42
+[INFO]   2022-07-18 15:30:18 : mf0 isolation number : 35
+[INFO]   2022-07-18 15:30:18 : mf1 isolation number : 97
+[INFO]   2022-07-18 15:30:18 : mf0 waypoint number : 19850
+[INFO]   2022-07-18 15:30:18 : mf1 waypoint number : 1443
+[INFO]   2022-07-18 15:30:18 : mf2 waypoint number : 170
+[INFO]   2022-07-18 15:30:18 : mf3 waypoint number : 42
+[INFO]   2022-07-18 15:30:18 : S1 - check read data plane time : 19.086658
+[INFO]   2022-07-18 15:30:18 : S2 - check build graph time : 0.622407
+[INFO]   2022-07-18 15:30:18 : S3 - check dfs graph time : 18.829047
+[INFO]   2022-07-18 15:30:18 : S4 - check policy intersect time : 11.936144
+[INFO]   2022-07-18 15:30:18 : S1 - verify read data plane time : 110.049605
+[INFO]   2022-07-18 15:30:18 : S2 - verify build graph time : 4.948912
+[INFO]   2022-07-18 15:30:18 : S3 - verify dfs graph time : 1.918555
+[INFO]   2022-07-18 15:30:18 : S4 - verify hot edge time : 0.147182
+[INFO]   2022-07-18 15:30:18 : -------------Total statistics-------------------
+[INFO]   2022-07-18 15:30:18 : total time: 168.148555
+[INFO]   2022-07-18 15:30:18 : dst atom number: 133
+[INFO]   2022-07-18 15:30:18 : src atom number: 68
+[INFO]   2022-07-18 15:30:18 : link number : 128
+[INFO]   2022-07-18 15:30:18 : device number: 49
+[INFO]   2022-07-18 15:30:18 : edge port number : 65
+[INFO]   2022-07-18 15:30:18 : checker dataplane number : 65
+[INFO]   2022-07-18 15:30:18 : verify dataplane number : 497
+[INFO]   2022-07-18 15:30:18 : verify dataplane number no optimize : 5746

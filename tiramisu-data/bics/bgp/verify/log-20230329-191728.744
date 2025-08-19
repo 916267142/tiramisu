@@ -1,0 +1,53 @@
+initial time : 0.0 ms calculate time : 0.0 ms total time : 0.0 ms Init'ed and set active network
+Uploaded snapshot.
+Parsing now.
+Status: SUCCESS
+PARSING SUMMARY
+STATISTICS
+  Parsing results:
+    Parsed successfully: 49
+
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 12.902113 ms
+Verification time: 91.382457 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 5.197631 ms
+Verification time: 43.972136 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.973547 ms
+Verification time: 47.509643 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+initial time : 12040.373699 ms calculate time : 2901.337646 ms total time : 14941.711345 ms 

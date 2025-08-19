@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.5.17.1"], dstIps=["200.4.215.1"], ingressNodeRegex=greenvilleid16,finalNodeRegex=concord

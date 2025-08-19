@@ -1,0 +1,1 @@
+smt-reachability srcIps=["128.0.9.1"], dstIps=["200.4.223.1"], ingressNodeRegex=peerkingsport_9,finalNodeRegex=panamattcity

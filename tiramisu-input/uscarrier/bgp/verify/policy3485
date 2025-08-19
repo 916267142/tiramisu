@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.5.9.1"], dstIps=["128.0.15.1"], ingressNodeRegex=waycross,finalNodeRegex=peertoccoa_15

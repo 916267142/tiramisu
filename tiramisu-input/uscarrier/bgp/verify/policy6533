@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.131.1"], dstIps=["200.4.214.1"], ingressNodeRegex=birmingham,finalNodeRegex=ringgold

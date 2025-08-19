@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.151.1"], dstIps=["200.4.233.1"], ingressNodeRegex=hiawassee,finalNodeRegex=hawkinsville

@@ -1,0 +1,2587 @@
+initial time : 0.0 ms calculate time : 0.0 ms total time : 0.0 ms Init'ed and set active network
+Uploaded snapshot.
+Parsing now.
+Status: SUCCESS
+PARSING SUMMARY
+STATISTICS
+  Parsing results:
+    Parsed successfully: 49
+
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 12.564157 ms
+Verification time: 72.181812 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 6.731882 ms
+Verification time: 49.665398 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 5.025853 ms
+Verification time: 46.971041 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 7.302627 ms
+Verification time: 31.385131 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.111946 ms
+Verification time: 48.187076 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.956705 ms
+Verification time: 32.723815 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.783409 ms
+Verification time: 59.84381 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 7.578894 ms
+Verification time: 39.135709 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 4.291093 ms
+Verification time: 41.481879 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.650547 ms
+Verification time: 37.237304 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 3.030679 ms
+Verification time: 29.52546 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 5.098743 ms
+Verification time: 26.825456 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.348717 ms
+Verification time: 28.148462 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.734982 ms
+Verification time: 36.379865 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.407812 ms
+Verification time: 36.786601 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.275346 ms
+Verification time: 32.04851 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.139094 ms
+Verification time: 31.153724 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.751775 ms
+Verification time: 29.724681 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 4.005177 ms
+Verification time: 46.695937 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.539051 ms
+Verification time: 43.623652 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 3.156437 ms
+Verification time: 29.782973 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 3.837158 ms
+Verification time: 31.346249 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 2.162968 ms
+Verification time: 23.786465 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 2.599995 ms
+Verification time: 24.445243 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.485248 ms
+Verification time: 48.446586 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.213908 ms
+Verification time: 24.275369 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.722977 ms
+Verification time: 27.33412 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.186134 ms
+Verification time: 26.414542 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.77993 ms
+Verification time: 28.07796 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.924695 ms
+Verification time: 25.988652 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.593484 ms
+Verification time: 27.695631 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.727505 ms
+Verification time: 33.893697 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.767308 ms
+Verification time: 33.261283 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.94061 ms
+Verification time: 25.188812 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.626833 ms
+Verification time: 30.692302 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.504166 ms
+Verification time: 28.202102 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.053617 ms
+Verification time: 36.946958 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.444709 ms
+Verification time: 32.25186 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.77277 ms
+Verification time: 24.997436 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.937597 ms
+Verification time: 26.62568 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.257999 ms
+Verification time: 30.322235 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.2365 ms
+Verification time: 26.373275 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.124727 ms
+Verification time: 24.328484 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.775316 ms
+Verification time: 49.05686 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.351975 ms
+Verification time: 30.787867 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 2.890345 ms
+Verification time: 24.844248 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.584503 ms
+Verification time: 27.631229 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.227224 ms
+Verification time: 48.471311 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.225963 ms
+Verification time: 26.114079 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.152081 ms
+Verification time: 32.383081 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.637158 ms
+Verification time: 52.265881 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.96013 ms
+Verification time: 28.058352 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.978164 ms
+Verification time: 37.696966 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.710481 ms
+Verification time: 24.942384 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.423192 ms
+Verification time: 31.295521 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.808701 ms
+Verification time: 33.368741 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 2.153286 ms
+Verification time: 29.818027 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.88366 ms
+Verification time: 29.594566 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.487978 ms
+Verification time: 29.748523 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.710404 ms
+Verification time: 27.102851 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 5.0
+End Verification
+Generate time: 1.915917 ms
+Verification time: 26.690151 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.464615 ms
+Verification time: 34.25939 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.208935 ms
+Verification time: 33.141868 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.55998 ms
+Verification time: 28.423474 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.791574 ms
+Verification time: 27.940253 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.740702 ms
+Verification time: 25.847314 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 5.0
+End Verification
+Generate time: 1.573261 ms
+Verification time: 27.674904 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.173745 ms
+Verification time: 24.023795 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.607517 ms
+Verification time: 30.300904 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.360177 ms
+Verification time: 36.653325 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.452091 ms
+Verification time: 31.835235 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 2.33243 ms
+Verification time: 28.63874 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.871545 ms
+Verification time: 26.961546 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.886162 ms
+Verification time: 24.774774 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.882896 ms
+Verification time: 25.880885 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 5.0
+End Verification
+Generate time: 3.84007 ms
+Verification time: 31.059595 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.681673 ms
+Verification time: 25.362327 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.278971 ms
+Verification time: 27.07291 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.560051 ms
+Verification time: 23.806263 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.512734 ms
+Verification time: 24.206006 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.029036 ms
+Verification time: 24.566778 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.620808 ms
+Verification time: 24.999476 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 5.0
+End Verification
+Generate time: 1.441112 ms
+Verification time: 25.496499 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.762953 ms
+Verification time: 25.427978 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.076172 ms
+Verification time: 27.081349 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.05785 ms
+Verification time: 22.560023 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.532145 ms
+Verification time: 26.36494 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.518988 ms
+Verification time: 27.901876 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.550045 ms
+Verification time: 27.242254 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.804965 ms
+Verification time: 26.216915 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.684778 ms
+Verification time: 27.046378 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.865344 ms
+Verification time: 25.492732 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.658373 ms
+Verification time: 25.588948 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.732308 ms
+Verification time: 25.982601 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.779167 ms
+Verification time: 25.60128 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.766968 ms
+Verification time: 22.579166 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.462491 ms
+Verification time: 25.67112 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.695378 ms
+Verification time: 22.227883 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.682295 ms
+Verification time: 24.964231 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.534492 ms
+Verification time: 24.530872 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.920876 ms
+Verification time: 33.907968 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.936405 ms
+Verification time: 28.392361 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.031763 ms
+Verification time: 27.269448 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 2.342012 ms
+Verification time: 27.552861 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 3.917391 ms
+Verification time: 26.641291 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.648975 ms
+Verification time: 23.312935 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.790444 ms
+Verification time: 21.181191 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.605846 ms
+Verification time: 27.773089 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 2.11144 ms
+Verification time: 22.180168 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.414901 ms
+Verification time: 23.027247 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.761485 ms
+Verification time: 22.562694 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.629801 ms
+Verification time: 24.844638 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.617611 ms
+Verification time: 25.226419 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.794447 ms
+Verification time: 24.437643 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.372329 ms
+Verification time: 25.466012 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.954077 ms
+Verification time: 26.96332 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.332172 ms
+Verification time: 26.344695 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.51544 ms
+Verification time: 24.714822 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.375032 ms
+Verification time: 24.028084 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.338439 ms
+Verification time: 27.57624 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.393105 ms
+Verification time: 23.711696 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.396456 ms
+Verification time: 26.147175 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.391735 ms
+Verification time: 24.369108 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.553077 ms
+Verification time: 25.129801 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.7601 ms
+Verification time: 27.357101 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.410699 ms
+Verification time: 28.757097 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.544078 ms
+Verification time: 25.60117 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.447663 ms
+Verification time: 24.801409 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.39948 ms
+Verification time: 25.570748 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.358347 ms
+Verification time: 23.9 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.346531 ms
+Verification time: 24.806378 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.462321 ms
+Verification time: 24.78955 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.407109 ms
+Verification time: 27.935991 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.930945 ms
+Verification time: 27.702281 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.921834 ms
+Verification time: 23.415967 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.979509 ms
+Verification time: 26.95384 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.556266 ms
+Verification time: 27.390059 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.717617 ms
+Verification time: 26.444215 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.692249 ms
+Verification time: 25.537841 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.972034 ms
+Verification time: 27.355681 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.761616 ms
+Verification time: 24.82085 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.404375 ms
+Verification time: 37.11655 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.523028 ms
+Verification time: 24.913118 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.937035 ms
+Verification time: 29.603564 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.900487 ms
+Verification time: 28.486494 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.562374 ms
+Verification time: 25.173958 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.445549 ms
+Verification time: 22.631718 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.87906 ms
+Verification time: 25.968268 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 2.184134 ms
+Verification time: 33.494737 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.764034 ms
+Verification time: 24.949424 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 5.0
+End Verification
+Generate time: 1.491351 ms
+Verification time: 26.736132 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.453792 ms
+Verification time: 25.428126 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.346742 ms
+Verification time: 25.908687 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.409079 ms
+Verification time: 26.55371 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.554549 ms
+Verification time: 27.796511 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.312944 ms
+Verification time: 26.387496 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.478215 ms
+Verification time: 26.405933 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.542279 ms
+Verification time: 26.48723 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.397613 ms
+Verification time: 27.26683 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.466327 ms
+Verification time: 32.772805 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.371137 ms
+Verification time: 27.438387 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.433716 ms
+Verification time: 25.902298 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.327208 ms
+Verification time: 24.700183 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.31969 ms
+Verification time: 26.136302 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.36105 ms
+Verification time: 26.338193 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.397462 ms
+Verification time: 23.496851 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.37764 ms
+Verification time: 24.164079 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.372138 ms
+Verification time: 25.373401 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.696391 ms
+Verification time: 25.394156 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.31377 ms
+Verification time: 22.905567 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.333204 ms
+Verification time: 24.637362 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.403549 ms
+Verification time: 24.193844 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 3.207655 ms
+Verification time: 26.619906 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.352382 ms
+Verification time: 25.481226 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.2945 ms
+Verification time: 22.995153 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.488478 ms
+Verification time: 27.171101 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.538122 ms
+Verification time: 29.668032 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 5.0
+End Verification
+Generate time: 1.588672 ms
+Verification time: 23.501654 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.331635 ms
+Verification time: 26.049617 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.921028 ms
+Verification time: 26.232874 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 4.0
+End Verification
+Generate time: 1.262448 ms
+Verification time: 24.407554 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.262599 ms
+Verification time: 24.988576 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.385268 ms
+Verification time: 24.340553 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+Start generation
+End generation
+Start Verification
+Number of nodes: 614
+Number of edges: 821
+Failures to disconnect the graph 3.0
+End Verification
+Generate time: 1.516363 ms
+Verification time: 27.340303 ms
+Status: SUCCESS
+Question: arcRAG actions=[ACCEPTED]
+
+Ok
+Summary: 0 (non-assertion) results; 
+initial time : 7124.264449 ms calculate time : 183693.338372 ms total time : 190817.602821 ms 

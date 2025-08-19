@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.136.1"], dstIps=["128.0.2.1"], ingressNodeRegex=blitchton,finalNodeRegex=peerblairsville_2

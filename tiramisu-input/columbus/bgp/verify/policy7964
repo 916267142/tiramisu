@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.2.25.1"], dstIps=["200.2.102.1"], ingressNodeRegex=guatemala,finalNodeRegex=peerstttcroix_13

@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.2.84.1"], dstIps=["200.2.37.1"], ingressNodeRegex=stttcroix,finalNodeRegex=curacao

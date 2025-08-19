@@ -1,0 +1,1 @@
+smt-reachability srcIps=["100.0.155.1"], dstIps=["100.0.143.1"], ingressNodeRegex=newbern,finalNodeRegex=blitchton

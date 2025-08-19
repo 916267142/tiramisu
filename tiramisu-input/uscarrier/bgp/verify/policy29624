@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.241.1"], dstIps=["200.5.12.1"], ingressNodeRegex=pensacola,finalNodeRegex=peernodeid86_14

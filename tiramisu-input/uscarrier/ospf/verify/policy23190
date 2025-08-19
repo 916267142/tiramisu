@@ -1,0 +1,1 @@
+smt-reachability srcIps=["100.0.95.1"], dstIps=["100.0.146.1"], ingressNodeRegex=waycross,finalNodeRegex=panamacity

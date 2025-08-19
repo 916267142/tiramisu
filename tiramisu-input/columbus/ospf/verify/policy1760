@@ -1,0 +1,1 @@
+smt-reachability srcIps=["100.0.41.1"], dstIps=["100.0.12.1"], ingressNodeRegex=bonaire,finalNodeRegex=ecuador

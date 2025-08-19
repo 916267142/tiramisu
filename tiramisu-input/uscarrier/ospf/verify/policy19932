@@ -1,0 +1,1 @@
+smt-reachability srcIps=["100.0.137.1"], dstIps=["100.0.90.1"], ingressNodeRegex=chattanooga,finalNodeRegex=bluefield

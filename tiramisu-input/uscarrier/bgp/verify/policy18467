@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.216.1"], dstIps=["128.0.9.1"], ingressNodeRegex=asheville,finalNodeRegex=peerkingsport_9

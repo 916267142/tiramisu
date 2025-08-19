@@ -1,0 +1,16 @@
+[RESET]  2022-07-16 20:27:13 : === reset path ===
+[INFO]   2022-07-16 20:27:14 : http://127.0.0.1:8192/init_minesweeper,read configs
+[INFO]   2022-07-16 20:27:15 : http://127.0.0.1:8192/get_dataplane,
+[INFO]   2022-07-16 20:27:17 : http://127.0.0.1:8192/get_topology,
+[INFO]   2022-07-16 20:27:17 : Number of interface entries: 537
+[INFO]   2022-07-16 20:27:17 : Number of acl entries: 0
+[INFO]   2022-07-16 20:27:17 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-16 20:27:19 : dataplane : fibs-0 rule size: 58086
+[RESET]  2022-07-16 20:28:48 : === reset path ===
+[INFO]   2022-07-16 20:28:49 : http://127.0.0.1:8192/init_minesweeper,read configs
+[INFO]   2022-07-16 20:28:51 : http://127.0.0.1:8192/get_dataplane,
+[INFO]   2022-07-16 20:28:52 : http://127.0.0.1:8192/get_topology,
+[INFO]   2022-07-16 20:28:52 : Number of interface entries: 537
+[INFO]   2022-07-16 20:28:52 : Number of acl entries: 0
+[INFO]   2022-07-16 20:28:52 : http://127.0.0.1:8192/get_dataplane,EdgeBlacklist:
+[INFO]   2022-07-16 20:28:54 : dataplane : fibs-0 rule size: 58086

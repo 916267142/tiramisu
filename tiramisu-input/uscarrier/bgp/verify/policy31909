@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.230.1"], dstIps=["128.0.12.1"], ingressNodeRegex=lakettcity,finalNodeRegex=peernodeid85_12

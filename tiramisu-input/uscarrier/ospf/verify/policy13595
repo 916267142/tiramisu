@@ -1,0 +1,1 @@
+smt-reachability srcIps=["100.0.34.1"], dstIps=["100.0.112.1"], ingressNodeRegex=rentz,finalNodeRegex=mobile

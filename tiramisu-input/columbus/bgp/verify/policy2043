@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.2.39.1"], dstIps=["128.0.12.1"], ingressNodeRegex=honduras,finalNodeRegex=peerpanama_12

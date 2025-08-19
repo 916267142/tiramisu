@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.1.38.1"], dstIps=["200.1.51.1"], ingressNodeRegex=budapest,finalNodeRegex=luxembourg

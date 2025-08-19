@@ -1,0 +1,1 @@
+smt-reachability srcIps=["100.0.13.1"], dstIps=["100.0.22.1"], ingressNodeRegex=nodeid56,finalNodeRegex=nodeid32

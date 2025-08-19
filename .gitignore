@@ -43,9 +43,7 @@ coverage*
 __pycache__
 .pytest_cache/
 
-containers/*
-tiramisu-input/
-tiramisu-data/
+**/containers/*
 tiramisu-input.tar.gz
 tiramisu-data.tar.gz
 .projects/

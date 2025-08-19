@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.1.39.1"], dstIps=["200.1.23.1"], ingressNodeRegex=vaduz,finalNodeRegex=peermarseille_12

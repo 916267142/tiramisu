@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.5.33.1"], dstIps=["200.4.202.1"], ingressNodeRegex=lynchburg,finalNodeRegex=aiken

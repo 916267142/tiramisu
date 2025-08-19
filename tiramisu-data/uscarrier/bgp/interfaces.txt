@@ -1,0 +1,1374 @@
+# Router:abbeville
+## Interface:FastEthernet0/0
+10.0.1.65/31
+## Interface:FastEthernet0/1
+10.0.0.91/31
+## Interface:FastEthernet1/0
+10.0.1.3/31
+## Interface:GigabitEthernet0/0
+200.4.235.1/24
+# Router:abingdon
+## Interface:FastEthernet0/0
+10.0.1.153/31
+## Interface:FastEthernet0/1
+10.0.0.205/31
+## Interface:GigabitEthernet0/0
+200.4.206.1/24
+# Router:adel
+## Interface:FastEthernet0/0
+10.0.1.77/31
+## Interface:FastEthernet0/1
+10.0.1.100/31
+## Interface:GigabitEthernet0/0
+200.4.180.1/24
+# Router:aiken
+## Interface:FastEthernet0/0
+10.0.0.123/31
+## Interface:FastEthernet0/1
+10.0.1.31/31
+## Interface:GigabitEthernet0/0
+200.4.202.1/24
+# Router:albany
+## Interface:FastEthernet0/0
+10.0.0.12/31
+## Interface:FastEthernet0/1
+10.0.0.10/31
+## Interface:FastEthernet1/0
+10.0.0.8/31
+## Interface:GigabitEthernet0/0
+200.4.170.1/24
+# Router:anderson
+## Interface:FastEthernet0/0
+10.0.0.49/31
+## Interface:GigabitEthernet0/0
+200.4.168.1/24
+# Router:andrews
+## Interface:FastEthernet0/0
+10.0.0.255/31
+## Interface:FastEthernet0/1
+10.0.1.144/31
+## Interface:FastEthernet1/0
+10.0.1.141/31
+## Interface:FastEthernet1/1
+10.0.1.89/31
+## Interface:GigabitEthernet0/0
+200.5.6.1/24
+# Router:ashburn
+## Interface:FastEthernet0/0
+10.0.0.72/31
+## Interface:FastEthernet0/1
+10.0.0.70/31
+## Interface:GigabitEthernet0/0
+200.4.161.1/24
+# Router:asheville
+## Interface:FastEthernet0/0
+10.0.1.71/31
+## Interface:FastEthernet0/1
+10.0.0.107/31
+## Interface:GigabitEthernet0/0
+200.4.216.1/24
+# Router:ashland
+## Interface:FastEthernet0/0
+10.0.1.55/31
+## Interface:GigabitEthernet0/0
+200.5.20.1/24
+# Router:athens
+## Interface:FastEthernet0/0
+10.0.0.83/31
+## Interface:FastEthernet0/1
+10.0.1.121/31
+## Interface:GigabitEthernet0/0
+200.4.155.1/24
+# Router:atlanta
+## Interface:FastEthernet0/0
+10.0.0.82/31
+## Interface:FastEthernet0/1
+10.0.0.86/31
+## Interface:FastEthernet1/0
+10.0.0.84/31
+## Interface:FastEthernet1/1
+10.0.0.78/31
+## Interface:FastEthernet2/0
+10.0.0.88/31
+## Interface:FastEthernet2/1
+10.0.0.80/31
+## Interface:GigabitEthernet0/0
+200.4.209.1/24
+# Router:augusta
+## Interface:FastEthernet0/0
+10.0.0.122/31
+## Interface:FastEthernet0/1
+10.0.0.120/31
+## Interface:FastEthernet1/0
+10.0.0.118/31
+## Interface:FastEthernet1/1
+10.0.0.124/31
+## Interface:GigabitEthernet0/0
+200.5.19.1/24
+# Router:avonttpark
+## Interface:FastEthernet0/0
+10.0.1.92/31
+## Interface:FastEthernet0/1
+10.0.1.90/31
+## Interface:GigabitEthernet0/0
+200.4.210.1/24
+# Router:baldwin
+## Interface:FastEthernet0/0
+10.0.1.62/31
+## Interface:FastEthernet0/1
+10.0.0.225/31
+## Interface:GigabitEthernet0/0
+200.5.27.1/24
+# Router:beaufort
+## Interface:FastEthernet0/0
+10.0.1.10/31
+## Interface:FastEthernet0/1
+10.0.0.131/31
+## Interface:GigabitEthernet0/0
+200.4.252.1/24
+# Router:bethune
+## Interface:FastEthernet0/0
+10.0.1.125/31
+## Interface:FastEthernet0/1
+10.0.0.247/31
+## Interface:GigabitEthernet0/0
+200.4.177.1/24
+# Router:birmingham
+## Interface:FastEthernet0/0
+10.0.0.87/31
+## Interface:FastEthernet0/1
+10.0.0.165/31
+## Interface:GigabitEthernet0/0
+200.4.131.1/24
+# Router:blacksburg
+## Interface:FastEthernet0/0
+10.0.1.16/31
+## Interface:FastEthernet0/1
+10.0.1.14/31
+## Interface:GigabitEthernet0/0
+200.4.152.1/24
+# Router:blairsville
+## Interface:FastEthernet0/0
+10.0.1.9/31
+## Interface:FastEthernet0/1
+10.0.1.117/31
+## Interface:FastEthernet1/0
+10.0.0.231/31
+## Interface:GigabitEthernet0/0
+200.5.8.1/24
+# Router:bland
+## Interface:FastEthernet0/0
+10.0.1.50/31
+## Interface:FastEthernet0/1
+10.0.1.52/31
+## Interface:GigabitEthernet0/0
+200.4.231.1/24
+# Router:blitchton
+## Interface:FastEthernet0/0
+10.0.0.17/31
+## Interface:FastEthernet0/1
+10.0.0.95/31
+## Interface:FastEthernet1/0
+10.0.0.185/31
+## Interface:GigabitEthernet0/0
+200.4.136.1/24
+# Router:blountstown
+## Interface:FastEthernet0/0
+10.0.1.42/31
+## Interface:FastEthernet0/1
+10.0.1.40/31
+## Interface:GigabitEthernet0/0
+200.5.31.1/24
+# Router:bluefield
+## Interface:FastEthernet0/0
+10.0.1.51/31
+## Interface:GigabitEthernet0/0
+200.5.0.1/24
+# Router:blueridge
+## Interface:FastEthernet0/0
+10.0.1.8/31
+## Interface:FastEthernet0/1
+10.0.1.6/31
+## Interface:FastEthernet1/0
+10.0.0.103/31
+## Interface:GigabitEthernet0/0
+200.5.13.1/24
+# Router:boone
+## Interface:FastEthernet0/0
+10.0.1.63/31
+## Interface:FastEthernet0/1
+10.0.0.113/31
+## Interface:GigabitEthernet0/0
+200.5.21.1/24
+# Router:bristol
+## Interface:FastEthernet0/0
+10.0.1.152/31
+## Interface:FastEthernet0/1
+10.0.1.139/31
+## Interface:FastEthernet1/0
+10.0.0.195/31
+## Interface:GigabitEthernet0/0
+200.5.43.1/24
+# Router:brysonttcity
+## Interface:FastEthernet0/0
+10.0.0.254/31
+## Interface:FastEthernet0/1
+10.0.0.252/31
+## Interface:GigabitEthernet0/0
+200.4.176.1/24
+# Router:burlington
+## Interface:FastEthernet0/0
+10.0.0.199/31
+## Interface:FastEthernet0/1
+10.0.0.244/31
+## Interface:GigabitEthernet0/0
+200.4.229.1/24
+# Router:calhoun
+## Interface:FastEthernet0/0
+10.0.1.28/31
+## Interface:GigabitEthernet0/0
+200.4.189.1/24
+# Router:canton
+## Interface:FastEthernet0/0
+10.0.0.85/31
+## Interface:FastEthernet0/1
+10.0.0.105/31
+## Interface:GigabitEthernet0/0
+200.5.34.1/24
+# Router:carlisle
+## Interface:FastEthernet0/0
+10.0.1.74/31
+## Interface:GigabitEthernet0/0
+200.4.224.1/24
+# Router:cartersville
+## Interface:FastEthernet0/0
+10.0.1.29/31
+## Interface:FastEthernet0/1
+10.0.1.68/31
+## Interface:GigabitEthernet0/0
+200.4.127.1/24
+# Router:chamersburg
+## Interface:FastEthernet0/0
+10.0.1.4/31
+## Interface:FastEthernet0/1
+10.0.0.215/31
+## Interface:GigabitEthernet0/0
+200.4.244.1/24
+# Router:charleston
+## Interface:FastEthernet0/0
+10.0.1.57/31
+## Interface:FastEthernet0/1
+10.0.0.1/31
+## Interface:GigabitEthernet0/0
+200.5.41.1/24
+# Router:charlestonid102
+## Interface:FastEthernet0/0
+10.0.0.97/31
+## Interface:FastEthernet0/1
+10.0.0.129/31
+## Interface:GigabitEthernet0/0
+200.4.237.1/24
+# Router:charlotte
+## Interface:FastEthernet0/0
+10.0.0.176/31
+## Interface:FastEthernet0/1
+10.0.0.174/31
+## Interface:FastEthernet1/0
+10.0.0.41/31
+## Interface:GigabitEthernet0/0
+200.5.14.1/24
+# Router:charlottesville
+## Interface:FastEthernet0/0
+10.0.0.32/31
+## Interface:FastEthernet0/1
+10.0.0.34/31
+## Interface:GigabitEthernet0/0
+200.4.200.1/24
+# Router:chattanooga
+## Interface:FastEthernet0/0
+10.0.1.23/31
+## Interface:FastEthernet0/1
+10.0.1.113/31
+## Interface:GigabitEthernet0/0
+200.5.23.1/24
+# Router:cherokee
+## Interface:FastEthernet0/0
+10.0.0.253/31
+## Interface:FastEthernet0/1
+10.0.1.66/31
+## Interface:GigabitEthernet0/0
+200.4.198.1/24
+# Router:chester
+## Interface:FastEthernet0/0
+10.0.1.64/31
+## Interface:FastEthernet0/1
+10.0.1.33/31
+## Interface:FastEthernet1/0
+10.0.1.49/31
+## Interface:FastEthernet1/1
+10.0.1.39/31
+## Interface:GigabitEthernet0/0
+200.4.164.1/24
+# Router:christiansburg
+## Interface:FastEthernet0/0
+10.0.1.17/31
+## Interface:FastEthernet0/1
+10.0.1.1/31
+## Interface:FastEthernet1/0
+10.0.1.27/31
+## Interface:GigabitEthernet0/0
+200.4.159.1/24
+# Router:clemson
+## Interface:FastEthernet0/0
+10.0.0.48/31
+## Interface:FastEthernet0/1
+10.0.0.50/31
+## Interface:FastEthernet1/0
+10.0.0.46/31
+## Interface:FastEthernet1/1
+10.0.0.52/31
+## Interface:GigabitEthernet0/0
+200.4.183.1/24
+# Router:columbia
+## Interface:FastEthernet0/0
+10.0.1.30/31
+## Interface:FastEthernet0/1
+10.0.0.121/31
+## Interface:FastEthernet1/0
+10.0.1.32/31
+## Interface:FastEthernet1/1
+10.0.0.149/31
+## Interface:FastEthernet2/0
+10.0.0.241/31
+## Interface:GigabitEthernet0/0
+200.4.242.1/24
+# Router:columbus
+## Interface:FastEthernet0/0
+10.0.0.79/31
+## Interface:FastEthernet0/1
+10.0.0.167/31
+## Interface:GigabitEthernet0/0
+200.4.167.1/24
+# Router:concord
+## Interface:FastEthernet0/0
+10.0.0.177/31
+## Interface:FastEthernet0/1
+10.0.1.114/31
+## Interface:GigabitEthernet0/0
+200.4.215.1/24
+# Router:copperhill
+## Interface:FastEthernet0/0
+10.0.1.7/31
+## Interface:FastEthernet0/1
+10.0.1.130/31
+## Interface:GigabitEthernet0/0
+200.4.204.1/24
+# Router:courtney
+## Interface:FastEthernet0/0
+10.0.1.126/31
+## Interface:FastEthernet0/1
+10.0.0.115/31
+## Interface:GigabitEthernet0/0
+200.5.29.1/24
+# Router:crestview
+## Interface:FastEthernet0/0
+10.0.1.150/31
+## Interface:FastEthernet0/1
+10.0.0.181/31
+## Interface:GigabitEthernet0/0
+200.4.143.1/24
+# Router:dalton
+## Interface:FastEthernet0/0
+10.0.1.22/31
+## Interface:FastEthernet0/1
+10.0.0.101/31
+## Interface:FastEthernet1/0
+10.0.1.20/31
+## Interface:GigabitEthernet0/0
+200.4.234.1/24
+# Router:danville
+## Interface:FastEthernet0/0
+10.0.1.111/31
+## Interface:FastEthernet0/1
+10.0.1.13/31
+## Interface:FastEthernet1/0
+10.0.1.134/31
+## Interface:GigabitEthernet0/0
+200.5.24.1/24
+# Router:darien
+## Interface:FastEthernet0/0
+10.0.0.206/31
+## Interface:FastEthernet0/1
+10.0.0.208/31
+## Interface:GigabitEthernet0/0
+200.4.222.1/24
+# Router:dothan
+## Interface:FastEthernet0/0
+10.0.0.169/31
+## Interface:FastEthernet0/1
+10.0.1.146/31
+## Interface:GigabitEthernet0/0
+200.4.217.1/24
+# Router:douglas
+## Interface:FastEthernet0/0
+10.0.0.243/31
+## Interface:FastEthernet0/1
+10.0.1.99/31
+## Interface:FastEthernet1/0
+10.0.0.251/31
+## Interface:GigabitEthernet0/0
+200.4.138.1/24
+# Router:durham
+## Interface:FastEthernet0/0
+10.0.0.198/31
+## Interface:FastEthernet0/1
+10.0.0.200/31
+## Interface:GigabitEthernet0/0
+200.4.207.1/24
+# Router:easley
+## Interface:FastEthernet0/0
+10.0.1.73/31
+## Interface:FastEthernet0/1
+10.0.0.57/31
+## Interface:GigabitEthernet0/0
+200.4.195.1/24
+# Router:edinburg
+## Interface:FastEthernet0/0
+10.0.0.18/31
+## Interface:FastEthernet0/1
+10.0.0.20/31
+## Interface:GigabitEthernet0/0
+200.4.238.1/24
+# Router:ellijay
+## Interface:FastEthernet0/0
+10.0.0.102/31
+## Interface:FastEthernet0/1
+10.0.0.104/31
+## Interface:FastEthernet1/0
+10.0.0.100/31
+## Interface:GigabitEthernet0/0
+200.5.3.1/24
+# Router:fayetteville
+## Interface:FastEthernet0/0
+10.0.1.108/31
+## Interface:FastEthernet0/1
+10.0.1.79/31
+## Interface:FastEthernet1/0
+10.0.1.106/31
+## Interface:FastEthernet1/1
+10.0.1.104/31
+## Interface:FastEthernet2/0
+10.0.0.159/31
+## Interface:FastEthernet2/1
+10.0.1.102/31
+## Interface:GigabitEthernet0/0
+200.4.163.1/24
+# Router:florence
+## Interface:FastEthernet0/0
+10.0.1.124/31
+## Interface:FastEthernet0/1
+10.0.0.29/31
+## Interface:FastEthernet1/0
+10.0.0.239/31
+## Interface:FastEthernet1/1
+10.0.0.161/31
+## Interface:GigabitEthernet0/0
+200.4.220.1/24
+# Router:fortttmyers
+## Interface:FastEthernet0/0
+10.0.1.93/31
+## Interface:GigabitEthernet0/0
+200.4.218.1/24
+# Router:franklin
+## Interface:FastEthernet0/0
+10.0.1.19/31
+## Interface:FastEthernet0/1
+10.0.1.96/31
+## Interface:GigabitEthernet0/0
+200.5.16.1/24
+# Router:frontttroyal
+## Interface:FastEthernet0/0
+10.0.0.173/31
+## Interface:FastEthernet0/1
+10.0.0.197/31
+## Interface:GigabitEthernet0/0
+200.5.25.1/24
+# Router:georgetown
+## Interface:FastEthernet0/0
+10.0.0.31/31
+## Interface:FastEthernet0/1
+10.0.0.135/31
+## Interface:GigabitEthernet0/0
+200.4.232.1/24
+# Router:gettysburg
+## Interface:FastEthernet0/0
+10.0.1.75/31
+## Interface:FastEthernet0/1
+10.0.1.5/31
+## Interface:GigabitEthernet0/0
+200.5.11.1/24
+# Router:greensboro
+## Interface:FastEthernet0/0
+10.0.0.245/31
+## Interface:FastEthernet0/1
+10.0.1.110/31
+## Interface:FastEthernet1/0
+10.0.0.157/31
+## Interface:GigabitEthernet0/0
+200.4.219.1/24
+# Router:greenville
+## Interface:FastEthernet0/0
+10.0.1.70/31
+## Interface:FastEthernet0/1
+10.0.0.51/31
+## Interface:FastEthernet1/0
+10.0.1.72/31
+## Interface:FastEthernet1/1
+10.0.0.43/31
+## Interface:GigabitEthernet0/0
+200.4.185.1/24
+# Router:greenvilleid16
+## Interface:FastEthernet0/0
+10.0.1.60/31
+## Interface:FastEthernet0/1
+10.0.1.58/31
+## Interface:GigabitEthernet0/0
+200.5.17.1/24
+# Router:greenwood
+## Interface:FastEthernet0/0
+10.0.0.90/31
+## Interface:GigabitEthernet0/0
+200.4.178.1/24
+# Router:hagerstown
+## Interface:FastEthernet0/0
+10.0.0.214/31
+## Interface:FastEthernet0/1
+10.0.0.216/31
+## Interface:GigabitEthernet0/0
+200.4.197.1/24
+# Router:harrisonburg
+## Interface:FastEthernet0/0
+10.0.0.60/31
+## Interface:FastEthernet0/1
+10.0.0.62/31
+## Interface:FastEthernet1/0
+10.0.0.64/31
+## Interface:GigabitEthernet0/0
+200.4.137.1/24
+# Router:hartwell
+## Interface:FastEthernet0/0
+10.0.1.120/31
+## Interface:FastEthernet0/1
+10.0.0.119/31
+## Interface:GigabitEthernet0/0
+200.4.253.1/24
+# Router:hawkinsville
+## Interface:FastEthernet0/0
+10.0.1.136/31
+## Interface:FastEthernet0/1
+10.0.0.237/31
+## Interface:FastEthernet1/0
+10.0.0.39/31
+## Interface:GigabitEthernet0/0
+200.4.233.1/24
+# Router:hayesville
+## Interface:FastEthernet0/0
+10.0.1.145/31
+## Interface:FastEthernet0/1
+10.0.0.229/31
+## Interface:GigabitEthernet0/0
+200.4.147.1/24
+# Router:herndon
+## Interface:FastEthernet0/0
+10.0.0.73/31
+## Interface:FastEthernet0/1
+10.0.1.123/31
+## Interface:GigabitEthernet0/0
+200.5.36.1/24
+# Router:hiawassee
+## Interface:FastEthernet0/0
+10.0.1.18/31
+## Interface:FastEthernet0/1
+10.0.0.233/31
+## Interface:GigabitEthernet0/0
+200.4.151.1/24
+# Router:hickory
+## Interface:FastEthernet0/0
+10.0.0.106/31
+## Interface:FastEthernet0/1
+10.0.0.45/31
+## Interface:GigabitEthernet0/0
+200.4.249.1/24
+# Router:hickorytttavern
+## Interface:FastEthernet0/0
+10.0.1.2/31
+## Interface:FastEthernet0/1
+10.0.0.47/31
+## Interface:GigabitEthernet0/0
+200.5.18.1/24
+# Router:highttpoint
+## Interface:FastEthernet0/0
+10.0.1.133/31
+## Interface:FastEthernet0/1
+10.0.0.109/31
+## Interface:FastEthernet1/0
+10.0.0.155/31
+## Interface:GigabitEthernet0/0
+200.4.212.1/24
+# Router:hiltontthead
+## Interface:FastEthernet0/0
+10.0.1.11/31
+## Interface:FastEthernet0/1
+10.0.0.145/31
+## Interface:GigabitEthernet0/0
+200.4.144.1/24
+# Router:hinesville
+## Interface:FastEthernet0/0
+10.0.0.207/31
+## Interface:FastEthernet0/1
+10.0.0.183/31
+## Interface:GigabitEthernet0/0
+200.4.128.1/24
+# Router:huntington
+## Interface:FastEthernet0/0
+10.0.1.54/31
+## Interface:FastEthernet0/1
+10.0.1.56/31
+## Interface:GigabitEthernet0/0
+200.4.254.1/24
+# Router:jacksonville
+## Interface:FastEthernet0/0
+10.0.1.109/31
+## Interface:FastEthernet0/1
+10.0.1.148/31
+## Interface:GigabitEthernet0/0
+200.4.255.1/24
+# Router:jacksonvilleid5
+## Interface:FastEthernet0/0
+10.0.0.69/31
+## Interface:FastEthernet0/1
+10.0.1.45/31
+## Interface:FastEthernet1/0
+10.0.0.59/31
+## Interface:GigabitEthernet0/0
+200.4.186.1/24
+# Router:johnsonttcity
+## Interface:FastEthernet0/0
+10.0.1.138/31
+## Interface:FastEthernet0/1
+10.0.0.193/31
+## Interface:GigabitEthernet0/0
+200.4.236.1/24
+# Router:kernersville
+## Interface:FastEthernet0/0
+10.0.1.132/31
+## Interface:FastEthernet0/1
+10.0.0.153/31
+## Interface:GigabitEthernet0/0
+200.4.166.1/24
+# Router:kershaw
+## Interface:FastEthernet0/0
+10.0.0.246/31
+## Interface:FastEthernet0/1
+10.0.0.248/31
+## Interface:GigabitEthernet0/0
+200.4.126.1/24
+# Router:kingsport
+## Interface:FastEthernet0/0
+10.0.0.194/31
+## Interface:FastEthernet0/1
+10.0.0.192/31
+## Interface:FastEthernet1/0
+10.0.0.23/31
+## Interface:GigabitEthernet0/0
+200.4.227.1/24
+# Router:kinston
+## Interface:FastEthernet0/0
+10.0.1.61/31
+## Interface:FastEthernet0/1
+10.0.1.80/31
+## Interface:GigabitEthernet0/0
+200.4.145.1/24
+# Router:lakettcity
+## Interface:FastEthernet0/0
+10.0.0.68/31
+## Interface:FastEthernet0/1
+10.0.0.66/31
+## Interface:GigabitEthernet0/0
+200.4.230.1/24
+# Router:lancaster
+## Interface:FastEthernet0/0
+10.0.0.249/31
+## Interface:FastEthernet0/1
+10.0.1.37/31
+## Interface:GigabitEthernet0/0
+200.4.171.1/24
+# Router:leesburg
+## Interface:FastEthernet0/0
+10.0.1.122/31
+## Interface:FastEthernet0/1
+10.0.0.221/31
+## Interface:GigabitEthernet0/0
+200.4.165.1/24
+# Router:leesburgid143
+## Interface:FastEthernet0/0
+10.0.1.82/31
+## Interface:FastEthernet0/1
+10.0.0.211/31
+## Interface:GigabitEthernet0/0
+200.4.156.1/24
+# Router:leslie
+## Interface:FastEthernet0/0
+10.0.1.137/31
+## Interface:FastEthernet0/1
+10.0.1.35/31
+## Interface:GigabitEthernet0/0
+200.5.1.1/24
+# Router:levelttcross
+## Interface:FastEthernet0/0
+10.0.1.127/31
+## Interface:FastEthernet0/1
+10.0.1.87/31
+## Interface:FastEthernet1/0
+10.0.0.227/31
+## Interface:GigabitEthernet0/0
+200.4.182.1/24
+# Router:lexington
+## Interface:FastEthernet0/0
+10.0.0.116/31
+## Interface:FastEthernet0/1
+10.0.0.75/31
+## Interface:GigabitEthernet0/0
+200.4.154.1/24
+# Router:lexingtonid33
+## Interface:FastEthernet0/0
+10.0.0.112/31
+## Interface:FastEthernet0/1
+10.0.0.114/31
+## Interface:FastEthernet1/0
+10.0.0.108/31
+## Interface:FastEthernet1/1
+10.0.0.110/31
+## Interface:GigabitEthernet0/0
+200.5.5.1/24
+# Router:lynchburg
+## Interface:FastEthernet0/0
+10.0.0.33/31
+## Interface:FastEthernet0/1
+10.0.1.12/31
+## Interface:FastEthernet1/0
+10.0.0.7/31
+## Interface:GigabitEthernet0/0
+200.5.33.1/24
+# Router:macon
+## Interface:FastEthernet0/0
+10.0.0.13/31
+## Interface:FastEthernet0/1
+10.0.0.89/31
+## Interface:FastEthernet1/0
+10.0.1.34/31
+## Interface:GigabitEthernet0/0
+200.4.201.1/24
+# Router:maitland
+## Interface:FastEthernet0/0
+10.0.1.83/31
+## Interface:FastEthernet0/1
+10.0.1.94/31
+## Interface:GigabitEthernet0/0
+200.5.37.1/24
+# Router:maretta
+## Interface:FastEthernet0/0
+10.0.0.81/31
+## Interface:FastEthernet0/1
+10.0.1.69/31
+## Interface:GigabitEthernet0/0
+200.4.245.1/24
+# Router:marion
+## Interface:FastEthernet0/0
+10.0.0.204/31
+## Interface:FastEthernet0/1
+10.0.0.202/31
+## Interface:GigabitEthernet0/0
+200.4.203.1/24
+# Router:martinsburg
+## Interface:FastEthernet0/0
+10.0.0.217/31
+## Interface:FastEthernet0/1
+10.0.1.85/31
+## Interface:GigabitEthernet0/0
+200.5.30.1/24
+# Router:martinsville
+## Interface:FastEthernet0/0
+10.0.1.135/31
+## Interface:FastEthernet0/1
+10.0.1.142/31
+## Interface:GigabitEthernet0/0
+200.4.148.1/24
+# Router:metter
+## Interface:FastEthernet0/0
+10.0.0.93/31
+## Interface:FastEthernet0/1
+10.0.0.235/31
+## Interface:GigabitEthernet0/0
+200.4.188.1/24
+# Router:mobile
+## Interface:FastEthernet0/0
+10.0.0.163/31
+## Interface:FastEthernet0/1
+10.0.0.179/31
+## Interface:GigabitEthernet0/0
+200.4.246.1/24
+# Router:monksttcorner
+## Interface:FastEthernet0/0
+10.0.0.96/31
+## Interface:FastEthernet0/1
+10.0.0.98/31
+## Interface:GigabitEthernet0/0
+200.5.10.1/24
+# Router:montgomery
+## Interface:FastEthernet0/0
+10.0.0.164/31
+## Interface:FastEthernet0/1
+10.0.0.166/31
+## Interface:FastEthernet1/0
+10.0.0.168/31
+## Interface:FastEthernet1/1
+10.0.0.162/31
+## Interface:GigabitEthernet0/0
+200.4.225.1/24
+# Router:murphy
+## Interface:FastEthernet0/0
+10.0.1.140/31
+## Interface:FastEthernet0/1
+10.0.1.131/31
+## Interface:GigabitEthernet0/0
+200.4.158.1/24
+# Router:myrtlettbeach
+## Interface:FastEthernet0/0
+10.0.0.28/31
+## Interface:FastEthernet0/1
+10.0.0.30/31
+## Interface:FastEthernet1/0
+10.0.0.26/31
+## Interface:GigabitEthernet0/0
+200.4.243.1/24
+# Router:nahunta
+## Interface:FastEthernet0/0
+10.0.0.209/31
+## Interface:FastEthernet0/1
+10.0.1.44/31
+## Interface:FastEthernet1/0
+10.0.1.46/31
+## Interface:GigabitEthernet0/0
+200.5.35.1/24
+# Router:newttbern
+## Interface:FastEthernet0/0
+10.0.1.149/31
+## Interface:FastEthernet0/1
+10.0.1.81/31
+## Interface:GigabitEthernet0/0
+200.5.26.1/24
+# Router:nodeid78
+## Interface:FastEthernet0/0
+10.0.0.19/31
+## Interface:FastEthernet0/1
+10.0.0.61/31
+## Interface:FastEthernet1/0
+10.0.0.219/31
+## Interface:GigabitEthernet0/0
+200.5.32.1/24
+# Router:nodeid79
+## Interface:FastEthernet0/0
+10.0.0.21/31
+## Interface:FastEthernet0/1
+10.0.0.172/31
+## Interface:FastEthernet1/0
+10.0.0.170/31
+## Interface:GigabitEthernet0/0
+200.5.39.1/24
+# Router:nodeid82
+## Interface:FastEthernet0/0
+10.0.0.134/31
+## Interface:FastEthernet0/1
+10.0.0.99/31
+## Interface:FastEthernet1/0
+10.0.0.138/31
+## Interface:FastEthernet1/1
+10.0.0.136/31
+## Interface:GigabitEthernet0/0
+200.5.2.1/24
+# Router:nodeid84
+## Interface:FastEthernet0/0
+10.0.0.156/31
+## Interface:FastEthernet0/1
+10.0.0.154/31
+## Interface:FastEthernet1/0
+10.0.0.152/31
+## Interface:GigabitEthernet0/0
+200.5.22.1/24
+# Router:nodeid85
+## Interface:FastEthernet0/0
+10.0.0.148/31
+## Interface:FastEthernet0/1
+10.0.0.146/31
+## Interface:FastEthernet1/0
+10.0.0.25/31
+## Interface:FastEthernet1/1
+10.0.0.150/31
+## Interface:GigabitEthernet0/0
+200.5.28.1/24
+# Router:nodeid86
+## Interface:FastEthernet0/0
+10.0.0.125/31
+## Interface:FastEthernet0/1
+10.0.0.144/31
+## Interface:FastEthernet1/0
+10.0.0.15/31
+## Interface:FastEthernet1/1
+10.0.0.142/31
+## Interface:FastEthernet2/0
+10.0.0.140/31
+## Interface:GigabitEthernet0/0
+200.5.38.1/24
+# Router:ocala
+## Interface:FastEthernet0/0
+10.0.0.210/31
+## Interface:FastEthernet0/1
+10.0.0.212/31
+## Interface:GigabitEthernet0/0
+200.4.150.1/24
+# Router:omega
+## Interface:FastEthernet0/0
+10.0.0.190/31
+## Interface:FastEthernet0/1
+10.0.0.186/31
+## Interface:FastEthernet1/0
+10.0.0.37/31
+## Interface:FastEthernet1/1
+10.0.0.188/31
+## Interface:GigabitEthernet0/0
+200.4.192.1/24
+# Router:orangeburg
+## Interface:FastEthernet0/0
+10.0.0.147/31
+## Interface:GigabitEthernet0/0
+200.5.15.1/24
+# Router:panamattcity
+## Interface:FastEthernet0/0
+10.0.1.43/31
+## Interface:FastEthernet0/1
+10.0.1.151/31
+## Interface:FastEthernet1/0
+10.0.1.147/31
+## Interface:GigabitEthernet0/0
+200.4.223.1/24
+# Router:peeralbany_0
+## Interface:FastEthernet0/0
+10.0.0.11/31
+## Interface:GigabitEthernet0/0
+200.4.228.1/24
+## Interface:LongReachEthernet0
+128.0.0.1/24
+# Router:peerandrews_1
+## Interface:FastEthernet0/0
+10.0.1.88/31
+## Interface:GigabitEthernet0/0
+200.4.248.1/24
+## Interface:LongReachEthernet0
+128.0.1.1/24
+# Router:peerblairsville_2
+## Interface:FastEthernet0/0
+10.0.1.116/31
+## Interface:GigabitEthernet0/0
+200.4.213.1/24
+## Interface:LongReachEthernet0
+128.0.2.1/24
+# Router:peerblitchton_3
+## Interface:FastEthernet0/0
+10.0.0.16/31
+## Interface:GigabitEthernet0/0
+200.4.250.1/24
+## Interface:LongReachEthernet0
+128.0.3.1/24
+# Router:peerchester_4
+## Interface:FastEthernet0/0
+10.0.1.48/31
+## Interface:GigabitEthernet0/0
+200.4.134.1/24
+## Interface:LongReachEthernet0
+128.0.4.1/24
+# Router:peerchristiansburg_5
+## Interface:FastEthernet0/0
+10.0.1.0/31
+## Interface:GigabitEthernet0/0
+200.4.173.1/24
+## Interface:LongReachEthernet0
+128.0.5.1/24
+# Router:peerdouglas_6
+## Interface:FastEthernet0/0
+10.0.0.242/31
+## Interface:GigabitEthernet0/0
+200.4.239.1/24
+## Interface:LongReachEthernet0
+128.0.6.1/24
+# Router:peerfayetteville_7
+## Interface:FastEthernet0/0
+10.0.1.78/31
+## Interface:GigabitEthernet0/0
+200.4.208.1/24
+## Interface:LongReachEthernet0
+128.0.7.1/24
+# Router:peerjacksonvilleid5_8
+## Interface:FastEthernet0/0
+10.0.0.58/31
+## Interface:GigabitEthernet0/0
+200.4.184.1/24
+## Interface:LongReachEthernet0
+128.0.8.1/24
+# Router:peerkingsport_9
+## Interface:FastEthernet0/0
+10.0.0.22/31
+## Interface:GigabitEthernet0/0
+200.4.247.1/24
+## Interface:LongReachEthernet0
+128.0.9.1/24
+# Router:peerlevelttcross_10
+## Interface:FastEthernet0/0
+10.0.1.86/31
+## Interface:GigabitEthernet0/0
+200.4.211.1/24
+## Interface:LongReachEthernet0
+128.0.10.1/24
+# Router:peernodeid82_11
+## Interface:FastEthernet0/0
+10.0.0.139/31
+## Interface:GigabitEthernet0/0
+200.4.221.1/24
+## Interface:LongReachEthernet0
+128.0.11.1/24
+# Router:peernodeid85_12
+## Interface:FastEthernet0/0
+10.0.0.24/31
+## Interface:GigabitEthernet0/0
+200.4.190.1/24
+## Interface:LongReachEthernet0
+128.0.12.1/24
+# Router:peernodeid86_13
+## Interface:FastEthernet0/0
+10.0.0.14/31
+## Interface:GigabitEthernet0/0
+200.5.42.1/24
+## Interface:LongReachEthernet0
+128.0.13.1/24
+# Router:peernodeid86_14
+## Interface:FastEthernet0/0
+10.0.0.143/31
+## Interface:GigabitEthernet0/0
+200.5.12.1/24
+## Interface:LongReachEthernet0
+128.0.14.1/24
+# Router:peertoccoa_15
+## Interface:FastEthernet0/0
+10.0.0.55/31
+## Interface:GigabitEthernet0/0
+200.4.240.1/24
+## Interface:LongReachEthernet0
+128.0.15.1/24
+# Router:pembroke
+## Interface:FastEthernet0/0
+10.0.0.94/31
+## Interface:FastEthernet0/1
+10.0.0.92/31
+## Interface:GigabitEthernet0/0
+200.4.141.1/24
+# Router:pensacola
+## Interface:FastEthernet0/0
+10.0.0.180/31
+## Interface:FastEthernet0/1
+10.0.0.178/31
+## Interface:GigabitEthernet0/0
+200.4.241.1/24
+# Router:radford
+## Interface:FastEthernet0/0
+10.0.1.26/31
+## Interface:FastEthernet0/1
+10.0.1.24/31
+## Interface:GigabitEthernet0/0
+200.4.191.1/24
+# Router:raleigh
+## Interface:FastEthernet0/0
+10.0.0.201/31
+## Interface:FastEthernet0/1
+10.0.1.107/31
+## Interface:FastEthernet1/0
+10.0.1.119/31
+## Interface:GigabitEthernet0/0
+200.4.129.1/24
+# Router:rentz
+## Interface:FastEthernet0/0
+10.0.0.236/31
+## Interface:FastEthernet0/1
+10.0.0.234/31
+## Interface:GigabitEthernet0/0
+200.4.162.1/24
+# Router:ringgold
+## Interface:FastEthernet0/0
+10.0.1.112/31
+## Interface:FastEthernet0/1
+10.0.1.21/31
+## Interface:GigabitEthernet0/0
+200.4.214.1/24
+# Router:roanoke
+## Interface:FastEthernet0/0
+10.0.0.0/31
+## Interface:FastEthernet0/1
+10.0.0.6/31
+## Interface:FastEthernet1/0
+10.0.0.2/31
+## Interface:FastEthernet1/1
+10.0.0.4/31
+## Interface:GigabitEthernet0/0
+200.4.135.1/24
+# Router:rocktthill
+## Interface:FastEthernet0/0
+10.0.0.175/31
+## Interface:FastEthernet0/1
+10.0.1.38/31
+## Interface:FastEthernet1/0
+10.0.1.36/31
+## Interface:GigabitEthernet0/0
+200.4.174.1/24
+# Router:rockyttmount
+## Interface:FastEthernet0/0
+10.0.1.143/31
+## Interface:FastEthernet0/1
+10.0.0.3/31
+## Interface:GigabitEthernet0/0
+200.4.193.1/24
+# Router:rockyttmountid11
+## Interface:FastEthernet0/0
+10.0.1.105/31
+## Interface:FastEthernet0/1
+10.0.1.59/31
+## Interface:FastEthernet1/0
+10.0.1.118/31
+## Interface:GigabitEthernet0/0
+200.4.226.1/24
+# Router:salisbury
+## Interface:FastEthernet0/0
+10.0.1.115/31
+## Interface:FastEthernet0/1
+10.0.0.111/31
+## Interface:GigabitEthernet0/0
+200.5.40.1/24
+# Router:savannah
+## Interface:FastEthernet0/0
+10.0.0.184/31
+## Interface:FastEthernet0/1
+10.0.0.182/31
+## Interface:FastEthernet1/0
+10.0.0.141/31
+## Interface:FastEthernet1/1
+10.0.0.127/31
+## Interface:GigabitEthernet0/0
+200.4.187.1/24
+# Router:sparta
+## Interface:FastEthernet0/0
+10.0.0.224/31
+## Interface:FastEthernet0/1
+10.0.0.226/31
+## Interface:FastEthernet1/0
+10.0.0.222/31
+## Interface:GigabitEthernet0/0
+200.4.205.1/24
+# Router:spartanburg
+## Interface:FastEthernet0/0
+10.0.0.40/31
+## Interface:FastEthernet0/1
+10.0.0.42/31
+## Interface:FastEthernet1/0
+10.0.0.44/31
+## Interface:GigabitEthernet0/0
+200.4.160.1/24
+# Router:staunton
+## Interface:FastEthernet0/0
+10.0.0.63/31
+## Interface:FastEthernet0/1
+10.0.1.129/31
+## Interface:FastEthernet1/0
+10.0.0.77/31
+## Interface:GigabitEthernet0/0
+200.4.181.1/24
+# Router:stephensttcity
+## Interface:FastEthernet0/0
+10.0.1.84/31
+## Interface:FastEthernet0/1
+10.0.0.171/31
+## Interface:GigabitEthernet0/0
+200.4.196.1/24
+# Router:sumter
+## Interface:FastEthernet0/0
+10.0.0.240/31
+## Interface:FastEthernet0/1
+10.0.0.238/31
+## Interface:FastEthernet1/0
+10.0.0.137/31
+## Interface:GigabitEthernet0/0
+200.4.130.1/24
+# Router:sylva
+## Interface:FastEthernet0/0
+10.0.1.67/31
+## Interface:FastEthernet0/1
+10.0.1.97/31
+## Interface:GigabitEthernet0/0
+200.4.175.1/24
+# Router:tallahassee
+## Interface:FastEthernet0/0
+10.0.0.9/31
+## Interface:FastEthernet0/1
+10.0.1.41/31
+## Interface:FastEthernet1/0
+10.0.0.67/31
+## Interface:FastEthernet1/1
+10.0.0.213/31
+## Interface:GigabitEthernet0/0
+200.4.149.1/24
+# Router:tarttheel
+## Interface:FastEthernet0/0
+10.0.0.158/31
+## Interface:FastEthernet0/1
+10.0.0.160/31
+## Interface:GigabitEthernet0/0
+200.4.142.1/24
+# Router:tifton
+## Interface:FastEthernet0/0
+10.0.1.76/31
+## Interface:FastEthernet0/1
+10.0.0.191/31
+## Interface:GigabitEthernet0/0
+200.4.146.1/24
+# Router:toccoa
+## Interface:FastEthernet0/0
+10.0.0.53/31
+## Interface:FastEthernet0/1
+10.0.0.56/31
+## Interface:FastEthernet1/0
+10.0.0.54/31
+## Interface:GigabitEthernet0/0
+200.4.194.1/24
+# Router:troutville
+## Interface:FastEthernet0/0
+10.0.1.15/31
+## Interface:FastEthernet0/1
+10.0.0.117/31
+## Interface:FastEthernet1/0
+10.0.0.5/31
+## Interface:FastEthernet1/1
+10.0.1.128/31
+## Interface:GigabitEthernet0/0
+200.4.199.1/24
+# Router:vadosta
+## Interface:FastEthernet0/0
+10.0.1.101/31
+## Interface:FastEthernet0/1
+10.0.0.187/31
+## Interface:GigabitEthernet0/0
+200.4.139.1/24
+# Router:walterboro
+## Interface:FastEthernet0/0
+10.0.0.151/31
+## Interface:FastEthernet0/1
+10.0.0.133/31
+## Interface:GigabitEthernet0/0
+200.4.140.1/24
+# Router:warrenton
+## Interface:FastEthernet0/0
+10.0.0.71/31
+## Interface:FastEthernet0/1
+10.0.0.196/31
+## Interface:GigabitEthernet0/0
+200.4.153.1/24
+# Router:warwick
+## Interface:FastEthernet0/0
+10.0.0.38/31
+## Interface:FastEthernet0/1
+10.0.0.36/31
+## Interface:GigabitEthernet0/0
+200.4.169.1/24
+# Router:waycross
+## Interface:FastEthernet0/0
+10.0.1.98/31
+## Interface:FastEthernet0/1
+10.0.1.47/31
+## Interface:GigabitEthernet0/0
+200.5.9.1/24
+# Router:waynesboro
+## Interface:FastEthernet0/0
+10.0.0.35/31
+## Interface:FastEthernet0/1
+10.0.0.65/31
+## Interface:FastEthernet1/0
+10.0.0.74/31
+## Interface:FastEthernet1/1
+10.0.0.76/31
+## Interface:GigabitEthernet0/0
+200.4.172.1/24
+# Router:willacoochee
+## Interface:FastEthernet0/0
+10.0.0.250/31
+## Interface:FastEthernet0/1
+10.0.0.189/31
+## Interface:GigabitEthernet0/0
+200.4.133.1/24
+# Router:wilmington
+## Interface:FastEthernet0/0
+10.0.1.103/31
+## Interface:FastEthernet0/1
+10.0.0.27/31
+## Interface:GigabitEthernet0/0
+200.5.7.1/24
+# Router:winchester
+## Interface:FastEthernet0/0
+10.0.0.220/31
+## Interface:FastEthernet0/1
+10.0.0.218/31
+## Interface:GigabitEthernet0/0
+200.4.251.1/24
+# Router:winterttpark
+## Interface:FastEthernet0/0
+10.0.1.91/31
+## Interface:FastEthernet0/1
+10.0.1.95/31
+## Interface:GigabitEthernet0/0
+200.4.157.1/24
+# Router:wytheville
+## Interface:FastEthernet0/0
+10.0.1.53/31
+## Interface:FastEthernet0/1
+10.0.0.203/31
+## Interface:FastEthernet1/0
+10.0.1.25/31
+## Interface:FastEthernet1/1
+10.0.0.223/31
+## Interface:GigabitEthernet0/0
+200.4.179.1/24
+# Router:yemassee
+## Interface:FastEthernet0/0
+10.0.0.130/31
+## Interface:FastEthernet0/1
+10.0.0.128/31
+## Interface:FastEthernet1/0
+10.0.0.126/31
+## Interface:FastEthernet1/1
+10.0.0.132/31
+## Interface:GigabitEthernet0/0
+200.5.4.1/24
+# Router:youngttharris
+## Interface:FastEthernet0/0
+10.0.0.230/31
+## Interface:FastEthernet0/1
+10.0.0.228/31
+## Interface:FastEthernet1/0
+10.0.0.232/31
+## Interface:GigabitEthernet0/0
+200.4.132.1/24

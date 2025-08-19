@@ -1,0 +1,1 @@
+smt-reachability srcIps=["100.0.31.1"], dstIps=["100.0.4.1"], ingressNodeRegex=dominica,finalNodeRegex=nodeid58

@@ -1,0 +1,4 @@
+init-snapshot /home/simple/Desktop/tiramisu-data/bics/bgp/
+get arcRAG failNodeRegex="/home/simple/Desktop/tiramisu-data/bics/bgp/verify/policy1", notFailNodeRegex="fail"
+get arcRAG failNodeRegex="/home/simple/Desktop/tiramisu-data/bics/bgp/verify/policy2", notFailNodeRegex="fail"
+get arcRAG failNodeRegex="/home/simple/Desktop/tiramisu-data/bics/bgp/verify/policy3", notFailNodeRegex="fail"

@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.139.1"], dstIps=["200.5.12.1"], ingressNodeRegex=vadosta,finalNodeRegex=peernodeid86_14

@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.2.97.1"], dstIps=["200.2.41.1"], ingressNodeRegex=caymanttislands,finalNodeRegex=nodeid1

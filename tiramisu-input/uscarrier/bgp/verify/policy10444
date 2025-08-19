@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.243.1"], dstIps=["200.5.0.1"], ingressNodeRegex=myrtlettbeach,finalNodeRegex=bluefield

@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.5.18.1"], dstIps=["128.0.2.1"], ingressNodeRegex=hickorytttavern,finalNodeRegex=peerblairsville_2

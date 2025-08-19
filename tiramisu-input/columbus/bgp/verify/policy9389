@@ -1,0 +1,1 @@
+smt-reachability srcIps=["128.0.15.1"], dstIps=["128.0.4.1"], ingressNodeRegex=peerstttvincent_15,finalNodeRegex=peernodeid1_2

@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.203.1"], dstIps=["200.4.227.1"], ingressNodeRegex=marion,finalNodeRegex=kingsport

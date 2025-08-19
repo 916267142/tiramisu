@@ -1,0 +1,2279 @@
+initial time : 0.0 ms calculate time : 0.0 ms total time : 0.0 ms Init'ed and set active network
+Uploaded snapshot.
+Parsing now.
+Status: SUCCESS
+PARSING SUMMARY
+STATISTICS
+  Parsing results:
+    Parsed successfully: 33
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation
+Status: FAILURE
+Question: arcRAG actions=[ACCEPTED]
+org.batfish.common.BatfishException: Failed to answer question
+   at org.batfish.main.Batfish.answer(Batfish.java:635)
+   at org.batfish.main.Batfish.run(Batfish.java:3042)
+   at org.batfish.main.Driver.lambda$runBatfish$3(Driver.java:580)
+   at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+   at org.batfish.mulgraph.Rag.taint_propagate(Rag.java:191)
+   at org.batfish.mulgraph.Rag.taint(Rag.java:187)
+   at org.batfish.mulgraph.buildRag.run(buildRag.java:124)
+   at org.batfish.mulgraph.buildTpg.buildGraph(buildTpg.java:123)
+   at org.batfish.mulgraph.buildTpg.run(buildTpg.java:144)
+   at org.batfish.symbolic.smt.PropertyChecker.checkRAG(PropertyChecker.java:962)
+   at org.batfish.main.Batfish.arcRAG(Batfish.java:3681)
+   at org.batfish.question.GraphRAGQuestionPlugin$GraphRAGAnswerer.answer(GraphRAGQuestionPlugin.java:33)
+   at org.batfish.main.Batfish.answer(Batfish.java:632)
+   ... 3 more
+
+Summary: 0 (non-assertion) results; 
+Start generation

@@ -1,0 +1,550 @@
+# Router:antigua
+## Interface:FastEthernet0/0
+100.0.43.1/24
+## Interface:FastEthernet0/1
+10.0.0.44/31
+## Interface:FastEthernet1/0
+10.0.0.42/31
+# Router:bahamas
+## Interface:FastEthernet0/0
+100.0.7.1/24
+## Interface:FastEthernet0/1
+10.0.0.142/31
+## Interface:FastEthernet1/0
+10.0.0.144/31
+# Router:barbados
+## Interface:FastEthernet0/0
+100.0.69.1/24
+## Interface:FastEthernet0/1
+10.0.0.125/31
+# Router:belize
+## Interface:FastEthernet0/0
+100.0.30.1/24
+## Interface:FastEthernet0/1
+10.0.0.154/31
+## Interface:FastEthernet1/0
+10.0.0.135/31
+# Router:bonaire
+## Interface:FastEthernet0/0
+100.0.41.1/24
+## Interface:FastEthernet0/1
+10.0.0.156/31
+# Router:caymanislands
+## Interface:FastEthernet0/0
+100.0.66.1/24
+## Interface:FastEthernet0/1
+10.0.0.64/31
+# Router:columbia
+## Interface:FastEthernet0/0
+100.0.15.1/24
+## Interface:FastEthernet0/1
+10.0.0.2/31
+## Interface:FastEthernet1/0
+10.0.0.0/31
+# Router:costarica
+## Interface:FastEthernet0/0
+100.0.36.1/24
+## Interface:FastEthernet0/1
+10.0.0.161/31
+## Interface:FastEthernet1/0
+10.0.0.117/31
+## Interface:FastEthernet1/1
+10.0.0.141/31
+# Router:curacao
+## Interface:FastEthernet0/0
+100.0.1.1/24
+## Interface:FastEthernet0/1
+10.0.0.157/31
+## Interface:FastEthernet1/0
+10.0.0.83/31
+## Interface:FastEthernet1/1
+10.0.0.73/31
+## Interface:FastEthernet2/0
+10.0.0.162/31
+# Router:dominica
+## Interface:FastEthernet0/0
+100.0.31.1/24
+## Interface:FastEthernet0/1
+10.0.0.24/31
+## Interface:FastEthernet1/0
+10.0.0.26/31
+## Interface:FastEthernet1/1
+10.0.0.22/31
+# Router:dominicanrepublic
+## Interface:FastEthernet0/0
+100.0.33.1/24
+## Interface:FastEthernet0/1
+10.0.0.59/31
+## Interface:FastEthernet1/0
+10.0.0.147/31
+## Interface:FastEthernet1/1
+10.0.0.119/31
+# Router:ecuador
+## Interface:FastEthernet0/0
+100.0.12.1/24
+## Interface:FastEthernet0/1
+10.0.0.85/31
+# Router:elsalvador
+## Interface:FastEthernet0/0
+100.0.17.1/24
+## Interface:FastEthernet0/1
+10.0.0.76/31
+# Router:grenada
+## Interface:FastEthernet0/0
+100.0.45.1/24
+## Interface:FastEthernet0/1
+10.0.0.129/31
+## Interface:FastEthernet1/0
+10.0.0.29/31
+# Router:guadeloupe
+## Interface:FastEthernet0/0
+100.0.47.1/24
+## Interface:FastEthernet0/1
+10.0.0.45/31
+## Interface:FastEthernet1/0
+10.0.0.25/31
+# Router:guatemala
+## Interface:FastEthernet0/0
+100.0.26.1/24
+## Interface:FastEthernet0/1
+10.0.0.18/31
+## Interface:FastEthernet1/0
+10.0.0.20/31
+# Router:guyana
+## Interface:FastEthernet0/0
+100.0.44.1/24
+## Interface:FastEthernet0/1
+10.0.0.95/31
+# Router:honduras
+## Interface:FastEthernet0/0
+100.0.55.1/24
+## Interface:FastEthernet0/1
+10.0.0.169/31
+## Interface:FastEthernet1/0
+10.0.0.167/31
+# Router:jamaica
+## Interface:FastEthernet0/0
+100.0.37.1/24
+## Interface:FastEthernet0/1
+10.0.0.54/31
+## Interface:FastEthernet1/0
+10.0.0.52/31
+# Router:martinique
+## Interface:FastEthernet0/0
+100.0.28.1/24
+## Interface:FastEthernet0/1
+10.0.0.27/31
+## Interface:FastEthernet1/0
+10.0.0.121/31
+# Router:mexico
+## Interface:FastEthernet0/0
+100.0.40.1/24
+## Interface:FastEthernet0/1
+10.0.0.155/31
+## Interface:FastEthernet1/0
+10.0.0.13/31
+# Router:nicaragua
+## Interface:FastEthernet0/0
+100.0.67.1/24
+## Interface:FastEthernet0/1
+10.0.0.160/31
+## Interface:FastEthernet1/0
+10.0.0.158/31
+# Router:nodeid0
+## Interface:FastEthernet0/0
+100.0.27.1/24
+## Interface:FastEthernet0/1
+10.0.0.110/31
+## Interface:FastEthernet1/0
+10.0.0.108/31
+# Router:nodeid1
+## Interface:FastEthernet0/0
+100.0.38.1/24
+## Interface:FastEthernet0/1
+10.0.0.3/31
+## Interface:FastEthernet1/0
+10.0.0.111/31
+## Interface:FastEthernet1/1
+10.0.0.91/31
+## Interface:FastEthernet2/0
+10.0.0.87/31
+## Interface:FastEthernet2/1
+10.0.0.107/31
+# Router:nodeid13
+## Interface:FastEthernet0/0
+100.0.0.1/24
+## Interface:FastEthernet0/1
+10.0.0.6/31
+## Interface:FastEthernet1/0
+10.0.0.4/31
+## Interface:FastEthernet1/1
+10.0.0.8/31
+# Router:nodeid14
+## Interface:FastEthernet0/0
+100.0.64.1/24
+## Interface:FastEthernet0/1
+10.0.0.7/31
+# Router:nodeid15
+## Interface:FastEthernet0/0
+100.0.68.1/24
+## Interface:FastEthernet0/1
+10.0.0.12/31
+## Interface:FastEthernet1/0
+10.0.0.10/31
+# Router:nodeid17
+## Interface:FastEthernet0/0
+100.0.24.1/24
+## Interface:FastEthernet0/1
+10.0.0.16/31
+## Interface:FastEthernet1/0
+10.0.0.14/31
+# Router:nodeid22
+## Interface:FastEthernet0/0
+100.0.3.1/24
+## Interface:FastEthernet0/1
+10.0.0.124/31
+## Interface:FastEthernet1/0
+10.0.0.120/31
+## Interface:FastEthernet1/1
+10.0.0.122/31
+## Interface:FastEthernet2/0
+10.0.0.126/31
+# Router:nodeid24
+## Interface:FastEthernet0/0
+100.0.56.1/24
+## Interface:FastEthernet0/1
+10.0.0.128/31
+## Interface:FastEthernet1/0
+10.0.0.123/31
+# Router:nodeid26
+## Interface:FastEthernet0/0
+100.0.58.1/24
+## Interface:FastEthernet0/1
+10.0.0.11/31
+## Interface:FastEthernet1/0
+10.0.0.103/31
+# Router:nodeid27
+## Interface:FastEthernet0/0
+100.0.62.1/24
+## Interface:FastEthernet0/1
+10.0.0.109/31
+## Interface:FastEthernet1/0
+10.0.0.115/31
+## Interface:FastEthernet1/1
+10.0.0.139/31
+# Router:nodeid28
+## Interface:FastEthernet0/0
+100.0.60.1/24
+## Interface:FastEthernet0/1
+10.0.0.134/31
+## Interface:FastEthernet1/0
+10.0.0.19/31
+## Interface:FastEthernet1/1
+10.0.0.136/31
+# Router:nodeid29
+## Interface:FastEthernet0/0
+100.0.59.1/24
+## Interface:FastEthernet0/1
+10.0.0.5/31
+## Interface:FastEthernet1/0
+10.0.0.130/31
+## Interface:FastEthernet1/1
+10.0.0.132/31
+# Router:nodeid31
+## Interface:FastEthernet0/0
+100.0.9.1/24
+## Interface:FastEthernet0/1
+10.0.0.9/31
+## Interface:FastEthernet1/0
+10.0.0.102/31
+## Interface:FastEthernet1/1
+10.0.0.41/31
+## Interface:FastEthernet2/0
+10.0.0.71/31
+# Router:nodeid32
+## Interface:FastEthernet0/0
+100.0.22.1/24
+## Interface:FastEthernet0/1
+10.0.0.37/31
+## Interface:FastEthernet1/0
+10.0.0.96/31
+# Router:nodeid33
+## Interface:FastEthernet0/0
+100.0.6.1/24
+## Interface:FastEthernet0/1
+10.0.0.98/31
+## Interface:FastEthernet1/0
+10.0.0.69/31
+## Interface:FastEthernet1/1
+10.0.0.100/31
+# Router:nodeid34
+## Interface:FastEthernet0/0
+100.0.20.1/24
+## Interface:FastEthernet0/1
+10.0.0.90/31
+## Interface:FastEthernet1/0
+10.0.0.88/31
+# Router:nodeid35
+## Interface:FastEthernet0/0
+100.0.21.1/24
+## Interface:FastEthernet0/1
+10.0.0.94/31
+## Interface:FastEthernet1/0
+10.0.0.92/31
+## Interface:FastEthernet1/1
+10.0.0.31/31
+# Router:nodeid37
+## Interface:FastEthernet0/0
+100.0.19.1/24
+## Interface:FastEthernet0/1
+10.0.0.84/31
+## Interface:FastEthernet1/0
+10.0.0.86/31
+# Router:nodeid38
+## Interface:FastEthernet0/0
+100.0.16.1/24
+## Interface:FastEthernet0/1
+10.0.0.1/31
+## Interface:FastEthernet1/0
+10.0.0.57/31
+## Interface:FastEthernet1/1
+10.0.0.74/31
+# Router:nodeid39
+## Interface:FastEthernet0/0
+100.0.61.1/24
+## Interface:FastEthernet0/1
+10.0.0.58/31
+## Interface:FastEthernet1/0
+10.0.0.55/31
+# Router:nodeid41
+## Interface:FastEthernet0/0
+100.0.57.1/24
+## Interface:FastEthernet0/1
+10.0.0.53/31
+## Interface:FastEthernet1/0
+10.0.0.56/31
+# Router:nodeid44
+## Interface:FastEthernet0/0
+100.0.54.1/24
+## Interface:FastEthernet0/1
+10.0.0.40/31
+## Interface:FastEthernet1/0
+10.0.0.36/31
+## Interface:FastEthernet1/1
+10.0.0.34/31
+## Interface:FastEthernet2/0
+10.0.0.38/31
+# Router:nodeid45
+## Interface:FastEthernet0/0
+100.0.53.1/24
+## Interface:FastEthernet0/1
+10.0.0.143/31
+## Interface:FastEthernet1/0
+10.0.0.99/31
+## Interface:FastEthernet1/1
+10.0.0.35/31
+## Interface:FastEthernet2/0
+10.0.0.67/31
+# Router:nodeid46
+## Interface:FastEthernet0/0
+100.0.52.1/24
+## Interface:FastEthernet0/1
+10.0.0.65/31
+## Interface:FastEthernet1/0
+10.0.0.131/31
+## Interface:FastEthernet1/1
+10.0.0.113/31
+# Router:nodeid49
+## Interface:FastEthernet0/0
+100.0.63.1/24
+## Interface:FastEthernet0/1
+10.0.0.70/31
+## Interface:FastEthernet1/0
+10.0.0.68/31
+## Interface:FastEthernet1/1
+10.0.0.66/31
+# Router:nodeid50
+## Interface:FastEthernet0/0
+100.0.34.1/24
+## Interface:FastEthernet0/1
+10.0.0.61/31
+## Interface:FastEthernet1/0
+10.0.0.81/31
+## Interface:FastEthernet1/1
+10.0.0.148/31
+# Router:nodeid56
+## Interface:FastEthernet0/0
+100.0.13.1/24
+## Interface:FastEthernet0/1
+10.0.0.146/31
+## Interface:FastEthernet1/0
+10.0.0.79/31
+# Router:nodeid58
+## Interface:FastEthernet0/0
+100.0.4.1/24
+## Interface:FastEthernet0/1
+10.0.0.17/31
+## Interface:FastEthernet1/0
+10.0.0.150/31
+# Router:nodeid59
+## Interface:FastEthernet0/0
+100.0.23.1/24
+## Interface:FastEthernet0/1
+10.0.0.145/31
+## Interface:FastEthernet1/0
+10.0.0.97/31
+## Interface:FastEthernet1/1
+10.0.0.39/31
+## Interface:FastEthernet2/0
+10.0.0.151/31
+# Router:nodeid60
+## Interface:FastEthernet0/0
+100.0.48.1/24
+## Interface:FastEthernet0/1
+10.0.0.168/31
+## Interface:FastEthernet1/0
+10.0.0.165/31
+# Router:nodeid62
+## Interface:FastEthernet0/0
+100.0.50.1/24
+## Interface:FastEthernet0/1
+10.0.0.153/31
+# Router:nodeid63
+## Interface:FastEthernet0/0
+100.0.49.1/24
+## Interface:FastEthernet0/1
+10.0.0.77/31
+## Interface:FastEthernet1/0
+10.0.0.21/31
+## Interface:FastEthernet1/1
+10.0.0.152/31
+# Router:nodeid67
+## Interface:FastEthernet0/0
+100.0.46.1/24
+## Interface:FastEthernet0/1
+10.0.0.166/31
+## Interface:FastEthernet1/0
+10.0.0.137/31
+## Interface:FastEthernet1/1
+10.0.0.133/31
+# Router:nodeid69
+## Interface:FastEthernet0/0
+100.0.42.1/24
+## Interface:FastEthernet0/1
+10.0.0.159/31
+## Interface:FastEthernet1/0
+10.0.0.164/31
+# Router:nodeid7
+## Interface:FastEthernet0/0
+100.0.25.1/24
+## Interface:FastEthernet0/1
+10.0.0.106/31
+## Interface:FastEthernet1/0
+10.0.0.104/31
+# Router:nodeid8
+## Interface:FastEthernet0/0
+100.0.65.1/24
+## Interface:FastEthernet0/1
+10.0.0.60/31
+## Interface:FastEthernet1/0
+10.0.0.62/31
+## Interface:FastEthernet1/1
+10.0.0.51/31
+# Router:nodeid9
+## Interface:FastEthernet0/0
+100.0.32.1/24
+## Interface:FastEthernet0/1
+10.0.0.116/31
+## Interface:FastEthernet1/0
+10.0.0.114/31
+## Interface:FastEthernet1/1
+10.0.0.112/31
+# Router:panama
+## Interface:FastEthernet0/0
+100.0.5.1/24
+## Interface:FastEthernet0/1
+10.0.0.140/31
+## Interface:FastEthernet1/0
+10.0.0.138/31
+## Interface:FastEthernet1/1
+10.0.0.89/31
+# Router:puertorico
+## Interface:FastEthernet0/0
+100.0.18.1/24
+## Interface:FastEthernet0/1
+10.0.0.82/31
+## Interface:FastEthernet1/0
+10.0.0.80/31
+## Interface:FastEthernet1/1
+10.0.0.78/31
+## Interface:FastEthernet2/0
+10.0.0.47/31
+# Router:stcroix
+## Interface:FastEthernet0/0
+100.0.11.1/24
+## Interface:FastEthernet0/1
+10.0.0.127/31
+## Interface:FastEthernet1/0
+10.0.0.149/31
+## Interface:FastEthernet1/1
+10.0.0.63/31
+# Router:stkittsnevis
+## Interface:FastEthernet0/0
+100.0.29.1/24
+## Interface:FastEthernet0/1
+10.0.0.43/31
+## Interface:FastEthernet1/0
+10.0.0.23/31
+## Interface:FastEthernet1/1
+10.0.0.49/31
+# Router:stmartin
+## Interface:FastEthernet0/0
+100.0.51.1/24
+## Interface:FastEthernet0/1
+10.0.0.50/31
+## Interface:FastEthernet1/0
+10.0.0.46/31
+## Interface:FastEthernet1/1
+10.0.0.48/31
+# Router:stvincent
+## Interface:FastEthernet0/0
+100.0.14.1/24
+## Interface:FastEthernet0/1
+10.0.0.72/31
+## Interface:FastEthernet1/0
+10.0.0.33/31
+# Router:suriname
+## Interface:FastEthernet0/0
+100.0.8.1/24
+## Interface:FastEthernet0/1
+10.0.0.93/31
+# Router:trinidadandtobago
+## Interface:FastEthernet0/0
+100.0.35.1/24
+## Interface:FastEthernet0/1
+10.0.0.28/31
+## Interface:FastEthernet1/0
+10.0.0.30/31
+## Interface:FastEthernet1/1
+10.0.0.32/31
+# Router:turksandcaicos
+## Interface:FastEthernet0/0
+100.0.39.1/24
+## Interface:FastEthernet0/1
+10.0.0.118/31
+## Interface:FastEthernet1/0
+10.0.0.15/31
+# Router:usa
+## Interface:FastEthernet0/0
+100.0.2.1/24
+## Interface:FastEthernet0/1
+10.0.0.101/31
+## Interface:FastEthernet1/0
+10.0.0.75/31
+# Router:venezuela
+## Interface:FastEthernet0/0
+100.0.10.1/24
+## Interface:FastEthernet0/1
+10.0.0.163/31
+## Interface:FastEthernet1/0
+10.0.0.105/31

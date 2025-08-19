@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.236.1"], dstIps=["128.0.10.1"], ingressNodeRegex=johnsonttcity,finalNodeRegex=peerlevelttcross_10

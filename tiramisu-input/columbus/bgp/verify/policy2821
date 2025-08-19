@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.2.56.1"], dstIps=["200.2.35.1"], ingressNodeRegex=antigua,finalNodeRegex=peerpanama_12

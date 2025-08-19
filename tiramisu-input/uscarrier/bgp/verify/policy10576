@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.5.24.1"], dstIps=["200.5.31.1"], ingressNodeRegex=danville,finalNodeRegex=blountstown

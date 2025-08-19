@@ -1,0 +1,1 @@
+smt-reachability srcIps=["200.4.143.1"], dstIps=["200.5.19.1"], ingressNodeRegex=crestview,finalNodeRegex=augusta

@@ -1,0 +1,7 @@
+#!/bin/bash
+java -jar /home/simple/Desktop/tiramisu/projects/allinone/target/allinone-bundle-0.36.0.jar -cmdfile /home/simple/Desktop/tiramisu-data/bics/bgp/verify/verify -logfile /home/simple/Desktop/tiramisu-data/bics/bgp/verify/log
+#java -jar /home/simple/Desktop/tiramisu/projects/allinone/target/allinone-bundle-0.36.0.jar -cmdfile /home/simple/Desktop/tiramisu-data/bics/ospf/verify/verify -logfile /home/simple/Desktop/tiramisu-data/bics/ospf/verify/log
+#java -jar /home/simple/Desktop/tiramisu/projects/allinone/target/allinone-bundle-0.36.0.jar -cmdfile /home/simple/Desktop/tiramisu-data/uscarrier/bgp/verify/verify -logfile /home/simple/Desktop/tiramisu-data/uscarrier/bgp/verify/log
+#java -jar /home/simple/Desktop/tiramisu/projects/allinone/target/allinone-bundle-0.36.0.jar -cmdfile /home/simple/Desktop/tiramisu-data/uscarrier/ospf/verify/verify -logfile /home/simple/Desktop/tiramisu-data/uscarrier/ospf/verify/log
+#java -jar /home/simple/Desktop/tiramisu/projects/allinone/target/allinone-bundle-0.36.0.jar -cmdfile /home/simple/Desktop/tiramisu-data/columbus/bgp/verify/verify -logfile /home/simple/Desktop/tiramisu-data/columbus/bgp/verify/log
+#java -jar /home/simple/Desktop/tiramisu/projects/allinone/target/allinone-bundle-0.36.0.jar -cmdfile /home/simple/Desktop/tiramisu-data/columbus/ospf/verify/verify -logfile /home/simple/Desktop/tiramisu-data/columbus/ospf/verify/log
