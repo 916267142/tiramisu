@@ -27,6 +27,8 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 import javax.annotation.Nullable;
+
+import org.ants.VeriBoost;
 import org.batfish.common.BatfishException;
 import org.batfish.common.bdd.BDDPacket;
 import org.batfish.common.plugin.IBatfish;
@@ -152,11 +154,14 @@ public class PropertyChecker {
     }
   }
 
-
   private BDDPacket _bddPacket;
   private IBatfish _batfish;
   private final Settings _settings;
   private final Object _lock;
+
+  // CHARLIE_ADD_BEGIN
+  static public VeriBoost veriBoost;
+  // CHARLIE_ADD_END
 
   public PropertyChecker(BDDPacket bddPacket, IBatfish batfish, Settings settings) {
     this._bddPacket = bddPacket;
@@ -963,6 +968,30 @@ public class PropertyChecker {
       long endTime = System.nanoTime();      
       long graphGenerationTime = endTime - startTime;
 
+      // CHARLIE_ADD_BEGIN
+      VeriBoost.isPrune = false;
+      if(VeriBoost.isPrune) {
+        System.out.println("Pruning is on");
+        PropertyChecker.veriBoost = new VeriBoost();
+        makeGraph.getTpg().getPhysicalMap().keySet().forEach(k -> {
+            int idx = k.lastIndexOf("_");
+            if (idx > 0 && idx < k.length() - 1) {
+                String left = k.substring(0, idx).toLowerCase();
+                String right = k.substring(idx + 1).toLowerCase();
+                PropertyChecker.veriBoost.addLinks(left, right);
+            } else {
+                System.err.println("Invalid key format: " + k);
+            }
+        });
+        PropertyChecker.veriBoost.buildEdge();
+        PropertyChecker.veriBoost.buildComponent();
+        PropertyChecker.veriBoost.getMinesweeperConstraint(
+          q.getIngressNodeRegex(), q.getFinalNodeRegex());
+      } else {
+          System.out.println("Pruning is off");
+      }
+      // CHARLIE_ADD_END
+      
       System.out.println("End generation");
 
       System.out.println("Start Verification");

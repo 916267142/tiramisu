@@ -148,6 +148,11 @@
 
   <dependencies>
     <dependency>
+      <groupId>org.ants</groupId> 
+      <artifactId>veriboost-core</artifactId>
+    </dependency>
+
+    <dependency>
       <groupId>org.batfish</groupId>
       <artifactId>batfish-common-protocol</artifactId>
     </dependency>

@@ -49,3 +49,9 @@ tiramisu-data.tar.gz
 .projects/
 *log-*
 *.log
+*.class
+*.g4
+BUILD
+bin/
+log*
+log

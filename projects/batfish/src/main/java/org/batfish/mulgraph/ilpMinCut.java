@@ -6,6 +6,11 @@ import java.util.List;
 import java.util.Map;
 import java.util.HashSet;
 import java.util.Set;
+
+import org.ants.VeriBoost;
+import org.ants.VeriBoostUtil;
+import org.batfish.symbolic.smt.PropertyChecker;
+
 import java.util.ArrayList;
 
 public class ilpMinCut {
@@ -64,7 +69,23 @@ public class ilpMinCut {
         String skey = entry.getKey();
         Set<TpgEdge> valueEdgeSet = entry.getValue();
         GRBVar failKey = model.addVar(0.0, 1.0, 0.0, GRB.BINARY, ("fail"+skey));
-        allFail.add(failKey);
+        // CHARLIE_ADD_BEGIN
+        if(VeriBoost.isPrune) {
+          int idx = skey.lastIndexOf("_");
+          if (idx > 0 && idx < skey.length() - 1) {
+              VeriBoostUtil.Interface from = new VeriBoostUtil.Interface(skey.substring(0, idx).toLowerCase());
+              VeriBoostUtil.Interface to = new VeriBoostUtil.Interface(skey.substring(idx + 1).toLowerCase());
+              VeriBoostUtil.Link link = new VeriBoostUtil.Link(from, to);
+              if(PropertyChecker.veriBoost.isLinkFree(link)) {
+                allFail.add(failKey);
+              }
+          } else {
+              System.err.println("Invalid skey format: " + skey);
+          }
+        } else {
+          allFail.add(failKey);
+        }
+        // CHARLIE_ADD_END
         for (TpgEdge tpgEdge : valueEdgeSet) {
           fail.put(tpgEdge, failKey);
         }
