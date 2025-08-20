@@ -973,6 +973,7 @@ public class PropertyChecker {
       if(VeriBoost.isPrune) {
         System.out.println("Pruning is on");
         PropertyChecker.veriBoost = new VeriBoost();
+        veriBoost.reinitialize();
         makeGraph.getTpg().getPhysicalMap().keySet().forEach(k -> {
             int idx = k.lastIndexOf("_");
             if (idx > 0 && idx < k.length() - 1) {
@@ -986,7 +987,7 @@ public class PropertyChecker {
         PropertyChecker.veriBoost.buildEdge();
         PropertyChecker.veriBoost.buildComponent();
         PropertyChecker.veriBoost.getMinesweeperConstraint(
-          q.getIngressNodeRegex(), q.getFinalNodeRegex());
+          makeGraph.getTpg().getSrc().getDevice(), makeGraph.getTpg().getDst().getDevice());
       } else {
           System.out.println("Pruning is off");
       }

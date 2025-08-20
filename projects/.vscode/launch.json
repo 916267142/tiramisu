@@ -10,7 +10,7 @@
             "request": "launch",
             "mainClass": "org.batfish.allinone.Main",
             "projectName": "allinone",
-            "args": "-cmdfile /home/simple/workspace/tiramisu/tiramisu-input/bics/bgp/verify/verify -logfile /home/simple/workspace/tiramisu/tiramisu-input/bics/bgp/verify/log"
+            "args": "-cmdfile /home/simple/workspace/tiramisu/tiramisu-input/uscarrier/bgp/verify/verify -logfile /home/simple/workspace/tiramisu/tiramisu-input/uscarrier/bgp/verify/log"
         },
         {
             "type": "java",

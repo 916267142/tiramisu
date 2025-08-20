@@ -72,20 +72,19 @@ public class ilpMinCut {
         // CHARLIE_ADD_BEGIN
         if(VeriBoost.isPrune) {
           int idx = skey.lastIndexOf("_");
-          if (idx > 0 && idx < skey.length() - 1) {
-              VeriBoostUtil.Interface from = new VeriBoostUtil.Interface(skey.substring(0, idx).toLowerCase());
-              VeriBoostUtil.Interface to = new VeriBoostUtil.Interface(skey.substring(idx + 1).toLowerCase());
-              VeriBoostUtil.Link link = new VeriBoostUtil.Link(from, to);
-              if(PropertyChecker.veriBoost.isLinkFree(link)) {
-                allFail.add(failKey);
-              }
-          } else {
-              System.err.println("Invalid skey format: " + skey);
+          VeriBoostUtil.Interface from = new VeriBoostUtil.Interface(skey.substring(0, idx).toLowerCase(), "none");
+          VeriBoostUtil.Interface to = new VeriBoostUtil.Interface(skey.substring(idx + 1).toLowerCase(), "none");
+          VeriBoostUtil.Link link   = new VeriBoostUtil.Link(from, to);
+          VeriBoostUtil.Link link2  = new VeriBoostUtil.Link(to, from);
+
+          if(PropertyChecker.veriBoost.isLinkFree(link) || PropertyChecker.veriBoost.isLinkUp(link2)) {
+            // System.out.println("Link " + skey + " is free");
+            allFail.add(failKey);
           }
         } else {
           allFail.add(failKey);
         }
-        // CHARLIE_ADD_END
+        // // CHARLIE_ADD_END
         for (TpgEdge tpgEdge : valueEdgeSet) {
           fail.put(tpgEdge, failKey);
         }
@@ -109,6 +108,16 @@ public class ilpMinCut {
         // flow = reach - fail
         // reach = summation(flow)
         for (TpgNode from : g.inboundNeighbors(v)) {
+          // // CHARLIE_ADD_BEGIN
+          // if(VeriBoost.isPrune) {
+          //   VeriBoostUtil.Interface fromInterface = new VeriBoostUtil.Interface(from.getDevice().toLowerCase());
+          //   VeriBoostUtil.Interface toInterface = new VeriBoostUtil.Interface(v.getDevice().toLowerCase());
+          //   VeriBoostUtil.Link link = new VeriBoostUtil.Link(fromInterface, toInterface);
+          //   if (PropertyChecker.veriBoost.isLinkDown(link)) {
+          //     continue; // Skip if the link is down
+          //   }
+          // }
+          // // CHARLIE_ADD_END
           GRBVar flowcons = flow.get(from).get(v);
           TpgEdge thisEdge = g.getEdge(from, v);
           temp1 = new GRBLinExpr();
@@ -129,7 +138,6 @@ public class ilpMinCut {
 
         model.addConstr(reachable.get(v), GRB.LESS_EQUAL, inflow, "flowcons"+constraint);
         constraint = constraint + 1;
-
       }
       
 
@@ -138,6 +146,35 @@ public class ilpMinCut {
       for (GRBVar v : allFail) {
         expr.addTerm(1.0, v);
       }
+      // CHARLIE_ADD_BEGIN
+      if (VeriBoost.isPrune) {
+          for (Map.Entry<TpgEdge, GRBVar> entry : fail.entrySet()) {
+              TpgEdge edge = entry.getKey();
+              GRBVar var = entry.getValue();
+              
+              VeriBoostUtil.Interface from = new VeriBoostUtil.Interface(edge.getSrc().getDevice().toLowerCase());
+              VeriBoostUtil.Interface to = new VeriBoostUtil.Interface(edge.getDst().getDevice().toLowerCase());
+              VeriBoostUtil.Link link = new VeriBoostUtil.Link(from, to);
+              
+              if (PropertyChecker.veriBoost.isLinkUp(link)) {
+                  try {
+                      var.set(GRB.DoubleAttr.LB, 0.0);
+                      var.set(GRB.DoubleAttr.UB, 0.0);
+                  } catch (GRBException e) {
+                      System.err.println("Error setting link to up (0): " + e.getMessage());
+                  }
+              } else if (PropertyChecker.veriBoost.isLinkDown(link)) {
+                  try {
+                      var.set(GRB.DoubleAttr.LB, 1.0);
+                      var.set(GRB.DoubleAttr.UB, 1.0);
+                  } catch (GRBException e) {
+                      System.err.println("Error setting link to down (1): " + e.getMessage());
+                  }
+              }
+          }
+      }
+      model.update();
+      // CHARLIE_ADD_END
       model.setObjective(expr, GRB.MINIMIZE);
 
     } catch (GRBException e) {

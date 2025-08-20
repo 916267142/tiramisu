@@ -136,8 +136,19 @@ public class VerificationTpg implements Runnable {
 	public double fail() {
         removeUnreach(src, dst);
 		ilpMinCut pl = new ilpMinCut(tpg);
+		
+		long startFormulateTime = System.currentTimeMillis();
 		pl.formulate(src, dst);
-        pl.run();
+		long endFormulateTime = System.currentTimeMillis();
+		double formulateTime = endFormulateTime - startFormulateTime;
+		System.out.println("ILP Formulation Time: " + formulateTime + " ms");
+
+		long startTime = System.currentTimeMillis();
+		pl.run();
+		long endTime = System.currentTimeMillis();
+		double executionTime = endTime - startTime;
+		System.out.println("ILP Execution Time: " + executionTime + " ms");
+
 		System.out.println("Failures to disconnect the graph " + pl.returnObj());
         //TPVP_BF tpvp = new TPVP_BF(tpg);
         //tpvp.shortestPath(src, dst);
